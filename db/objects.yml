@@ -1,0 +1,30 @@
+# Object data
+
+objects:
+  "Kappa Her":
+    constellation: Her
+    type: double star
+
+  "Zeta UMa":
+    constellation: UMa
+    type: double star
+    aka:
+      - Mizar
+
+  "80 UMa":
+    constellation: UMa
+    type: star
+    aka:
+      - Alcor
+
+  "M31":
+    constellation: And
+    type: galaxy
+  
+  "M32":
+    constellation: And
+    type: galaxy
+
+  "Gamma And":
+    constellation: And
+    type: double star

@@ -1,0 +1,40 @@
+# Observation data
+
+observations:
+  - name: [Zeta UMa, 80 UMa]
+    date: "2025-07-12"
+    nelm: 40
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: zeta-uma-80-uma-20250715.jpg
+    text: ""
+
+  - name: Kappa Her
+    date: "2025-07-14"
+    nelm: 40
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: kappa-her-20250715.jpg
+    text: ""
+
+  - name: [M31, M32]
+    date: "2025-07-19"
+    loc: Balatonudvari, HU
+    nelm: 40
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: m31-m32-20250722.jpg
+    text: ""
+
+  - name: Gamma And
+    date: "2025-07-19"
+    loc: Balatonudvari, HU
+    nelm: 40
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: gamma-and-20250722.jpg
+    text: ""

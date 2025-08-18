@@ -2,5 +2,10 @@
 __pycache__
 .vscode
 
+_site
+_layout
+.jekyll-cache
+Gemfile*
+
 # folder of original images
 orig

@@ -1,25 +1,26 @@
 # List of sketches
 
-- full: zeta-uma-80-uma-kappa-her-20250715.jpg
-  scan: 20250715_1.jpg
-  _cmd: "41x160"
-  sub:
-    - zeta-uma-80-uma-20250715.jpg
-    - kappa-her-20250715.jpg
-  _cmd:
-    - ./script/proc_image.py copyright ./orig/scan/20250715014417_002.jpg -o scan/20250715_1.jpg
-    - ./script/proc_image.py split ./orig/inv/1000001116.jpg -x 41 -y 160 -o1 "Zeta UMa 80 UMa" -o2 "Kappa Her" -d img/
+sketches:
+  - full: zeta-uma-80-uma-kappa-her-20250715.jpg
+    scan: 20250715_1.jpg
+    _cmd: "41x160"
+    sub:
+      - zeta-uma-80-uma-20250715.jpg
+      - kappa-her-20250715.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250715014417_002.jpg -o scan/20250715_1.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001116.jpg -x 41 -y 160 -o1 "Zeta UMa 80 UMa" -o2 "Kappa Her" -d img/
 
-- full: m31-m32-gamma-and-20250722.jpg
-  scan: 20250722_2.jpg
-  sub:
-    - m31-m32-20250722.jpg
-    - gamma-and-20250722.jpg
-  notes: |
-    While the location has nice Bortle 4.5 sky, I've created
-    this sketch surrounded by street lights. These lights reduced
-    NELM radically.
-  _cmd:
-    - ./script/proc_image.py copyright ./orig/scan/20250722004132_002.jpg -o scan/20250722_2.jpg
-    - ./script/proc_image.py split ./orig/inv/1000001135.jpg -x 20 -y 165 -o1 "M31 M32" -o2 "Gamma And" -d img/
+  - full: m31-m32-gamma-and-20250722.jpg
+    scan: 20250722_2.jpg
+    sub:
+      - m31-m32-20250722.jpg
+      - gamma-and-20250722.jpg
+    notes: |
+      While the location has nice Bortle 4.5 sky, I've created
+      this sketch surrounded by street lights. These lights reduced
+      NELM radically.
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250722004132_002.jpg -o scan/20250722_2.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001135.jpg -x 20 -y 165 -o1 "M31 M32" -o2 "Gamma And" -d img/
 

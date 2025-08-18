@@ -21,6 +21,7 @@
 - 2025-07-12: [Zeta Ursae Majoris, 80 Ursae Majoris](obs/zeta-uma-80-uma-2025-07-12.md)
 - 2025-06-27: [V Aquilae](obs/v-aql-2025-06-27.md)
 - 2025-06-27: [WZ Cassiopeiae](obs/wz-cas-2025-06-27.md)
+
 ---
 
 ### [All observations](pages/log.md)

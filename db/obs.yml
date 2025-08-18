@@ -1,6 +1,24 @@
 # Observation data
 
 observations:
+  - name: V Aql
+    date: "2025-06-27"
+    nelm: 45
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: v-aql-20250628.jpg
+    text: ""
+
+  - name: WZ Cas
+    date: "2025-06-27"
+    nelm: 45
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: wz-cas-20250628.jpg
+    text: ""
+
   - name: [Zeta UMa, 80 UMa]
     date: "2025-07-12"
     nelm: 40
@@ -22,7 +40,7 @@ observations:
   - name: [M31, M32]
     date: "2025-07-19"
     loc: Balatonudvari, HU
-    nelm: 40
+    nelm: 70
     ap: 127
     mag: 47
     fov: 1.1
@@ -32,9 +50,29 @@ observations:
   - name: Gamma And
     date: "2025-07-19"
     loc: Balatonudvari, HU
-    nelm: 40
+    nelm: 70
     ap: 127
     mag: 100
     fov: 0.68
     img: gamma-and-20250722.jpg
+    text: ""
+  
+  - name: M71
+    date: "2025-07-19"
+    loc: Balatonudvari, HU
+    nelm: 70
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: m71-20250722.jpg
+    text: ""
+
+  - name: Beta Cyg
+    date: "2025-07-19"
+    loc: Balatonudvari, HU
+    nelm: 70
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: beta-cyg-20250722.jpg
     text: ""

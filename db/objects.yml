@@ -28,3 +28,24 @@ objects:
   "Gamma And":
     constellation: And
     type: double star
+
+  "V Aql":
+    constellation: Aql
+    type: carbon star
+  
+  "WZ Cas":
+    constellation: Cas
+    type: carbon star
+
+  "M71":
+    constellation: Sge
+    type: globular cluster
+    aka:
+      - NGC6838
+      - Angelfish Cluster
+
+  "Beta Cyg":
+    constellation: Cas
+    type: double star
+    aka:
+      - Albiero

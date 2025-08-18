@@ -1,6 +1,6 @@
 # All observations
 
-[Main page](../pages/index.md) | [Index](../pages/obj_index.md)
+[Main page](../index.md) | [Index](../pages/obj_index.md)
 
 - 2025-07-19: [M31, M32](../obs/m31-m32-2025-07-19.md)
 - 2025-07-19: [Gamma Andromedae](../obs/gamma-and-2025-07-19.md)

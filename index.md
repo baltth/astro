@@ -1,4 +1,3 @@
-# Astro sketches
 
 > This site contains some astronomy sketches, created just for fun.
 > More info coming soon.

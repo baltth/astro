@@ -49,3 +49,28 @@ objects:
     type: double star
     aka:
       - Albiero
+
+  "M2":
+    constellation: Aqr
+    type: globular cluster
+
+  "NGC7009":  
+    constellation: Aqr
+    type: planetary nebula
+    aka:
+      - Caldwell 55
+      - Saturn Nebula
+
+  "M15":
+    constellation: Peg
+    type: globular cluster
+
+  "Gamma Del":
+    constellation: Del
+    type: double star
+
+  "M11":
+    constellation: Sct
+    type: open cluster
+    aka:
+      - Wild Duck Cluster

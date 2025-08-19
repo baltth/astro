@@ -1,6 +1,15 @@
 # List of sketches
 
 sketches:
+  - full: m11-m11-2nd-20250628.jpg
+    scan: 20250628_1.jpg
+    sub:
+      - m11-20250628.jpg
+      - m11-2nd-20250628.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250628114229_003.jpg -o scan/20250628_1.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001092.jpg -x 36 -y 185 -o1 M11 -o2 M11 -d img/
+
   - full: v-aql-wz-cas-20250628.jpg
     scan: 20250628_2.jpg
     sub:
@@ -9,7 +18,25 @@ sketches:
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250628114229_004.jpg -o scan/20250628_2.jpg
       - ./script/proc_image.py split ./orig/inv/1000001093.jpg -x 100 -y 210 -s '0.99' -o1 "V Aql" -o2 "WZ Cas" -d img/
-  
+
+  - full: m2-ngc7009-20250701.jpg
+    scan: 20250701_1.jpg
+    sub:
+      - m2-20250701.jpg
+      - ngc7009-20250701.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250701092405_001.jpg -o scan/20250701_1.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001101.jpg -x 86 -y 155 -s 0.99 -o1 M2 -o2 NGC7009 -d img/
+
+  - full: m15-gamma-del-20250701.jpg
+    scan: 20250701_2.jpg
+    sub:
+      - m15-20250701.jpg
+      - gamma-del-20250701.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250701092405_002.jpg -o scan/20250701_2.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001102.jpg -x 40 -y 170 -s 0.99 -o1 M15 -o2 Gamma Del -d img/
+
   - full: zeta-uma-80-uma-kappa-her-20250715.jpg
     scan: 20250715_1.jpg
     _cmd: "41x160"

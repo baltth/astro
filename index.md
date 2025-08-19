@@ -18,8 +18,10 @@
 - 2025-07-19: [Beta Cygni](obs/beta-cyg-2025-07-19.md)
 - 2025-07-14: [Kappa Herculis](obs/kappa-her-2025-07-14.md)
 - 2025-07-12: [Zeta Ursae Majoris, 80 Ursae Majoris](obs/zeta-uma-80-uma-2025-07-12.md)
-- 2025-06-27: [V Aquilae](obs/v-aql-2025-06-27.md)
-- 2025-06-27: [WZ Cassiopeiae](obs/wz-cas-2025-06-27.md)
+- 2025-06-30: [M2](obs/m2-2025-06-30.md)
+- 2025-06-30: [NGC7009](obs/ngc7009-2025-06-30.md)
+- 2025-06-30: [M15](obs/m15-2025-06-30.md)
+- 2025-06-30: [Gamma Delphini](obs/gamma-del-2025-06-30.md)
 
 ---
 

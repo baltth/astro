@@ -1,6 +1,21 @@
 # Observation data
 
 observations:
+  - name: M11
+    date: "2025-06-27"
+    nelm: 45
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: m11-20250628.jpg
+    text: |
+      A favorite since the first view.
+
+      This was the first sketch using the 'double circle' format
+      on a B5 notepad. It looked so fascinating that I've done
+      two sketches with different magnification, check
+      the link below.
+
   - name: V Aql
     date: "2025-06-27"
     nelm: 45
@@ -8,7 +23,9 @@ observations:
     mag: 47
     fov: 1.1
     img: v-aql-20250628.jpg
-    text: ""
+    text: |
+      Oops, it's a typo, 'V Aqu' is written there. Apart from this,
+      I really like this star and its neighborhood.
 
   - name: WZ Cas
     date: "2025-06-27"
@@ -19,6 +36,46 @@ observations:
     img: wz-cas-20250628.jpg
     text: ""
 
+  - name: M2
+    date: "2025-06-30"
+    nelm: 45
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: m2-20250701.jpg
+    text: ""
+
+  - name: NGC7009
+    date: "2025-06-30"
+    nelm: 45
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: ngc7009-20250701.jpg
+    text: |
+      Saturn Nebula looked extremely well on this night.
+      The color and intensity of the sketch is exaggerated.
+      Maybe this shows my impression of this beautiful nebula,
+      or simply caused by my lack of experience.
+
+  - name: M15
+    date: "2025-06-30"
+    nelm: 45
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: m15-20250701.jpg
+    text: ""
+
+  - name: Gamma Del
+    date: "2025-06-30"
+    nelm: 45
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: gamma-del-20250701.jpg
+    text: ""
+
   - name: [Zeta UMa, 80 UMa]
     date: "2025-07-12"
     nelm: 40
@@ -26,7 +83,11 @@ observations:
     mag: 47
     fov: 1.1
     img: zeta-uma-80-uma-20250715.jpg
-    text: ""
+    text: |
+      Dedicated to my wife.
+
+      My ζ 'zeta' looks like a ξ 'xi' here, sorry for that.
+      I'm sure I'll make another sketch of this trio some day.
 
   - name: Kappa Her
     date: "2025-07-14"
@@ -56,7 +117,7 @@ observations:
     fov: 0.68
     img: gamma-and-20250722.jpg
     text: ""
-  
+
   - name: M71
     date: "2025-07-19"
     loc: Balatonudvari, HU

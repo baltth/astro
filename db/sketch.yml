@@ -72,3 +72,30 @@ sketches:
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250722004132_001.jpg -o scan/20250722_1.jpg
       - ./script/proc_image.py split ./orig/inv/1000001134.jpg -x 30 -y 170 -o1 "M71" -o2 "Beta Cyg" -d img
+
+  - full: m2-epsilon-equ-20250729.jpg
+    scan: 20250729.jpg
+    sub:
+      - m2-20250729.jpg
+      - epsilon-equ-20250729.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250729012225_001.jpg -o scan/20250729.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001166.jpg -x 50 -y 185 -o1 M2 -o2 Epsilon Equ -d img/
+
+  - full: m39-m29-20250731.jpg
+    scan: 20250731.jpg
+    sub:
+      - m39-20250731.jpg
+      - m29-20250731.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250731005901_001.jpg -o scan/20250731.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001170.jpg -x 45 -y 200 -o1 M39 -o2 M29 -d img/
+
+  - full: 1-peg-stf-2841-20250803.jpg
+    scan: 20250803.jpg
+    sub:
+      - 1-peg-20250803.jpg
+      - stf-2841-20250803.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250803101054_001.jpg -o scan/20250803.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001182.jpg -x 65 -y 160 -o1 1 Peg -o2 STF 2841 -d img/

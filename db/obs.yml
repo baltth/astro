@@ -137,3 +137,58 @@ observations:
     fov: 0.68
     img: beta-cyg-20250722.jpg
     text: ""
+
+  - name: M2
+    date: "2025-07-28"
+    nelm: 40
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: m2-20250729.jpg
+    text: |
+      This is my second sketch of M2, definitely better than the first one.
+
+  - name: Epsilon Equ
+    date: "2025-07-28"
+    nelm: 40
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: epsilon-equ-20250729.jpg
+    text: ""
+
+  - name: M39
+    date: "2025-07-30"
+    nelm: 45
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: m39-20250731.jpg
+    text: ""
+
+  - name: M29
+    date: "2025-07-30"
+    nelm: 45
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: m29-20250731.jpg
+    text: ""
+
+  - name: 1 Peg
+    date: "2025-08-02"
+    nelm: 40
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: 1-peg-20250803.jpg
+    text: ""
+
+  - name: STF 2841
+    date: "2025-08-02"
+    nelm: 40
+    ap: 127
+    mag: 47
+    fov: 1.1
+    img: stf-2841-20250803.jpg
+    text: ""

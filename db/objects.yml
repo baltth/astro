@@ -1,6 +1,11 @@
 # Object data
 
 objects:
+  
+  "1 Peg":
+    constellation: Peg
+    type: star system
+
   "80 UMa":
     constellation: UMa
     type: star
@@ -12,6 +17,10 @@ objects:
     type: double star
     aka:
       - Albiero
+
+  "Epsilon Equ":
+    constellation: Equ
+    type: star system
 
   "Gamma And":
     constellation: And
@@ -45,6 +54,13 @@ objects:
       - NGC 7078
       - Great Pegasus Cluster
 
+  "M29":
+    constellation: Cyg
+    type: open cluster
+    aka:
+      - NGC 6913
+      - Cooling Tower Cluster
+
   "M31":
     constellation: And
     type: galaxy
@@ -57,6 +73,13 @@ objects:
     type: galaxy
     aka:
       - NGC 221
+
+  "M39":
+    constellation: Cyg
+    type: open cluster
+    aka:
+      - NGC 7092
+      - Pyramid Cluster
 
   "M71":
     constellation: Sge
@@ -72,11 +95,9 @@ objects:
       - Caldwell 55
       - Saturn Nebula
 
-  "Zeta UMa":
-    constellation: UMa
+  "STF 2841":
+    constellation: Peg
     type: double star
-    aka:
-      - Mizar
 
   "V Aql":
     constellation: Aql
@@ -85,3 +106,9 @@ objects:
   "WZ Cas":
     constellation: Cas
     type: carbon star
+
+  "Zeta UMa":
+    constellation: UMa
+    type: double star
+    aka:
+      - Mizar

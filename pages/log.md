@@ -2,6 +2,10 @@
 
 [Main page](../index.md) - [Index](../pages/obj_index.md)
 
+- 2025-08-06: [Saturn](../obs/saturn-2025-08-06.md)
+- 2025-08-06: [Theta Serpentis](../obs/theta-ser-2025-08-06.md)
+- 2025-08-04: [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md)
+- 2025-08-04: [70 Ophiuchi](../obs/70-oph-2025-08-04.md)
 - 2025-08-02: [1 Pegasi](../obs/1-peg-2025-08-02.md)
 - 2025-08-02: [STF 2841](../obs/stf-2841-2025-08-02.md)
 - 2025-07-30: [Messier 39](../obs/m39-2025-07-30.md)

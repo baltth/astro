@@ -192,3 +192,47 @@ observations:
     fov: 1.1
     img: stf-2841-20250803.jpg
     text: ""
+
+  - name: Eta Cas
+    date: "2025-08-04"
+    nelm: 40
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: eta-cas-20250804.jpg
+    text: |
+      This star system is really worth to see.
+      Maybe the colors of the sketch are too intensive,
+      I was experimenting with different pencils.
+
+  - name: 70 Oph
+    date: "2025-08-04"
+    nelm: 40
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: eta-cas-20250804.jpg
+    text: ""
+
+  - name: Saturn
+    date: "2025-08-06"
+    nelm: 40
+    ap: 127
+    mag: 171
+    fov: 0.4
+    img: saturn-20250807.jpg
+    text: |
+      Saturn and Titan for the first time...
+      The rings look flat now but still have visible shadow.
+
+      It was a challenge to sketch the planet in this small size.
+      I used no blending, thus the texture is my fault.
+
+  - name: Theta Ser
+    date: "2025-08-06"
+    nelm: 40
+    ap: 127
+    mag: 100
+    fov: 0.68
+    img: theta-ser-20250807.jpg
+    text: ""

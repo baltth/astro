@@ -19,16 +19,23 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
+- [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
-- [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cassiopeia
+- [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
+- [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - double star in Andromeda
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
+- [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
+
+#### Other
+
+- [Saturn](../obs/saturn-2025-08-06.md) - planet in Solar System
 
 
 ## Constellations
@@ -50,11 +57,12 @@
 
 #### Cassiopeia
 
-- [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cassiopeia
+- [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 
 #### Cygnus
 
+- [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
 
@@ -70,6 +78,10 @@
 
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
 
+#### Ophiuchus
+
+- [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
+
 #### Pegasus
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
@@ -84,9 +96,17 @@
 
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 
+#### Serpens
+
+- [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
+
 #### Ursa Major
 
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
+
+#### Other
+
+- [Saturn](../obs/saturn-2025-08-06.md) - planet in Solar System
 
 

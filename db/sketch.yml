@@ -99,3 +99,21 @@ sketches:
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250803101054_001.jpg -o scan/20250803.jpg
       - ./script/proc_image.py split ./orig/inv/1000001182.jpg -x 65 -y 160 -o1 1 Peg -o2 STF 2841 -d img/
+
+  - full: eta-cas-70-oph-20250804.jpg
+    scan: 20250804.jpg
+    sub:
+      - eta-cas-20250804.jpg
+      - 70-oph-20250804.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250804234635_001.jpg -o scan/20250804.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001201.jpg -x 75 -y 195 -s 0.99 -o1 Eta Cas -o2 70 Oph -d img/
+
+  - full: saturn-theta-ser-20250807.jpg
+    scan: 20250807.jpg
+    sub:
+      - saturn-20250807.jpg
+      - theta-ser-20250807.jpg
+    _cmd:
+      - ./script/proc_image.py ./orig/scan/20250807013004_001.jpg -o scan/20250807.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001225.jpg -x 28 -y 195 -o1 Saturn -o2 Theta Ser -d img/

@@ -6,6 +6,10 @@ objects:
     constellation: Peg
     type: star system
 
+  "70 Oph":
+    constellation: Oph
+    type: double star
+
   "80 UMa":
     constellation: UMa
     type: star
@@ -13,7 +17,7 @@ objects:
       - Alcor
 
   "Beta Cyg":
-    constellation: Cas
+    constellation: Cyg
     type: double star
     aka:
       - Albiero
@@ -21,6 +25,12 @@ objects:
   "Epsilon Equ":
     constellation: Equ
     type: star system
+
+  "Eta Cas":
+    constellation: Cas
+    type: double star
+    aka:
+      - Achird
 
   "Gamma And":
     constellation: And
@@ -95,8 +105,16 @@ objects:
       - Caldwell 55
       - Saturn Nebula
 
+  "Saturn":
+    constellation: Solar System
+    type: planet
+
   "STF 2841":
     constellation: Peg
+    type: double star
+
+  "Theta Ser":
+    constellation: Ser
     type: double star
 
   "V Aql":

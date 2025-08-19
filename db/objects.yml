@@ -1,48 +1,11 @@
 # Object data
 
 objects:
-  "Kappa Her":
-    constellation: Her
-    type: double star
-
-  "Zeta UMa":
-    constellation: UMa
-    type: double star
-    aka:
-      - Mizar
-
   "80 UMa":
     constellation: UMa
     type: star
     aka:
       - Alcor
-
-  "M31":
-    constellation: And
-    type: galaxy
-  
-  "M32":
-    constellation: And
-    type: galaxy
-
-  "Gamma And":
-    constellation: And
-    type: double star
-
-  "V Aql":
-    constellation: Aql
-    type: carbon star
-  
-  "WZ Cas":
-    constellation: Cas
-    type: carbon star
-
-  "M71":
-    constellation: Sge
-    type: globular cluster
-    aka:
-      - NGC6838
-      - Angelfish Cluster
 
   "Beta Cyg":
     constellation: Cas
@@ -50,27 +13,75 @@ objects:
     aka:
       - Albiero
 
+  "Gamma And":
+    constellation: And
+    type: double star
+
+  "Gamma Del":
+    constellation: Del
+    type: double star
+
+  "Kappa Her":
+    constellation: Her
+    type: double star
+
   "M2":
     constellation: Aqr
     type: globular cluster
+    aka:
+      - NGC 7089
 
-  "NGC7009":  
+  "M11":
+    constellation: Sct
+    type: open cluster
+    aka:
+      - NGC 6705
+      - Wild Duck Cluster
+
+  "M15":
+    constellation: Peg
+    type: globular cluster
+    aka:
+      - NGC 7078
+      - Great Pegasus Cluster
+
+  "M31":
+    constellation: And
+    type: galaxy
+    aka:
+      - NGC 224
+      - Andromeda Galaxy
+
+  "M32":
+    constellation: And
+    type: galaxy
+    aka:
+      - NGC 221
+
+  "M71":
+    constellation: Sge
+    type: globular cluster
+    aka:
+      - NGC 6838
+      - Angelfish Cluster
+
+  "NGC 7009":
     constellation: Aqr
     type: planetary nebula
     aka:
       - Caldwell 55
       - Saturn Nebula
 
-  "M15":
-    constellation: Peg
-    type: globular cluster
-
-  "Gamma Del":
-    constellation: Del
+  "Zeta UMa":
+    constellation: UMa
     type: double star
-
-  "M11":
-    constellation: Sct
-    type: open cluster
     aka:
-      - Wild Duck Cluster
+      - Mizar
+
+  "V Aql":
+    constellation: Aql
+    type: carbon star
+
+  "WZ Cas":
+    constellation: Cas
+    type: carbon star

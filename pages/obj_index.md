@@ -9,13 +9,13 @@
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
-- [Messier 27](../obs/m27-2025-08-20.md) - planetary nebula in Vulpecula
+- [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
-- [Messier 57](../obs/m57-2025-08-20.md) - planetary nebula in Lyra
+- [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 - [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
@@ -23,7 +23,7 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
-- [61 Cygni](../obs/61-cyg-2025-08-20.md) - double star in Cygnus
+- [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
@@ -68,7 +68,7 @@
 
 #### Cygnus
 
-- [61 Cygni](../obs/61-cyg-2025-08-20.md) - double star in Cygnus
+- [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
@@ -87,7 +87,7 @@
 
 #### Lyra
 
-- [Messier 57](../obs/m57-2025-08-20.md) - planetary nebula in Lyra
+- [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
 
 #### Ophiuchus
 
@@ -127,7 +127,7 @@
 
 #### Vulpecula
 
-- [Messier 27](../obs/m27-2025-08-20.md) - planetary nebula in Vulpecula
+- [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 
 #### Other
 

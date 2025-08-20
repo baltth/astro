@@ -2,10 +2,10 @@
 
 [Main page](../index.md) - [Index](../pages/obj_index.md)
 
-- 2025-08-20: [Messier 57](../obs/m57-2025-08-20.md)
-- 2025-08-20: [Messier 27](../obs/m27-2025-08-20.md)
-- 2025-08-20: [61 Cygni](../obs/61-cyg-2025-08-20.md)
 - 2025-08-19: [NGC 6633](../obs/ngc-6633-2025-08-19.md)
+- 2025-08-19: [Messier 57](../obs/m57-2025-08-19.md)
+- 2025-08-19: [Messier 27](../obs/m27-2025-08-19.md)
+- 2025-08-19: [61 Cygni](../obs/61-cyg-2025-08-19.md)
 - 2025-08-18: [Messier 34](../obs/m34-2025-08-18.md)
 - 2025-08-18: [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md)
 - 2025-08-06: [Saturn](../obs/saturn-2025-08-06.md)

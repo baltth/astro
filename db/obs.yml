@@ -272,3 +272,21 @@ observations:
     fov: 0.4
     img: m57-20250820.jpg
     text: ""
+
+  - name: M27
+    date: "2025-08-20"
+    nelm: 45
+    ap: 127
+    mag: 103
+    fov: 0.66
+    img: m27-20250820.jpg
+    text: ""
+
+  - name: 61 Cyg
+    date: "2025-08-20"
+    nelm: 45
+    ap: 127
+    mag: 103
+    fov: 0.66
+    img: 61-cyg-20250820.jpg
+    text: ""

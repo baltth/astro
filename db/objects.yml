@@ -5,6 +5,10 @@ objects:
     constellation: Peg
     type: star system
 
+  "61 Cyg":
+    constellation: Cyg
+    type: double star
+
   "70 Oph":
     constellation: Oph
     type: double star
@@ -68,6 +72,13 @@ objects:
     aka:
       - NGC 7078
       - Great Pegasus Cluster
+
+  "M27":
+    constellation: Vul
+    type: planetary nebula
+    aka:
+      - NGC 6853
+      - Dumbbell Nebula
 
   "M29":
     constellation: Cyg

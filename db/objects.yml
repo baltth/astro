@@ -1,10 +1,13 @@
 # Object data
 
 objects:
-  
   "1 Peg":
     constellation: Peg
     type: star system
+
+  "61 Cyg":
+    constellation: Cyg
+    type: double star
 
   "70 Oph":
     constellation: Oph
@@ -15,6 +18,12 @@ objects:
     type: star
     aka:
       - Alcor
+
+  "Alpha UMi":
+    constellation: UMi
+    type: double star
+    aka:
+      - Polaris
 
   "Beta Cyg":
     constellation: Cyg
@@ -64,6 +73,13 @@ objects:
       - NGC 7078
       - Great Pegasus Cluster
 
+  "M27":
+    constellation: Vul
+    type: planetary nebula
+    aka:
+      - NGC 6853
+      - Dumbbell Nebula
+
   "M29":
     constellation: Cyg
     type: open cluster
@@ -84,6 +100,13 @@ objects:
     aka:
       - NGC 221
 
+  "M34":
+    constellation: Per
+    type: open cluster
+    aka:
+      - NGC 1039
+      - Spiral Cluster
+
   "M39":
     constellation: Cyg
     type: open cluster
@@ -91,12 +114,23 @@ objects:
       - NGC 7092
       - Pyramid Cluster
 
+  "M57":
+    constellation: Lyr
+    type: planetary nebula
+    aka:
+      - NGC 6720
+      - Ring Nebula
+
   "M71":
     constellation: Sge
     type: globular cluster
     aka:
       - NGC 6838
       - Angelfish Cluster
+
+  "NGC 6633":
+    constellation: Oph
+    type: open cluster
 
   "NGC 7009":
     constellation: Aqr

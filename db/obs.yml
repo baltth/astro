@@ -236,3 +236,21 @@ observations:
     fov: 0.68
     img: theta-ser-20250807.jpg
     text: ""
+
+  - name: M34
+    date: "2025-08-18"
+    nelm: 45
+    ap: 127
+    mag: 48
+    fov: 1.1
+    img: m34-20250820.jpg
+    text: ""
+  
+  - name: Alpha UMi
+    date: "2025-08-18"
+    nelm: 45
+    ap: 127
+    mag: 103
+    fov: 0.66
+    img: alpha-umi-20250820.jpg
+    text: ""

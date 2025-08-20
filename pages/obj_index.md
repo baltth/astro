@@ -12,6 +12,7 @@
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
+- [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
@@ -21,6 +22,7 @@
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
+- [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
@@ -88,6 +90,10 @@
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
 
+#### Perseus
+
+- [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
+
 #### Sagitta
 
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
@@ -104,6 +110,10 @@
 
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
+
+#### Ursa Minor
+
+- [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
 
 #### Other
 

@@ -1,7 +1,6 @@
 # Object data
 
 objects:
-  
   "1 Peg":
     constellation: Peg
     type: star system
@@ -15,6 +14,12 @@ objects:
     type: star
     aka:
       - Alcor
+
+  "Alpha UMi":
+    constellation: UMi
+    type: double star
+    aka:
+      - Polaris
 
   "Beta Cyg":
     constellation: Cyg
@@ -83,6 +88,13 @@ objects:
     type: galaxy
     aka:
       - NGC 221
+
+  "M34":
+    constellation: Per
+    type: open cluster
+    aka:
+      - NGC 1039
+      - Spiral Cluster
 
   "M39":
     constellation: Cyg

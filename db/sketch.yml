@@ -117,3 +117,13 @@ sketches:
     _cmd:
       - ./script/proc_image.py ./orig/scan/20250807013004_001.jpg -o scan/20250807.jpg
       - ./script/proc_image.py split ./orig/inv/1000001225.jpg -x 28 -y 195 -o1 Saturn -o2 Theta Ser -d img/
+
+  - full: m34-alpha-umi-20250820.jpg
+    scan: 20250819.jpg
+    sub:
+      - m34-20250820.jpg
+      - alpha-umi-20250820.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250819005451_001.jpg -o scan/20250819.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001292.jpg -x 40 -y 185 -s 0.99 -o1 M34 -o2 Alpha UMi -d img/
+    

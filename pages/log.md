@@ -2,6 +2,8 @@
 
 [Main page](../index.md) - [Index](../pages/obj_index.md)
 
+- 2025-08-18: [Messier 34](../obs/m34-2025-08-18.md)
+- 2025-08-18: [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md)
 - 2025-08-06: [Saturn](../obs/saturn-2025-08-06.md)
 - 2025-08-06: [Theta Serpentis](../obs/theta-ser-2025-08-06.md)
 - 2025-08-04: [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md)

@@ -12,6 +12,8 @@
 
 ## Latest
 
+- 2025-08-18: [Messier 34](obs/m34-2025-08-18.md)
+- 2025-08-18: [Alpha Ursae Minoris](obs/alpha-umi-2025-08-18.md)
 - 2025-08-06: [Saturn](obs/saturn-2025-08-06.md)
 - 2025-08-06: [Theta Serpentis](obs/theta-ser-2025-08-06.md)
 - 2025-08-04: [Eta Cassiopeiae](obs/eta-cas-2025-08-04.md)
@@ -20,8 +22,6 @@
 - 2025-08-02: [STF 2841](obs/stf-2841-2025-08-02.md)
 - 2025-07-30: [Messier 39](obs/m39-2025-07-30.md)
 - 2025-07-30: [Messier 29](obs/m29-2025-07-30.md)
-- 2025-07-28: [Messier 2](obs/m2-2025-07-28.md)
-- 2025-07-28: [Epsilon Equulei](obs/epsilon-equ-2025-07-28.md)
 
 ---
 

@@ -256,7 +256,7 @@ observations:
     text: ""
 
   - name: NGC 6633
-    date: "2025-08-19"
+    date: "2025-08-19 23:20"
     nelm: 45
     ap: 127
     mag: 48
@@ -265,7 +265,7 @@ observations:
     text: ""
 
   - name: M57
-    date: "2025-08-20"
+    date: "2025-08-20 00:45"
     nelm: 40
     ap: 127
     mag: 171
@@ -274,7 +274,7 @@ observations:
     text: ""
 
   - name: M27
-    date: "2025-08-20"
+    date: "2025-08-20 01:11"
     nelm: 45
     ap: 127
     mag: 103
@@ -283,7 +283,7 @@ observations:
     text: ""
 
   - name: 61 Cyg
-    date: "2025-08-20"
+    date: "2025-08-20 01:45"
     nelm: 45
     ap: 127
     mag: 103

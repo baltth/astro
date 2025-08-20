@@ -245,7 +245,7 @@ observations:
     fov: 1.1
     img: m34-20250820.jpg
     text: ""
-  
+
   - name: Alpha UMi
     date: "2025-08-18"
     nelm: 45
@@ -253,4 +253,22 @@ observations:
     mag: 103
     fov: 0.66
     img: alpha-umi-20250820.jpg
+    text: ""
+
+  - name: NGC 6633
+    date: "2025-08-19"
+    nelm: 45
+    ap: 127
+    mag: 48
+    fov: 1.1
+    img: ngc-6633-20250820.jpg
+    text: ""
+
+  - name: M57
+    date: "2025-08-20"
+    nelm: 40
+    ap: 127
+    mag: 171
+    fov: 0.4
+    img: m57-20250820.jpg
     text: ""

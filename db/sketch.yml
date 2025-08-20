@@ -126,4 +126,13 @@ sketches:
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250819005451_001.jpg -o scan/20250819.jpg
       - ./script/proc_image.py split ./orig/inv/1000001292.jpg -x 40 -y 185 -s 0.99 -o1 M34 -o2 Alpha UMi -d img/
-    
+
+  - full: ngc-6633-m57-20250820.jpg
+    scan: 20250820_1.jpg
+    sub:
+      - ngc-6633-20250820.jpg
+      - m57-20250820.jpg
+    _cmd:
+      - ./script/proc_image.py copyright ./orig/scan/20250820105022_001.jpg -o scan/20250820_1.jpg
+      - ./script/proc_image.py split ./orig/inv/1000001296.jpg -x 80 -y 185 -s 0.99 -o1 NGC 6633 -o2 M57 -d img/
+ 

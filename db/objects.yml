@@ -103,12 +103,23 @@ objects:
       - NGC 7092
       - Pyramid Cluster
 
+  "M57":
+    constellation: Lyr
+    type: planetary nebula
+    aka:
+      - NGC 6720
+      - Ring Nebula
+
   "M71":
     constellation: Sge
     type: globular cluster
     aka:
       - NGC 6838
       - Angelfish Cluster
+
+  "NGC 6633":
+    constellation: Oph
+    type: open cluster
 
   "NGC 7009":
     constellation: Aqr

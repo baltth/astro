@@ -44,7 +44,7 @@
 - [Saturn](../obs/saturn-2025-08-06.md) - planet in Solar System
 
 
-## Constellations
+## By constellation
 
 #### Andromeda
 

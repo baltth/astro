@@ -84,7 +84,7 @@ observations:
     fov: 1.1
     img: zeta-uma-80-uma-20250715.jpg
     text: |
-      Dedicated to my wife.
+      Dedicated to my dear wife, Klári.
 
       My ζ 'zeta' looks like a ξ 'xi' here, sorry for that.
       I'm sure I'll make another sketch of this trio some day.
@@ -262,7 +262,11 @@ observations:
     mag: 48
     fov: 1.1
     img: ngc-6633-20250820.jpg
-    text: ""
+    text: |
+      This sketch was a challenge.
+      I've tried to interpret the proper relative brightness
+      of the stars but the result lacks the real shine of
+      the main ones.
 
   - name: M57
     date: "2025-08-20 00:45"
@@ -271,7 +275,11 @@ observations:
     mag: 171
     fov: 0.4
     img: m57-20250820.jpg
-    text: ""
+    text: |
+      The Ring could be seen really well today.
+      It was really hard to determine the orientation
+      of its elliptic shape, just as if it were swapping
+      directions based on my view.
 
   - name: M27
     date: "2025-08-20 01:11"
@@ -280,7 +288,13 @@ observations:
     mag: 103
     fov: 0.66
     img: m27-20250820.jpg
-    text: ""
+    text: |
+      Dumbbell Nebula is a favorite -
+      this was my first deep space object,
+      observed about eight years ago.
+      This night it looked really well,
+      just as bright to perfectly show its contour.
+      Sometimes it has a shape like a brick but not today.
 
   - name: 61 Cyg
     date: "2025-08-20 01:45"
@@ -289,4 +303,6 @@ observations:
     mag: 103
     fov: 0.66
     img: 61-cyg-20250820.jpg
-    text: ""
+    text: |
+      Really nice binary. This was my fourth sketch on that night.
+      I was tired, the surroundings may be rough and incomplete.

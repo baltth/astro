@@ -129,6 +129,10 @@ sketches:
 
   - full: ngc-6633-m57-20250820.jpg
     scan: 20250820_1.jpg
+    notes: |
+      This night was exceptionally clear, NELM was rather 4.7.
+      I was experimenting with using black and blue pens for annotations
+      and mixed up in the end.
     sub:
       - ngc-6633-20250820.jpg
       - m57-20250820.jpg
@@ -141,6 +145,9 @@ sketches:
     sub:
       - m27-20250820.jpg
       - 61-cyg-20250820.jpg
+    notes: |
+      This night was exceptionally clear, NELM was rather 4.7.
+      I was experimenting with using black and blue pens for annotations.
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250820105022_002.jpg -o scan/20250820_2.jpg
       - ./script/proc_image.py split ./orig/inv/1000001303.jpg -x 40 -y 172 -o1 M27 -o2 61 Cyg -d img/

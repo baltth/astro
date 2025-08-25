@@ -1,14 +1,11 @@
-
 > This site contains some astronomy sketches, created just for fun.
 > More info coming soon.
 > 
-> Balazs Toth
-> baltth@gmail.com
+> Balazs Toth - baltth at gmail dot com
 
 ![M31, M32](img/m31-m32-20250722.jpg)
 
 ---
-
 
 ## Latest
 
@@ -25,11 +22,13 @@
 
 ---
 
-### [All observations](pages/log.md)
+## [All observations](pages/log.md)
 
-### [Index](pages/obj_index.md)
+## [Index](pages/obj_index.md)
+
 
 ---
+
 
 ...
 

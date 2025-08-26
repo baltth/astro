@@ -12,6 +12,13 @@ objects:
     constellation: Peg
     type: star system
 
+  35 Psc:
+    name: 35 Psc
+    constellation: Psc
+    type: star system
+    aka:
+      - UU Piscium
+
   61 Cyg:
     constellation: Cyg
     type: double star

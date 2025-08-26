@@ -269,7 +269,7 @@ observations:
     text: ''
 
   - name: NGC 6633
-    date: '2025-08-19 23:20'
+    date: 2025-08-19 23:20
     nelm: 4.5
     ap: 127
     mag: 48
@@ -282,7 +282,7 @@ observations:
       the main ones.
 
   - name: M57
-    date: '2025-08-20 00:45'
+    date: 2025-08-20 00:45
     nelm: 4.0
     ap: 127
     mag: 171
@@ -295,7 +295,7 @@ observations:
       directions based on my view.
 
   - name: M27
-    date: '2025-08-20 01:11'
+    date: 2025-08-20 01:11
     nelm: 4.5
     ap: 127
     mag: 103
@@ -310,7 +310,7 @@ observations:
       Sometimes it has a shape like a brick but not today.
 
   - name: 61 Cyg
-    date: '2025-08-20 01:45'
+    date: 2025-08-20 01:45
     nelm: 4.5
     ap: 127
     mag: 103
@@ -319,3 +319,15 @@ observations:
     text: |
       Really nice binary. This was my fourth sketch on that night.
       I was tired, the surroundings may be rough and incomplete.
+
+  - name: 35 Psc
+    date: 2025-08-25 23:55
+    img: 35-psc-20250826.jpg
+    nelm: 4.6
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      This triple star looks pretty, unfortunately there's no
+      neighbor in this field of view.

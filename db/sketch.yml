@@ -159,3 +159,14 @@ sketches:
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250820105022_002.jpg -o scan/20250820_2.jpg
       - ./script/proc_image.py split ./orig/inv/1000001303.jpg -x 40 -y 172 -o1 M27 -o2 '61 Cyg' -d img/
+
+  - full: na-35-psc-20250826.jpg
+    scan: 20250826013407_001.jpg
+    sub:
+      - 35-psc-20250826.jpg
+    notes: |
+      This is the first try to add some star glow with blending.
+
+      Yes, that's a cloud up there. I've just started to sketch M103 when clouds appeared...
+    _cmd:
+      - ./script/add.py ../astro -i ../astro/orig/inv/1000001319.jpg -c ../astro/orig/scan/20250826013407_001.jpg -x 55 -y 165 -o2 '35 Psc'

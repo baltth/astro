@@ -2,6 +2,7 @@
 
 [Main page](../index.md) - [Index](../pages/obj_index.md)
 
+- 2025-08-25: [35 Piscium](../obs/35-psc-2025-08-25.md)
 - 2025-08-19: [NGC 6633](../obs/ngc-6633-2025-08-19.md)
 - 2025-08-19: [Messier 57](../obs/m57-2025-08-19.md)
 - 2025-08-19: [Messier 27](../obs/m27-2025-08-19.md)

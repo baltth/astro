@@ -1,9 +1,22 @@
-# Observation data
+# Observation 'db' - list of observations
+#
+# Add items with add.py script of github.com/baltth/astro-gen or manually.
+#
+# Content of entries:
+# 'name': observed object(s) [string or list of strings]
+# 'date': observation date in ISO format [string]
+# 'img': file name of corresponding sketch [string]
+# 'nelm': naked-eye limiting magnitude [float]
+# 'seeing': astronomical seeing, optional [int, 1-10]
+# 'ap': aperture of telescope in mm [int]
+# 'mag': magnification [int]
+# 'fov': field of view of the sketch in degrees [float]
+# 'text': observation notes [string]
 
 observations:
   - name: M11
-    date: "2025-06-27"
-    nelm: 45
+    date: '2025-06-27'
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -17,8 +30,8 @@ observations:
       the link below.
 
   - name: V Aql
-    date: "2025-06-27"
-    nelm: 45
+    date: '2025-06-27'
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
@@ -28,26 +41,26 @@ observations:
       I really like this star and its neighborhood.
 
   - name: WZ Cas
-    date: "2025-06-27"
-    nelm: 45
+    date: '2025-06-27'
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
     img: wz-cas-20250628.jpg
-    text: ""
+    text: ''
 
   - name: M2
-    date: "2025-06-30"
-    nelm: 45
+    date: '2025-06-30'
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
     img: m2-20250701.jpg
-    text: ""
+    text: ''
 
   - name: NGC 7009
-    date: "2025-06-30"
-    nelm: 45
+    date: '2025-06-30'
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -59,26 +72,26 @@ observations:
       or simply caused by my lack of experience.
 
   - name: M15
-    date: "2025-06-30"
-    nelm: 45
+    date: '2025-06-30'
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
     img: m15-20250701.jpg
-    text: ""
+    text: ''
 
   - name: Gamma Del
-    date: "2025-06-30"
-    nelm: 45
+    date: '2025-06-30'
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
     img: gamma-del-20250701.jpg
-    text: ""
+    text: ''
 
   - name: [Zeta UMa, 80 UMa]
-    date: "2025-07-12"
-    nelm: 40
+    date: '2025-07-12'
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -90,57 +103,57 @@ observations:
       I'm sure I'll make another sketch of this trio some day.
 
   - name: Kappa Her
-    date: "2025-07-14"
-    nelm: 40
+    date: '2025-07-14'
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
     img: kappa-her-20250715.jpg
-    text: ""
+    text: ''
 
   - name: [M31, M32]
-    date: "2025-07-19"
+    date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 47
     fov: 1.1
     img: m31-m32-20250722.jpg
-    text: ""
+    text: ''
 
   - name: Gamma And
-    date: "2025-07-19"
+    date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 100
     fov: 0.68
     img: gamma-and-20250722.jpg
-    text: ""
+    text: ''
 
   - name: M71
-    date: "2025-07-19"
+    date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 47
     fov: 1.1
     img: m71-20250722.jpg
-    text: ""
+    text: ''
 
   - name: Beta Cyg
-    date: "2025-07-19"
+    date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 100
     fov: 0.68
     img: beta-cyg-20250722.jpg
-    text: ""
+    text: ''
 
   - name: M2
-    date: "2025-07-28"
-    nelm: 40
+    date: '2025-07-28'
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -149,53 +162,53 @@ observations:
       This is my second sketch of M2, definitely better than the first one.
 
   - name: Epsilon Equ
-    date: "2025-07-28"
-    nelm: 40
+    date: '2025-07-28'
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
     img: epsilon-equ-20250729.jpg
-    text: ""
+    text: ''
 
   - name: M39
-    date: "2025-07-30"
-    nelm: 45
+    date: '2025-07-30'
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
     img: m39-20250731.jpg
-    text: ""
+    text: ''
 
   - name: M29
-    date: "2025-07-30"
-    nelm: 45
+    date: '2025-07-30'
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
     img: m29-20250731.jpg
-    text: ""
+    text: ''
 
   - name: 1 Peg
-    date: "2025-08-02"
-    nelm: 40
+    date: '2025-08-02'
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
     img: 1-peg-20250803.jpg
-    text: ""
+    text: ''
 
   - name: STF 2841
-    date: "2025-08-02"
-    nelm: 40
+    date: '2025-08-02'
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
     img: stf-2841-20250803.jpg
-    text: ""
+    text: ''
 
   - name: Eta Cas
-    date: "2025-08-04"
-    nelm: 40
+    date: '2025-08-04'
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -206,17 +219,17 @@ observations:
       I was experimenting with different pencils.
 
   - name: 70 Oph
-    date: "2025-08-04"
-    nelm: 40
+    date: '2025-08-04'
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
     img: eta-cas-20250804.jpg
-    text: ""
+    text: ''
 
   - name: Saturn
-    date: "2025-08-06"
-    nelm: 40
+    date: '2025-08-06'
+    nelm: 4.0
     ap: 127
     mag: 171
     fov: 0.4
@@ -229,35 +242,35 @@ observations:
       I used no blending, thus the texture is my fault.
 
   - name: Theta Ser
-    date: "2025-08-06"
-    nelm: 40
+    date: '2025-08-06'
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
     img: theta-ser-20250807.jpg
-    text: ""
+    text: ''
 
   - name: M34
-    date: "2025-08-18"
-    nelm: 45
+    date: '2025-08-18'
+    nelm: 4.5
     ap: 127
     mag: 48
     fov: 1.1
     img: m34-20250820.jpg
-    text: ""
+    text: ''
 
   - name: Alpha UMi
-    date: "2025-08-18"
-    nelm: 45
+    date: '2025-08-18'
+    nelm: 4.5
     ap: 127
     mag: 103
     fov: 0.66
     img: alpha-umi-20250820.jpg
-    text: ""
+    text: ''
 
   - name: NGC 6633
-    date: "2025-08-19 23:20"
-    nelm: 45
+    date: 2025-08-19 23:20
+    nelm: 4.5
     ap: 127
     mag: 48
     fov: 1.1
@@ -269,8 +282,8 @@ observations:
       the main ones.
 
   - name: M57
-    date: "2025-08-20 00:45"
-    nelm: 40
+    date: 2025-08-20 00:45
+    nelm: 4.0
     ap: 127
     mag: 171
     fov: 0.4
@@ -282,8 +295,8 @@ observations:
       directions based on my view.
 
   - name: M27
-    date: "2025-08-20 01:11"
-    nelm: 45
+    date: 2025-08-20 01:11
+    nelm: 4.5
     ap: 127
     mag: 103
     fov: 0.66
@@ -297,8 +310,8 @@ observations:
       Sometimes it has a shape like a brick but not today.
 
   - name: 61 Cyg
-    date: "2025-08-20 01:45"
-    nelm: 45
+    date: 2025-08-20 01:45
+    nelm: 4.5
     ap: 127
     mag: 103
     fov: 0.66
@@ -306,3 +319,15 @@ observations:
     text: |
       Really nice binary. This was my fourth sketch on that night.
       I was tired, the surroundings may be rough and incomplete.
+
+  - name: 35 Psc
+    date: 2025-08-25 23:55
+    img: 35-psc-20250826.jpg
+    nelm: 4.6
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      This triple star looks pretty, unfortunately there's no
+      neighbor in this field of view.

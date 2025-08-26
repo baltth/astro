@@ -23,6 +23,7 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
+- [35 Piscium](../obs/35-psc-2025-08-25.md) - star system in Pisces
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
@@ -103,6 +104,10 @@
 #### Perseus
 
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
+
+#### Pisces
+
+- [35 Piscium](../obs/35-psc-2025-08-25.md) - star system in Pisces
 
 #### Sagitta
 

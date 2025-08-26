@@ -9,6 +9,7 @@
 
 ## Latest
 
+- 2025-08-25: [35 Piscium](obs/35-psc-2025-08-25.md)
 - 2025-08-19: [NGC 6633](obs/ngc-6633-2025-08-19.md)
 - 2025-08-19: [Messier 57](obs/m57-2025-08-19.md)
 - 2025-08-19: [Messier 27](obs/m27-2025-08-19.md)
@@ -18,7 +19,6 @@
 - 2025-08-06: [Saturn](obs/saturn-2025-08-06.md)
 - 2025-08-06: [Theta Serpentis](obs/theta-ser-2025-08-06.md)
 - 2025-08-04: [Eta Cassiopeiae](obs/eta-cas-2025-08-04.md)
-- 2025-08-04: [70 Ophiuchi](obs/70-oph-2025-08-04.md)
 
 ---
 

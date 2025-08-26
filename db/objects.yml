@@ -1,165 +1,172 @@
-# Object data
+# Object 'db' - map of object data
+#
+# Add items with add.py script of github.com/baltth/astro-gen or manually.
+#
+# Content of entries:
+# 'constellation': abbrev. of constellation of other location [string]
+# 'type': object category [string]
+# 'aka': alias names [list of strings]
 
 objects:
-  "1 Peg":
+  1 Peg:
     constellation: Peg
     type: star system
 
-  "61 Cyg":
+  61 Cyg:
     constellation: Cyg
     type: double star
 
-  "70 Oph":
+  70 Oph:
     constellation: Oph
     type: double star
 
-  "80 UMa":
+  80 UMa:
     constellation: UMa
     type: star
     aka:
       - Alcor
 
-  "Alpha UMi":
+  Alpha UMi:
     constellation: UMi
     type: double star
     aka:
       - Polaris
 
-  "Beta Cyg":
+  Beta Cyg:
     constellation: Cyg
     type: double star
     aka:
       - Albiero
 
-  "Epsilon Equ":
+  Epsilon Equ:
     constellation: Equ
     type: star system
 
-  "Eta Cas":
+  Eta Cas:
     constellation: Cas
     type: double star
     aka:
       - Achird
 
-  "Gamma And":
+  Gamma And:
     constellation: And
     type: double star
 
-  "Gamma Del":
+  Gamma Del:
     constellation: Del
     type: double star
 
-  "Kappa Her":
+  Kappa Her:
     constellation: Her
     type: double star
 
-  "M2":
+  M2:
     constellation: Aqr
     type: globular cluster
     aka:
       - NGC 7089
 
-  "M11":
+  M11:
     constellation: Sct
     type: open cluster
     aka:
       - NGC 6705
       - Wild Duck Cluster
 
-  "M15":
+  M15:
     constellation: Peg
     type: globular cluster
     aka:
       - NGC 7078
       - Great Pegasus Cluster
 
-  "M27":
+  M27:
     constellation: Vul
     type: planetary nebula
     aka:
       - NGC 6853
       - Dumbbell Nebula
 
-  "M29":
+  M29:
     constellation: Cyg
     type: open cluster
     aka:
       - NGC 6913
       - Cooling Tower Cluster
 
-  "M31":
+  M31:
     constellation: And
     type: galaxy
     aka:
       - NGC 224
       - Andromeda Galaxy
 
-  "M32":
+  M32:
     constellation: And
     type: galaxy
     aka:
       - NGC 221
 
-  "M34":
+  M34:
     constellation: Per
     type: open cluster
     aka:
       - NGC 1039
       - Spiral Cluster
 
-  "M39":
+  M39:
     constellation: Cyg
     type: open cluster
     aka:
       - NGC 7092
       - Pyramid Cluster
 
-  "M57":
+  M57:
     constellation: Lyr
     type: planetary nebula
     aka:
       - NGC 6720
       - Ring Nebula
 
-  "M71":
+  M71:
     constellation: Sge
     type: globular cluster
     aka:
       - NGC 6838
       - Angelfish Cluster
 
-  "NGC 6633":
+  NGC 6633:
     constellation: Oph
     type: open cluster
 
-  "NGC 7009":
+  NGC 7009:
     constellation: Aqr
     type: planetary nebula
     aka:
       - Caldwell 55
       - Saturn Nebula
 
-  "Saturn":
+  Saturn:
     constellation: Solar System
     type: planet
 
-  "STF 2841":
+  STF 2841:
     constellation: Peg
     type: double star
 
-  "Theta Ser":
+  Theta Ser:
     constellation: Ser
     type: double star
 
-  "V Aql":
+  V Aql:
     constellation: Aql
     type: carbon star
 
-  "WZ Cas":
+  WZ Cas:
     constellation: Cas
     type: carbon star
 
-  "Zeta UMa":
+  Zeta UMa:
     constellation: UMa
     type: double star
     aka:

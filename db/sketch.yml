@@ -1,4 +1,13 @@
-# List of sketches
+# Sketch 'db' - list of sketches
+#
+# Add items with add.py script of github.com/baltth/astro-gen or manually.
+#
+# Content of entries:
+# 'full': file name of full sketch page [string]
+# 'scan': file name of the original scanned image, optional [list of strings]
+# 'sub': list of files cut out of the full page, optional [list of strings]
+# 'notes': sketch notes, optional [string]
+# '_cmd': commands for generating the files, optional [list of strings]
 
 sketches:
   - full: m11-m11-2nd-20250628.jpg
@@ -17,7 +26,7 @@ sketches:
       - wz-cas-20250628.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250628114229_004.jpg -o scan/20250628_2.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001093.jpg -x 100 -y 210 -s '0.99' -o1 "V Aql" -o2 "WZ Cas" -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001093.jpg -x 100 -y 210 -s '0.99' -o1 'V Aql' -o2 'WZ Cas' -d img/
 
   - full: m2-ngc7009-20250701.jpg
     scan: 20250701_1.jpg
@@ -35,17 +44,16 @@ sketches:
       - gamma-del-20250701.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250701092405_002.jpg -o scan/20250701_2.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001102.jpg -x 40 -y 170 -s 0.99 -o1 M15 -o2 Gamma Del -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001102.jpg -x 40 -y 170 -s 0.99 -o1 M15 -o2 'Gamma Del' -d img/
 
   - full: zeta-uma-80-uma-kappa-her-20250715.jpg
     scan: 20250715_1.jpg
-    _cmd: "41x160"
     sub:
       - zeta-uma-80-uma-20250715.jpg
       - kappa-her-20250715.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250715014417_002.jpg -o scan/20250715_1.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001116.jpg -x 41 -y 160 -o1 "Zeta UMa 80 UMa" -o2 "Kappa Her" -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001116.jpg -x 41 -y 160 -o1 'Zeta UMa 80 UMa' -o2 'Kappa Her' -d img/
 
   - full: m31-m32-gamma-and-20250722.jpg
     scan: 20250722_2.jpg
@@ -58,7 +66,7 @@ sketches:
       dark adaptation extremely difficult.
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250722004132_002.jpg -o scan/20250722_2.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001135.jpg -x 20 -y 165 -o1 "M31 M32" -o2 "Gamma And" -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001135.jpg -x 20 -y 165 -o1 'M31 M32' -o2 'Gamma And' -d img/
 
   - full: m71-beta-cyg-20250722.jpg
     scan: 20250722_1.jpg
@@ -71,7 +79,7 @@ sketches:
       dark adaptation extremely difficult.
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250722004132_001.jpg -o scan/20250722_1.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001134.jpg -x 30 -y 170 -o1 "M71" -o2 "Beta Cyg" -d img
+      - ./script/proc_image.py split ./orig/inv/1000001134.jpg -x 30 -y 170 -o1 'M71' -o2 'Beta Cyg' -d img
 
   - full: m2-epsilon-equ-20250729.jpg
     scan: 20250729.jpg
@@ -80,7 +88,7 @@ sketches:
       - epsilon-equ-20250729.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250729012225_001.jpg -o scan/20250729.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001166.jpg -x 50 -y 185 -o1 M2 -o2 Epsilon Equ -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001166.jpg -x 50 -y 185 -o1 M2 -o2 'Epsilon Equ' -d img/
 
   - full: m39-m29-20250731.jpg
     scan: 20250731.jpg
@@ -98,7 +106,7 @@ sketches:
       - stf-2841-20250803.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250803101054_001.jpg -o scan/20250803.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001182.jpg -x 65 -y 160 -o1 1 Peg -o2 STF 2841 -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001182.jpg -x 65 -y 160 -o1 '1 Peg' -o2 'STF 2841' -d img/
 
   - full: eta-cas-70-oph-20250804.jpg
     scan: 20250804.jpg
@@ -107,7 +115,7 @@ sketches:
       - 70-oph-20250804.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250804234635_001.jpg -o scan/20250804.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001201.jpg -x 75 -y 195 -s 0.99 -o1 Eta Cas -o2 70 Oph -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001201.jpg -x 75 -y 195 -s 0.99 -o1 'Eta Cas' -o2 '70 Oph' -d img/
 
   - full: saturn-theta-ser-20250807.jpg
     scan: 20250807.jpg
@@ -116,7 +124,7 @@ sketches:
       - theta-ser-20250807.jpg
     _cmd:
       - ./script/proc_image.py ./orig/scan/20250807013004_001.jpg -o scan/20250807.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001225.jpg -x 28 -y 195 -o1 Saturn -o2 Theta Ser -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001225.jpg -x 28 -y 195 -o1 Saturn -o2 'Theta Ser' -d img/
 
   - full: m34-alpha-umi-20250820.jpg
     scan: 20250819.jpg
@@ -125,7 +133,7 @@ sketches:
       - alpha-umi-20250820.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250819005451_001.jpg -o scan/20250819.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001292.jpg -x 40 -y 185 -s 0.99 -o1 M34 -o2 Alpha UMi -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001292.jpg -x 40 -y 185 -s 0.99 -o1 M34 -o2 'Alpha UMi' -d img/
 
   - full: ngc-6633-m57-20250820.jpg
     scan: 20250820_1.jpg
@@ -138,8 +146,8 @@ sketches:
       - m57-20250820.jpg
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250820105022_001.jpg -o scan/20250820_1.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001296.jpg -x 80 -y 185 -s 0.99 -o1 NGC 6633 -o2 M57 -d img/
- 
+      - ./script/proc_image.py split ./orig/inv/1000001296.jpg -x 80 -y 185 -s 0.99 -o1 'NGC 6633' -o2 M57 -d img/
+
   - full: m27-61-cyg-20250820.jpg
     scan: 20250820_2.jpg
     sub:
@@ -150,4 +158,4 @@ sketches:
       I was experimenting with using black and blue pens for annotations.
     _cmd:
       - ./script/proc_image.py copyright ./orig/scan/20250820105022_002.jpg -o scan/20250820_2.jpg
-      - ./script/proc_image.py split ./orig/inv/1000001303.jpg -x 40 -y 172 -o1 M27 -o2 61 Cyg -d img/
+      - ./script/proc_image.py split ./orig/inv/1000001303.jpg -x 40 -y 172 -o1 M27 -o2 '61 Cyg' -d img/

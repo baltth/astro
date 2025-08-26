@@ -6,7 +6,7 @@
 # 'name': observed object(s) [string or list of strings]
 # 'date': observation date in ISO format [string]
 # 'img': file name of corresponding sketch [string]
-# 'nelm': naked-eye limiting magnitude in 0.1 mag [int]
+# 'nelm': naked-eye limiting magnitude [float]
 # 'seeing': astronomical seeing, optional [int, 1-10]
 # 'ap': aperture of telescope in mm [int]
 # 'mag': magnification [int]
@@ -16,7 +16,7 @@
 observations:
   - name: M11
     date: '2025-06-27'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -31,7 +31,7 @@ observations:
 
   - name: V Aql
     date: '2025-06-27'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
@@ -42,7 +42,7 @@ observations:
 
   - name: WZ Cas
     date: '2025-06-27'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -51,7 +51,7 @@ observations:
 
   - name: M2
     date: '2025-06-30'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -60,7 +60,7 @@ observations:
 
   - name: NGC 7009
     date: '2025-06-30'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -73,7 +73,7 @@ observations:
 
   - name: M15
     date: '2025-06-30'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
@@ -82,7 +82,7 @@ observations:
 
   - name: Gamma Del
     date: '2025-06-30'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 100
     fov: 0.68
@@ -91,7 +91,7 @@ observations:
 
   - name: [Zeta UMa, 80 UMa]
     date: '2025-07-12'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -104,7 +104,7 @@ observations:
 
   - name: Kappa Her
     date: '2025-07-14'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -114,7 +114,7 @@ observations:
   - name: [M31, M32]
     date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -124,7 +124,7 @@ observations:
   - name: Gamma And
     date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -134,7 +134,7 @@ observations:
   - name: M71
     date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -144,7 +144,7 @@ observations:
   - name: Beta Cyg
     date: '2025-07-19'
     loc: Balatonudvari, HU
-    nelm: 70
+    nelm: 7.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -153,7 +153,7 @@ observations:
 
   - name: M2
     date: '2025-07-28'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -163,7 +163,7 @@ observations:
 
   - name: Epsilon Equ
     date: '2025-07-28'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -172,7 +172,7 @@ observations:
 
   - name: M39
     date: '2025-07-30'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
@@ -181,7 +181,7 @@ observations:
 
   - name: M29
     date: '2025-07-30'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 47
     fov: 1.1
@@ -190,7 +190,7 @@ observations:
 
   - name: 1 Peg
     date: '2025-08-02'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -199,7 +199,7 @@ observations:
 
   - name: STF 2841
     date: '2025-08-02'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 47
     fov: 1.1
@@ -208,7 +208,7 @@ observations:
 
   - name: Eta Cas
     date: '2025-08-04'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -220,7 +220,7 @@ observations:
 
   - name: 70 Oph
     date: '2025-08-04'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -229,7 +229,7 @@ observations:
 
   - name: Saturn
     date: '2025-08-06'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 171
     fov: 0.4
@@ -243,7 +243,7 @@ observations:
 
   - name: Theta Ser
     date: '2025-08-06'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 100
     fov: 0.68
@@ -252,7 +252,7 @@ observations:
 
   - name: M34
     date: '2025-08-18'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 48
     fov: 1.1
@@ -261,7 +261,7 @@ observations:
 
   - name: Alpha UMi
     date: '2025-08-18'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 103
     fov: 0.66
@@ -270,7 +270,7 @@ observations:
 
   - name: NGC 6633
     date: '2025-08-19 23:20'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 48
     fov: 1.1
@@ -283,7 +283,7 @@ observations:
 
   - name: M57
     date: '2025-08-20 00:45'
-    nelm: 40
+    nelm: 4.0
     ap: 127
     mag: 171
     fov: 0.4
@@ -296,7 +296,7 @@ observations:
 
   - name: M27
     date: '2025-08-20 01:11'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 103
     fov: 0.66
@@ -311,7 +311,7 @@ observations:
 
   - name: 61 Cyg
     date: '2025-08-20 01:45'
-    nelm: 45
+    nelm: 4.5
     ap: 127
     mag: 103
     fov: 0.66

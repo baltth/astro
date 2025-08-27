@@ -329,5 +329,8 @@ observations:
     mag: 103
     fov: 0.66
     text: |
-      This triple star looks pretty, unfortunately there's no
-      neighbor in this field of view.
+      This star system looks much prettier than my sketch. The main component is a double star
+      on its own but it's impossible to resolve with telescope.
+      It's also a variable star with _UU Psc_ designation.
+      
+      Unfortunately there's no visible neighbor in this field of view.

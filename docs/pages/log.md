@@ -2,8 +2,8 @@
 
 [Main page](../index.md) - [Index](../pages/obj_index.md)
 
-- 2025-08-28: [Pi-1 Pegasi, Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-28.md)
-- 2025-08-28: [15 Aquilae](../obs/15-aql-2025-08-28.md)
+- 2025-08-27: [Pi-1 Pegasi, Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md)
+- 2025-08-27: [15 Aquilae](../obs/15-aql-2025-08-27.md)
 - 2025-08-25: [35 Piscium](../obs/35-psc-2025-08-25.md)
 - 2025-08-19: [NGC 6633](../obs/ngc-6633-2025-08-19.md)
 - 2025-08-19: [Messier 57](../obs/m57-2025-08-19.md)

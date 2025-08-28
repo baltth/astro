@@ -23,7 +23,7 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
-- [15 Aquilae](../obs/15-aql-2025-08-28.md) - binary star in Aquila
+- [15 Aquilae](../obs/15-aql-2025-08-27.md) - binary star in Aquila
 - [35 Piscium](../obs/35-psc-2025-08-25.md) - triple star in Pisces
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
@@ -35,8 +35,8 @@
 - [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - double star in Andromeda
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
-- [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-28.md) - astrometric binary star in Pegasus
-- [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-28.md) - star in Pegasus
+- [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - astrometric binary star in Pegasus
+- [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
@@ -63,7 +63,7 @@
 
 #### Aquila
 
-- [15 Aquilae](../obs/15-aql-2025-08-28.md) - binary star in Aquila
+- [15 Aquilae](../obs/15-aql-2025-08-27.md) - binary star in Aquila
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 
 #### Cassiopeia
@@ -103,8 +103,8 @@
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
-- [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-28.md) - astrometric binary star in Pegasus
-- [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-28.md) - star in Pegasus
+- [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - astrometric binary star in Pegasus
+- [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
 
 #### Perseus

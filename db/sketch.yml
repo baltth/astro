@@ -170,3 +170,12 @@ sketches:
       Yes, that's a cloud up there. I've just started to sketch M103 when clouds appeared...
     _cmd:
       - ./script/add.py ../astro -i ../astro/orig/inv/1000001319.jpg -c ../astro/orig/scan/20250826013407_001.jpg -x 55 -y 165 -o2 '35 Psc'
+
+  - full: pi-1-peg-pi-2-peg-15-aql-20250828.jpg
+    scan: 20250828010814_001.jpg
+    sub:
+      - pi-1-peg-pi-2-peg-20250828.jpg
+      - 15-aql-20250828.jpg
+    _cmd:
+      - ./script/add.py ../astro -i ../astro/orig/inv/1000001324.jpg -c ../astro/orig/scan/20250828010814_001.jpg -x 33 -y 190 -s 0.99 -o1 'Pi-1 Peg, Pi-2 Peg' 
+        -o2 '15 Aql'

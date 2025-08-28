@@ -12,6 +12,13 @@ objects:
     constellation: Peg
     type: star system
 
+  15 Aql:
+    name: 15 Aql
+    constellation: Aql
+    type: binary star
+    aka:
+      - h Aql
+
   35 Psc:
     name: 35 Psc
     constellation: Psc
@@ -152,6 +159,16 @@ objects:
     aka:
       - Caldwell 55
       - Saturn Nebula
+
+  Pi-1 Peg:
+    name: Pi-1 Peg
+    constellation: Peg
+    type: astrometric binary star
+
+  Pi-2 Peg:
+    name: Pi-2 Peg
+    constellation: Peg
+    type: star
 
   Saturn:
     constellation: Solar System

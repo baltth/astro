@@ -332,5 +332,39 @@ observations:
       This star system looks much prettier than my sketch. The main component is a double star
       on its own but it's impossible to resolve with telescope.
       It's also a variable star with _UU Psc_ designation.
-      
+
       Unfortunately there's no visible neighbor in this field of view.
+
+  - name:
+      - Pi-1 Peg
+      - Pi-2 Peg
+    date: '2025-08-28'
+    img: pi-1-peg-pi-2-peg-20250828.jpg
+    nelm: 44
+    seeing: 5
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      Pi-1 and Pi-2 Pegasi are unrelated and too far (10') to
+      be called binary. While Pi-1 is a binary on its own,
+      its pair is not visible, however the surrounding faint stars
+      were associated with it formerly.
+
+  - name: 15 Aql
+    date: '2025-08-28'
+    img: 15-aql-20250828.jpg
+    nelm: 44
+    seeing: 5
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      This was the first time to measure separation of binary stars.
+      I used no special equipment and used a naive calculation,
+      just for fun. I may describe the method later, now the results:
+
+      _PA: ~150 deg, separation: 42''_
+
+      Not bad for the first try, Wikipedia [mentions](https://en.wikipedia.org/wiki/15_Aquilae)
+      _39''_ separation.

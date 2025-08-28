@@ -1,7 +1,6 @@
 > This site contains some astronomy sketches, created just for fun.
-> More info coming soon.
 > 
-> Balazs Toth - baltth at gmail dot com
+> Balázs Tóth - [_baltth@gmail.com_][mail]
 
 ![M31, M32](img/m31-m32-20250722.jpg)
 
@@ -59,6 +58,7 @@ I use different colors during sketching.
 I like the idea of drawing with inverted colors but it's challenging
 to find the matching color pencils, especially for yellow stars.
 My current setup and the inverted result looks like
+
 ![colors](img/colors_combined.jpg)
 
 To make a colored star brighter I've also tried to put a little gray or black
@@ -67,11 +67,13 @@ dot in the middle but it's really hard to do well.
 The code of lines and points identifies the color by its
 approximate RGB spectrum. This is marked on the pencils to
 be able to identify in the dark:
+
 ![pencil](img/pencil.jpg)
 
 > Note that `|||` pencil is grey instead of white. For white color I
 > trivially use the ordinary graphite pencils.
 
+---
 
 ## Inspiring links
 
@@ -89,6 +91,7 @@ Let's name a few!
 - The album of [Carol L](https://www.cloudynights.com/gallery/member/4175-Carol%20L/)
   and the whole community on [Cloudy Nights](https://www.cloudynights.com).
 
+---
 
 ## Site info
 
@@ -120,9 +123,15 @@ files containing the observation data. This helps to minimize time spent with ed
 
 I use [Github Pages](https://docs.github.com/pages) to host the site.
 
+---
 
 ### About me
 
 _Balázs Tóth -- novice in astronomy -- software architect -- 
 Hungarian -- father of two -- eastern catholic -- 
 playing the bass -- fishing -- happy if offline_
+
+Feel free to contact me with any questions at [_baltth@gmail.com_][mail].
+Please add `[astro]` to the subject to avoid getting into spam.
+
+[mail]: mailto:baltth@gmail.com?subject=%5Bastro%5D

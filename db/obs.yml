@@ -338,7 +338,7 @@ observations:
   - name:
       - Pi-1 Peg
       - Pi-2 Peg
-    date: '2025-08-28'
+    date: '2025-08-27 21:35'
     img: pi-1-peg-pi-2-peg-20250828.jpg
     nelm: 44
     seeing: 5
@@ -352,7 +352,7 @@ observations:
       were associated with it formerly.
 
   - name: 15 Aql
-    date: '2025-08-28'
+    date: '2025-08-27 22:30'
     img: 15-aql-20250828.jpg
     nelm: 44
     seeing: 5

@@ -8,6 +8,8 @@
 
 ## Latest
 
+- 2025-08-28: [57 Aquilae](obs/57-aql-2025-08-28.md)
+- 2025-08-28: [Iota Cassiopeiae](obs/iota-cas-2025-08-28.md)
 - 2025-08-27: [Pi-1 Pegasi, Pi-2 Pegasi](obs/pi-1-peg-pi-2-peg-2025-08-27.md)
 - 2025-08-27: [15 Aquilae](obs/15-aql-2025-08-27.md)
 - 2025-08-25: [35 Piscium](obs/35-psc-2025-08-25.md)
@@ -16,8 +18,6 @@
 - 2025-08-19: [Messier 27](obs/m27-2025-08-19.md)
 - 2025-08-19: [61 Cygni](obs/61-cyg-2025-08-19.md)
 - 2025-08-18: [Messier 34](obs/m34-2025-08-18.md)
-- 2025-08-18: [Alpha Ursae Minoris](obs/alpha-umi-2025-08-18.md)
-- 2025-08-06: [Saturn](obs/saturn-2025-08-06.md)
 
 ---
 

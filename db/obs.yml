@@ -338,9 +338,9 @@ observations:
   - name:
       - Pi-1 Peg
       - Pi-2 Peg
-    date: '2025-08-27 21:35'
+    date: 2025-08-27 21:35
     img: pi-1-peg-pi-2-peg-20250828.jpg
-    nelm: 44
+    nelm: 4.4
     seeing: 5
     ap: 127
     mag: 103
@@ -352,19 +352,40 @@ observations:
       were associated with it formerly.
 
   - name: 15 Aql
-    date: '2025-08-27 22:30'
+    date: 2025-08-27 22:30
     img: 15-aql-20250828.jpg
-    nelm: 44
+    nelm: 4.4
     seeing: 5
     ap: 127
     mag: 103
     fov: 0.66
     text: |
-      This was the first time to measure separation of binary stars.
-      I used no special equipment and used a naive calculation,
+      This was the first time I'd measured separation of binary stars.
+      I used no special equipment and done a naive calculation 
       just for fun. I may describe the method later, now the results:
 
       _PA: ~150 deg, separation: 42''_
 
       Not bad for the first try, Wikipedia [mentions](https://en.wikipedia.org/wiki/15_Aquilae)
       _39''_ separation.
+
+  - name: 57 Aql
+    img: 57-aql-20250829.jpg
+    date: '2025-08-28 23:20'
+    nelm: 4.0
+    seeing: 4
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: ''
+
+  - name: Iota Cas
+    img: iota-cas-20250829.jpg
+    date: '2025-08-28 23:40'
+    loc: ''
+    nelm: 4.0
+    seeing: 3
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: ''

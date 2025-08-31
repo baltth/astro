@@ -26,6 +26,11 @@ objects:
     aka:
       - UU Piscium
 
+  57 Aql:
+    name: 57 Aql
+    constellation: Aql
+    type: double star
+
   61 Cyg:
     constellation: Cyg
     type: double star
@@ -69,6 +74,11 @@ objects:
   Gamma Del:
     constellation: Del
     type: double star
+
+  Iota Cas:
+    name: Iota Cas
+    constellation: Cas
+    type: star system
 
   Kappa Her:
     constellation: Her

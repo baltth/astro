@@ -12,6 +12,10 @@
 # 'mag': magnification [int]
 # 'fov': field of view of the sketch in degrees [float]
 # 'text': observation notes [string]
+# 'data': custom observation data [map], e.g.
+#    data: 
+#      PA: ~150°
+#      Separation: 42" 
 
 observations:
   - name: M11
@@ -359,15 +363,18 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
+    data:
+      PA: ~150°
+      Separation: 42" 
     text: |
       This was the first time I'd measured separation of binary stars.
       I used no special equipment and done a naive calculation 
       just for fun. I may describe the method later, now the results:
 
-      _PA: ~150 deg, separation: 42''_
+      _PA: ~150°, separation: 42"_
 
       Not bad for the first try, Wikipedia [mentions](https://en.wikipedia.org/wiki/15_Aquilae)
-      _39''_ separation.
+      _39"_ separation.
 
   - name: 57 Aql
     img: 57-aql-20250829.jpg
@@ -377,6 +384,9 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
+    data:
+      PA: ~190°
+      Separation: 32" 
     text: ''
 
   - name: Iota Cas
@@ -388,4 +398,7 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
+    data:
+      PA: ~260°
+      Separation: 2.7" 
     text: ''

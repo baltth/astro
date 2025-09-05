@@ -8,6 +8,7 @@
 
 ## Latest
 
+- 2025-09-04: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-04.md)
 - 2025-08-28: [57 Aquilae](obs/57-aql-2025-08-28.md)
 - 2025-08-28: [Iota Cassiopeiae](obs/iota-cas-2025-08-28.md)
 - 2025-08-27: [Pi-1 Pegasi, Pi-2 Pegasi](obs/pi-1-peg-pi-2-peg-2025-08-27.md)
@@ -17,7 +18,6 @@
 - 2025-08-19: [Messier 57](obs/m57-2025-08-19.md)
 - 2025-08-19: [Messier 27](obs/m27-2025-08-19.md)
 - 2025-08-19: [61 Cygni](obs/61-cyg-2025-08-19.md)
-- 2025-08-18: [Messier 34](obs/m34-2025-08-18.md)
 
 ---
 

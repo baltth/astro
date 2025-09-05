@@ -12,6 +12,10 @@
 # 'mag': magnification [int]
 # 'fov': field of view of the sketch in degrees [float]
 # 'text': observation notes [string]
+# 'data': custom observation data [map], e.g.
+#    data: 
+#      PA: ~150°
+#      Separation: 42" 
 
 observations:
   - name: M11
@@ -359,33 +363,73 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
+    data:
+      PA: ~150°
+      Separation: 42"
     text: |
       This was the first time I'd measured separation of binary stars.
       I used no special equipment and done a naive calculation 
       just for fun. I may describe the method later, now the results:
 
-      _PA: ~150 deg, separation: 42''_
+      _PA: ~150°, separation: 42"_
 
       Not bad for the first try, Wikipedia [mentions](https://en.wikipedia.org/wiki/15_Aquilae)
-      _39''_ separation.
+      _39"_ separation.
 
   - name: 57 Aql
     img: 57-aql-20250829.jpg
-    date: '2025-08-28 23:20'
+    date: 2025-08-28 23:20
     nelm: 4.0
     seeing: 4
     ap: 127
     mag: 103
     fov: 0.66
+    data:
+      PA: ~190°
+      Separation: 32"
     text: ''
 
   - name: Iota Cas
     img: iota-cas-20250829.jpg
-    date: '2025-08-28 23:40'
+    date: 2025-08-28 23:40
     loc: ''
     nelm: 4.0
     seeing: 3
     ap: 127
     mag: 171
     fov: 0.4
+    data:
+      PA: ~260°
+      Separation: 2.7"
+    text: ''
+
+  - name:
+      - Archimedes
+      - Aristillus
+      - Autolycus
+    img: archimedes-aristillus-autolycus-20250905.jpg
+    date: '2025-08-14'
+    loc: Zivogosce, HR
+    ap: 127
+    mag: 171
+    fov: 3.8'
+    data:
+      FOV diameter: ~400 km
+      Equivalent mag.: ~1070x
+    text: |
+      First sketch of the Moon.
+
+  - name:
+      - Aristarchus
+      - Herodotus
+    img: aristarchus-herodotus-20250905.jpg
+    date: 2025-09-04 23:15
+    loc: ''
+    seeing: 7
+    ap: 127
+    mag: 171
+    fov: 1.8'
+    data:
+      FOV diameter: ~200 km
+      Equivalent mag.: ~2270x
     text: ''

@@ -13,23 +13,48 @@ objects:
     type: star system
 
   15 Aql:
-    name: 15 Aql
     constellation: Aql
     type: binary star
     aka:
       - h Aql
 
   35 Psc:
-    name: 35 Psc
     constellation: Psc
     type: triple star
     aka:
       - UU Piscium
 
   57 Aql:
-    name: 57 Aql
     constellation: Aql
     type: double star
+    components:
+      57 Aql A:
+        name: HD 188293
+        mag: 5.7
+      57 Aql B:
+        name: HD 188294
+        mag: 6.48
+    fetched:
+      HD 188293:
+        name: HD 188293
+        type: Star
+        subtype: Blue Main Sequence
+        ra: 19h 54m 37s
+        dec: -9° 46' 22"
+        spectral_class: B7Vn
+        aka:
+          - HIP 97966
+          - HR 7593
+      HD 188294:
+        name: HD 188294
+        type: Star
+        subtype: Blue Main Sequence
+        ra: 19h 54m 38s
+        dec: -9° 45' 47"
+        spectral_class: B8V
+        aka:
+          - HIP 97967
+          - HR 7594
 
   61 Cyg:
     constellation: Cyg
@@ -52,22 +77,21 @@ objects:
       - Polaris
 
   Archimedes:
-    name: Archimedes
     constellation: Moon
     type: crater
 
   Aristarchus:
-    name: Aristarchus
     constellation: Moon
     type: crater
+    data:
+      coordinates: 23.7°N 47.4°W
+      size: 40 km
 
   Aristillus:
-    name: Aristillus
     constellation: Moon
     type: crater
 
   Autolycus:
-    name: Autolycus
     constellation: Moon
     type: crater
 
@@ -96,14 +120,41 @@ objects:
     type: double star
 
   Herodotus:
-    name: Herodotus
     constellation: Moon
     type: crater
+    data:
+      coordinates: 23.2°N 49.7°W
+      size: 35 km
 
   Iota Cas:
-    name: Iota Cas
     constellation: Cas
     type: star system
+    desc: quintuple star system
+    components:
+      Iota Cas A:
+        name: HD 15089
+        desc: Binary star with a white main sequence primary
+        spectral_class: A3p / G6
+        mag: 4.65 / 8.48
+      Iota Cas B:
+        desc: Yellow main sequence star
+        spectral_class: F5
+        mag: 6.87
+      Iota Cas C:
+        desc: Binary star
+        spectral_class: K4 / M2
+        mag: 9.14 / 11.84
+    fetched:
+      HD 15089:
+        name: HD 15089
+        type: Star
+        subtype: Main Sequence
+        ra: 02h 29m 03s
+        dec: 67° 24' 9"
+        spectral_class: A5p Sr
+        aka:
+          - HIP 11569
+          - HR 707
 
   Kappa Her:
     constellation: Her
@@ -135,6 +186,17 @@ objects:
     aka:
       - NGC 6853
       - Dumbbell Nebula
+    fetched:
+      M 27:
+        name: M 27
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        desc: ''
+        ra: 19h 59m 24s
+        dec: 22° 43' 12"
+        aka:
+          - NGC 6853
+          - Dumbbell Nebula
 
   M29:
     constellation: Cyg
@@ -142,6 +204,17 @@ objects:
     aka:
       - NGC 6913
       - Cooling Tower Cluster
+    fetched:
+      M 29:
+        name: M 29
+        type: Open Cluster
+        subtype: Medium disperation, large sized cluster with poor star density
+        desc: ''
+        ra: 20h 24m 00s
+        dec: 38° 31' 12"
+        aka:
+          - NGC 6913
+          - Cooling Tower
 
   M31:
     constellation: And
@@ -169,6 +242,16 @@ objects:
     aka:
       - NGC 7092
       - Pyramid Cluster
+    fetched:
+      M 39:
+        name: M 39
+        type: Open Cluster
+        subtype: Medium disperation, medium sized cluster with poor star density
+        desc: ''
+        ra: 21h 31m 48s
+        dec: 48° 25' 48"
+        aka:
+          - NGC 7092
 
   M57:
     constellation: Lyr
@@ -176,6 +259,17 @@ objects:
     aka:
       - NGC 6720
       - Ring Nebula
+    fetched:
+      M 57:
+        name: M 57
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        desc: ''
+        ra: 18h 53m 24s
+        dec: 33° 1' 48"
+        aka:
+          - NGC 6720
+          - Ring Nebula
 
   M71:
     constellation: Sge
@@ -183,10 +277,31 @@ objects:
     aka:
       - NGC 6838
       - Angelfish Cluster
+    fetched:
+      M 71:
+        name: M 71
+        type: Globular Cluster
+        subtype: ''
+        desc: ''
+        ra: 19h 54m 00s
+        dec: 18° 46' 48"
+        aka:
+          - NGC 6838
+          - Angelfish Cluster
 
   NGC 6633:
     constellation: Oph
     type: open cluster
+    fetched:
+      NGC 6633:
+        name: NGC 6633
+        type: Open Cluster
+        subtype: Medium disperation, medium sized cluster with medium star density
+        desc: ''
+        ra: 18h 27m 15s
+        dec: 6° 30' 30"
+        aka:
+          - Tweedledum Cluster
 
   NGC 7009:
     constellation: Aqr
@@ -196,12 +311,10 @@ objects:
       - Saturn Nebula
 
   Pi-1 Peg:
-    name: Pi-1 Peg
     constellation: Peg
     type: astrometric binary star
 
   Pi-2 Peg:
-    name: Pi-2 Peg
     constellation: Peg
     type: star
 

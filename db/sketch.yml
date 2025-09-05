@@ -197,5 +197,5 @@ sketches:
       - archimedes-aristillus-autolycus-20250905.jpg
       - aristarchus-herodotus-20250905.jpg
     _cmd:
-      - ./script/astro_gen.py ../astro add -i ../astro/orig/scan/20250905011040_001.jpg -c ../astro/orig/scan/20250905011040_001.jpg -x 80 -y 175 -o1 
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001340.jpg -c ../astro/orig/scan/20250905011040_001.jpg -x 80 -y 175 -o1 
         Archimedes,Aristillus,Autolycus -o2 Aristarchus,Herodotus

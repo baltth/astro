@@ -51,6 +51,26 @@ objects:
     aka:
       - Polaris
 
+  Archimedes:
+    name: Archimedes
+    constellation: Moon
+    type: crater
+
+  Aristarchus:
+    name: Aristarchus
+    constellation: Moon
+    type: crater
+
+  Aristillus:
+    name: Aristillus
+    constellation: Moon
+    type: crater
+
+  Autolycus:
+    name: Autolycus
+    constellation: Moon
+    type: crater
+
   Beta Cyg:
     constellation: Cyg
     type: double star
@@ -74,6 +94,11 @@ objects:
   Gamma Del:
     constellation: Del
     type: double star
+
+  Herodotus:
+    name: Herodotus
+    constellation: Moon
+    type: crater
 
   Iota Cas:
     name: Iota Cas

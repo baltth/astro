@@ -19,6 +19,14 @@ FOV diameter | ~200 km
 Equivalent mag. | ~2270x
 
 
+#### Object data
+
+Objects | Aristarchus | Herodotus
+-|-|-
+Desc. | Crater | Crater
+Coordinates | 23.7°N 47.4°W | 23.2°N 49.7°W
+Size | 40 km | 35 km
+
 ## Links
 
 - [Full sketch](../img/archimedes-aristillus-autolycus-aristarchus-herodotus-20250905.jpg)

@@ -1,8 +1,8 @@
 # Epsilon Equulei
 
-[Main page](../index.md) - [Index](../pages/obj_index.md)
+[Main page](../index.md) -- [Index](../pages/obj_index.md)
 
-_Epsilon Equ_ - _ε Equ_ - _Star system in Equuleus_  
+_Epsilon Equ_ -- _ε Equ_ -- _Star system in Equuleus_  
 
 ![Epsilon Equulei](../img/epsilon-equ-20250729.jpg)
 

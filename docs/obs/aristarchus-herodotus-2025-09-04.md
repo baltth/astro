@@ -1,11 +1,16 @@
 # Aristarchus, Herodotus
 
-[Main page](../index.md) -- [Index](../pages/obj_index.md)
+[Main page](../index.md) -- [Index](../pages/obj_index.md) -- [Next: Aristarchus, Herodotus on 2025-09-06](../obs/aristarchus-herodotus-2025-09-06.md)
 
 _Aristarchus_ -- _Crater in Moon_  
 _Herodotus_ -- _Crater in Moon_  
 
 ![Aristarchus, Herodotus](../img/aristarchus-herodotus-20250905.jpg)
+
+I wanted to observe Mon but choosing this was an ad-hoc decision.
+Aristarchus is considered the brightest on the surface of Moon.
+Well, it was bright enough but only understood the reason when
+I checked it again [two days later](aristarchus-herodotus-2025-09-06.md)...
 
 Objects | Aristarchus, Herodotus
 -|-
@@ -17,6 +22,7 @@ FOV | 1.8'
 **Other data** |  
 FOV diameter | ~200 km
 Equivalent mag. | ~2270x
+Age of Moon | 12.3 days
 
 
 #### Object data
@@ -31,3 +37,4 @@ Size | 40 km | 35 km
 
 - [Full sketch](../img/archimedes-aristillus-autolycus-aristarchus-herodotus-20250905.jpg)
 - [Original sketch](../scan/20250905011040_001.jpg)
+- [Next: Aristarchus, Herodotus on 2025-09-06](../obs/aristarchus-herodotus-2025-09-06.md)

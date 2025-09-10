@@ -1,10 +1,10 @@
 # Archimedes, Aristillus, Autolycus
 
-[Main page](../index.md) - [Index](../pages/obj_index.md)
+[Main page](../index.md) -- [Index](../pages/obj_index.md)
 
-_Archimedes_ - _Crater in Moon_  
-_Aristillus_ - _Crater in Moon_  
-_Autolycus_ - _Crater in Moon_  
+_Archimedes_ -- _Crater in Moon_  
+_Aristillus_ -- _Crater in Moon_  
+_Autolycus_ -- _Crater in Moon_  
 
 ![Archimedes, Aristillus, Autolycus](../img/archimedes-aristillus-autolycus-20250905.jpg)
 

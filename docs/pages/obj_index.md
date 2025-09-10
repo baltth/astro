@@ -1,6 +1,6 @@
 # Index
 
-[Main page](../index.md) - [Index](../pages/obj_index.md)
+[Main page](../index.md) -- [Index](../pages/obj_index.md)
 
 ## Categories
 

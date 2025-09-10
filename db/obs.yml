@@ -228,7 +228,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: eta-cas-20250804.jpg
+    img: 70-oph-20250804.jpg
     text: ''
 
   - name: Saturn

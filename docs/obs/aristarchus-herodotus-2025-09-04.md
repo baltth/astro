@@ -1,9 +1,9 @@
 # Aristarchus, Herodotus
 
-[Main page](../index.md) - [Index](../pages/obj_index.md)
+[Main page](../index.md) -- [Index](../pages/obj_index.md)
 
-_Aristarchus_ - _Crater in Moon_  
-_Herodotus_ - _Crater in Moon_  
+_Aristarchus_ -- _Crater in Moon_  
+_Herodotus_ -- _Crater in Moon_  
 
 ![Aristarchus, Herodotus](../img/aristarchus-herodotus-20250905.jpg)
 

@@ -1,6 +1,6 @@
 # All observations
 
-[Main page](../index.md) - [Index](../pages/obj_index.md)
+[Main page](../index.md) -- [Index](../pages/obj_index.md)
 
 - 2025-09-04: [Aristarchus, Herodotus](../obs/aristarchus-herodotus-2025-09-04.md)
 - 2025-08-28: [57 Aquilae](../obs/57-aql-2025-08-28.md)

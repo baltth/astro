@@ -417,14 +417,15 @@ observations:
       FOV diameter: ~400 km
       Equivalent mag.: ~1070x
     text: |
-      First sketch of the Moon.
+      My first sketch of the Moon. I didn't prepare this, just simply had
+      a night when observing anything else was impossible due to the bad seeing.
+      Now I'm sure I'll do more in the future.
 
   - name:
       - Aristarchus
       - Herodotus
     img: aristarchus-herodotus-20250905.jpg
     date: 2025-09-04 23:15
-    loc: ''
     seeing: 7
     ap: 127
     mag: 171
@@ -432,4 +433,31 @@ observations:
     data:
       FOV diameter: ~200 km
       Equivalent mag.: ~2270x
-    text: ''
+      Age of Moon: 12.3 days
+    text: |
+      I wanted to observe Mon but choosing this was an ad-hoc decision.
+      Aristarchus is considered the brightest on the surface of Moon.
+      Well, it was bright enough but only understood the reason when
+      I checked it again [two days later](aristarchus-herodotus-2025-09-06.md)...
+
+  - name:
+      - Aristarchus
+      - Herodotus
+    img: aristarchus-herodotus-20250908.jpg
+    date: 2025-09-07 00:30
+    seeing: 7
+    ap: 127
+    mag: 171
+    fov: 1.8'
+    data:
+      FOV diameter: ~200 km
+      Equivalent mag.: ~2270x
+      Age of Moon: 14.4 days
+    text: |
+      Just two days after [sketching these](aristarchus-herodotus-2025-09-04.md)
+      I checked them again to start the night. I was fascinated by the difference
+      and decided to a sketch again with the same perspective.
+      
+      Now it's as bright as it can be. Aristarchus had lost its contour and looks
+      bigger as it's 'merged' with the surrounding light surface.
+

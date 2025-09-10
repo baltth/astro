@@ -199,3 +199,13 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001340.jpg -c ../astro/orig/scan/20250905011040_001.jpg -x 80 -y 175 -o1 
         Archimedes,Aristillus,Autolycus -o2 Aristarchus,Herodotus
+
+  - full: na-aristarchus-herodotus-20250908.jpg
+    scan: 20250908001023_001.jpg
+    sub:
+      - aristarchus-herodotus-20250908.jpg
+    notes: |
+      This sketchbook page is incomplete, will be rescanned later.
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001351.jpg -c ../astro/orig/scan/20250908001023_001.jpg -x 50 -y 195 -o2 
+        Aristarchus,Herodotus

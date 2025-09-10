@@ -8,7 +8,9 @@ _Autolycus_ -- _Crater in Moon_
 
 ![Archimedes, Aristillus, Autolycus](../img/archimedes-aristillus-autolycus-20250905.jpg)
 
-First sketch of the Moon.
+My first sketch of the Moon. I didn't prepare this, just simply had
+a night when observing anything else was impossible due to the bad seeing.
+Now I'm sure I'll do more in the future.
 
 Objects | Archimedes, Aristillus, Autolycus
 -|-

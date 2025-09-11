@@ -7,9 +7,9 @@ _Herodotus_ -- _Crater in Moon_
 
 ![Aristarchus, Herodotus](../img/aristarchus-herodotus-20250905.jpg)
 
-I wanted to observe Mon but choosing this was an ad-hoc decision.
+I wanted to observe the Moon, choosing these craters was an ad-hoc decision.
 Aristarchus is considered the brightest on the surface of Moon.
-Well, it was bright enough but only understood the reason when
+Well, it was bright enough but I only understood this statement when
 I checked it again [two days later](aristarchus-herodotus-2025-09-06.md)...
 
 Objects | Aristarchus, Herodotus

@@ -8,8 +8,8 @@ _Herodotus_ -- _Crater in Moon_
 ![Aristarchus, Herodotus](../img/aristarchus-herodotus-20250908.jpg)
 
 Just two days after [sketching these](aristarchus-herodotus-2025-09-04.md)
-I checked them again to start the night. I was fascinated by the difference
-and decided to a sketch again with the same perspective.
+I checked them again. I was fascinated by the difference
+and decided to sketch them again using the same perspective.
 
 Now it's as bright as it can be. Aristarchus had lost its contour and looks
 bigger as it's 'merged' with the surrounding light surface.
@@ -27,7 +27,7 @@ Equivalent mag. | ~2270x
 Age of Moon | 14.4 days
 
 
-> This sketchbook page is incomplete, will be rescanned later.
+> This sketchbook page is incomplete, will be rescanned when completed.
 
 #### Object data
 

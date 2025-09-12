@@ -14,15 +14,57 @@ objects:
 
   15 Aql:
     constellation: Aql
-    type: binary star
+    type: double star
     aka:
       - h Aql
+    components:
+      15 Aql:
+        name: HD 177463
+        mag: 5.4
+      HD 177442:
+        name: HD 177442
+        mag: 7.0
+    fetched:
+      HD 177463:
+        type: Star
+        subtype: Giant
+        ra: 19h 04m 57s
+        dec: -5° 58' 7"
+        spectral_class: K1III
+        aka:
+          - HIP 93717
+          - HR 7225
+      HD 177442:
+        type: Star
+        subtype: ''
+        ra: 19h 04m 56s
+        dec: -5° 57' 33"
+        spectral_class: K0
+        aka:
+          - HIP 93716
 
   35 Psc:
     constellation: Psc
     type: triple star
     aka:
-      - UU Piscium
+      - UU Psc
+    components:
+      35 Psc A:
+        name: HD 1061
+        desc: Rotating ellipsoidal variable binary
+        mag: 6.0
+      35 Psc B:
+        mag: 7.7
+    fetched:
+      HD 1061:
+        type: Star
+        subtype: Main Sequence Subgiant
+        ra: 00h 14m 58s
+        dec: 8° 49' 15"
+        spectral_class: F0IV
+        aka:
+          - HIP 1196
+          - HR 50
 
   57 Aql:
     constellation: Aql
@@ -36,7 +78,6 @@ objects:
         mag: 6.48
     fetched:
       HD 188293:
-        name: HD 188293
         type: Star
         subtype: Blue Main Sequence
         ra: 19h 54m 37s
@@ -46,7 +87,6 @@ objects:
           - HIP 97966
           - HR 7593
       HD 188294:
-        name: HD 188294
         type: Star
         subtype: Blue Main Sequence
         ra: 19h 54m 38s
@@ -59,6 +99,33 @@ objects:
   61 Cyg:
     constellation: Cyg
     type: double star
+    components:
+      61 Cyg A:
+        name: HD 201091
+        mag: 5.2
+      61 Cyg B:
+        name: HD 201092
+        mag: 6.0
+    fetched:
+      HD 201091:
+        type: Star
+        subtype: Main Sequence
+        ra: 21h 06m 53s
+        dec: 38° 44' 58"
+        spectral_class: K5V
+        aka:
+          - HIP 104214
+          - HR 8085
+      HD 201092:
+        type: Star
+        subtype: Main Sequence
+        ra: 21h 06m 54s
+        dec: 38° 44' 31"
+        spectral_class: K7V
+        aka:
+          - HIP 104217
+          - HR 8086
+          - Bessel's Star
 
   70 Oph:
     constellation: Oph
@@ -75,6 +142,27 @@ objects:
     type: double star
     aka:
       - Polaris
+    components:
+      Alpha UMi A:
+        name: HD 8890
+        desc: Binary with a yellow main sequence supergiant primary
+        spectral_class: F7Ib + F6V
+        mag: 2.0
+      Alpha UMi B:
+        desc: Main sequence star
+        spectral_class: F3V
+        mag: 8.7
+    fetched:
+      HD 8890:
+        type: Star
+        subtype: Main Sequence Supergiant
+        ra: 02h 31m 47s
+        dec: 89° 15' 51"
+        spectral_class: F7:Ib-IIv SB
+        aka:
+          - HIP 11767
+          - HR 424
+          - Polaris
 
   Archimedes:
     constellation: Moon
@@ -111,6 +199,13 @@ objects:
     aka:
       - Achird
 
+  Fracastorius:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 21.2°S 33.0°E
+      size: 124 km
+
   Gamma And:
     constellation: And
     type: double star
@@ -146,7 +241,6 @@ objects:
         mag: 9.14 / 11.84
     fetched:
       HD 15089:
-        name: HD 15089
         type: Star
         subtype: Main Sequence
         ra: 02h 29m 03s
@@ -188,10 +282,8 @@ objects:
       - Dumbbell Nebula
     fetched:
       M 27:
-        name: M 27
         type: Planetary Nebula
         subtype: Planetary Nebula
-        desc: ''
         ra: 19h 59m 24s
         dec: 22° 43' 12"
         aka:
@@ -206,10 +298,8 @@ objects:
       - Cooling Tower Cluster
     fetched:
       M 29:
-        name: M 29
         type: Open Cluster
         subtype: Medium disperation, large sized cluster with poor star density
-        desc: ''
         ra: 20h 24m 00s
         dec: 38° 31' 12"
         aka:
@@ -235,6 +325,15 @@ objects:
     aka:
       - NGC 1039
       - Spiral Cluster
+    fetched:
+      M 34:
+        type: Open Cluster
+        subtype: Low disperation, large sized cluster with medium star density
+        ra: 02h 42m 00s
+        dec: 42° 46' 12"
+        aka:
+          - NGC 1039
+          - Spiral Cluster
 
   M39:
     constellation: Cyg
@@ -244,10 +343,8 @@ objects:
       - Pyramid Cluster
     fetched:
       M 39:
-        name: M 39
         type: Open Cluster
         subtype: Medium disperation, medium sized cluster with poor star density
-        desc: ''
         ra: 21h 31m 48s
         dec: 48° 25' 48"
         aka:
@@ -261,10 +358,8 @@ objects:
       - Ring Nebula
     fetched:
       M 57:
-        name: M 57
         type: Planetary Nebula
         subtype: Planetary Nebula
-        desc: ''
         ra: 18h 53m 24s
         dec: 33° 1' 48"
         aka:
@@ -279,10 +374,8 @@ objects:
       - Angelfish Cluster
     fetched:
       M 71:
-        name: M 71
         type: Globular Cluster
         subtype: ''
-        desc: ''
         ra: 19h 54m 00s
         dec: 18° 46' 48"
         aka:
@@ -294,10 +387,8 @@ objects:
     type: open cluster
     fetched:
       NGC 6633:
-        name: NGC 6633
         type: Open Cluster
         subtype: Medium disperation, medium sized cluster with medium star density
-        desc: ''
         ra: 18h 27m 15s
         dec: 6° 30' 30"
         aka:

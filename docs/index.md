@@ -8,6 +8,7 @@
 
 ## Latest
 
+- 2025-09-11: [Fracastorius](obs/fracastorius-2025-09-11.md)
 - 2025-09-06: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-06.md)
 - 2025-09-04: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-04.md)
 - 2025-08-28: [57 Aquilae](obs/57-aql-2025-08-28.md)
@@ -17,7 +18,6 @@
 - 2025-08-25: [35 Piscium](obs/35-psc-2025-08-25.md)
 - 2025-08-19: [NGC 6633](obs/ngc-6633-2025-08-19.md)
 - 2025-08-19: [Messier 57](obs/m57-2025-08-19.md)
-- 2025-08-19: [Messier 27](obs/m27-2025-08-19.md)
 
 ---
 

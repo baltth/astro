@@ -51,6 +51,7 @@
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
+- [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Saturn](../obs/saturn-2025-08-06.md) - planet in Solar System
 
@@ -155,6 +156,7 @@
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
+- [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Saturn](../obs/saturn-2025-08-06.md) - planet in Solar System
 

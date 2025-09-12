@@ -5,7 +5,7 @@
 _Aristarchus_ -- _Crater in Moon_  
 _Herodotus_ -- _Crater in Moon_  
 
-![Aristarchus, Herodotus](../img/aristarchus-herodotus-20250908.jpg)
+![Aristarchus, Herodotus](../img/aristarchus-herodotus-20250912.jpg)
 
 Just two days after [sketching these](aristarchus-herodotus-2025-09-04.md)
 I checked them again. I was fascinated by the difference
@@ -27,8 +27,6 @@ Equivalent mag. | ~2270x
 Age of Moon | 14.4 days
 
 
-> This sketchbook page is incomplete, will be rescanned when completed.
-
 #### Object data
 
 Objects | Aristarchus | Herodotus
@@ -39,6 +37,6 @@ Size | 40 km | 35 km
 
 ## Links
 
-- [Full sketch](../img/na-aristarchus-herodotus-20250908.jpg)
-- [Original sketch](../scan/20250908001023_001.jpg)
+- [Full sketch](../img/fracastorius-aristarchus-herodotus-20250912.jpg)
+- [Original sketch](../scan/20250912075516_001.jpg)
 - [Previous: Aristarchus, Herodotus on 2025-09-04](../obs/aristarchus-herodotus-2025-09-04.md)

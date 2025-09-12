@@ -199,6 +199,13 @@ objects:
     aka:
       - Achird
 
+  Fracastorius:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 21.2°S 33.0°E
+      size: 124 km
+
   Gamma And:
     constellation: And
     type: double star

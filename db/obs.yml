@@ -479,3 +479,18 @@ observations:
       Now it's as bright as it can be. Aristarchus had lost its contour and looks
       bigger as it's 'merged' with the surrounding light surface.
 
+
+  - name: Saturn
+    img: saturn-20250912.jpg
+    date: 2025-09-11 23:30
+    nelm: 46
+    seeing: 7
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      Saturn with moons Titan and Rhea, near to BH Piscium.
+
+      Color of Saturn is much better than in my previous sketch,
+      the apparent size also seems better. Now I have to
+      learn drawing a circle.

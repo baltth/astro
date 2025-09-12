@@ -208,3 +208,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001356.jpg -c ../astro/orig/scan/20250912075516_001.jpg -x 25 -y 175 -o1 Fracastorius -o2 
         Aristarchus,Herodotus
+
+  - full: saturn-na-20250912.jpg
+    scan: 20250912080237_001.jpg
+    sub:
+      - saturn-20250912.jpg
+    notes: |
+      This sketch page is incomplete, will be updated later.
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001357.jpg -c ../astro/orig/scan/20250912080237_001.jpg -x 75 -y 175 -o1 Saturn

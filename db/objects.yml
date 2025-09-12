@@ -130,6 +130,24 @@ objects:
   70 Oph:
     constellation: Oph
     type: double star
+    components:
+      70 Oph A:
+        name: HD 165341
+        mag: 4.1
+      70 Oph B:
+        desc: Orange dwarf star
+        mag: 6.1
+        spectral_class: K4
+    fetched:
+      HD 165341:
+        type: Star
+        subtype: Main Sequence
+        ra: 18h 05m 27s
+        dec: 2° 30' 0"
+        spectral_class: K0V SB
+        aka:
+          - HIP 88601
+          - HR 6752
 
   80 UMa:
     constellation: UMa
@@ -167,6 +185,9 @@ objects:
   Archimedes:
     constellation: Moon
     type: crater
+    data:
+      coordinates: 29.72°N 3.99°W
+      size: 81 km
 
   Aristarchus:
     constellation: Moon
@@ -178,10 +199,16 @@ objects:
   Aristillus:
     constellation: Moon
     type: crater
+    data:
+      coordinates: 33.9°N 1.2°E
+      size: 55 km
 
   Autolycus:
     constellation: Moon
     type: crater
+    data:
+      coordinates: 30.7°N 1.5°E
+      size: 39 km
 
   Beta Cyg:
     constellation: Cyg
@@ -198,6 +225,25 @@ objects:
     type: double star
     aka:
       - Achird
+    components:
+      Eta Cas A:
+        name: HD 4614
+        mag: 3.4
+      Eta Cas B:
+        name: HD 4614B
+        mag: 7.5
+        spectral_class: K7V
+    fetched:
+      HD 4614:
+        type: Star
+        subtype: Yellow Main Sequence
+        ra: 00h 49m 05s
+        dec: 57° 48' 55"
+        spectral_class: G0V SB
+        aka:
+          - HIP 3821
+          - HR 219
+          - Achird
 
   Fracastorius:
     constellation: Moon
@@ -420,6 +466,37 @@ objects:
   Theta Ser:
     constellation: Ser
     type: double star
+    components:
+      Theta Ser A:
+        name: HD 175638
+        desc: Main sequence star
+        mag: 4.6
+      Theta Ser B:
+        name: HD 175639
+        desc: Main sequence star
+        mag: 5.0
+    fetched:
+      HD 175638:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 18h 56m 13s
+        dec: 4° 12' 13"
+        spectral_class: A5V
+        aka:
+          - HIP 92946
+          - HR 7141
+          - Alya
+      HD 175639:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 18h 56m 14s
+        dec: 4° 12' 8"
+        spectral_class: A5Vn
+        aka:
+          - HIP 92951
+          - HR 7142
+    aka:
+      - Alya
 
   V Aql:
     constellation: Aql

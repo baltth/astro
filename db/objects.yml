@@ -26,7 +26,6 @@ objects:
         mag: 7.0
     fetched:
       HD 177463:
-        name: HD 177463
         type: Star
         subtype: Giant
         ra: 19h 04m 57s
@@ -36,7 +35,6 @@ objects:
           - HIP 93717
           - HR 7225
       HD 177442:
-        name: HD 177442
         type: Star
         subtype: ''
         ra: 19h 04m 56s
@@ -59,7 +57,6 @@ objects:
         mag: 7.7
     fetched:
       HD 1061:
-        name: HD 1061
         type: Star
         subtype: Main Sequence Subgiant
         ra: 00h 14m 58s
@@ -81,7 +78,6 @@ objects:
         mag: 6.48
     fetched:
       HD 188293:
-        name: HD 188293
         type: Star
         subtype: Blue Main Sequence
         ra: 19h 54m 37s
@@ -91,7 +87,6 @@ objects:
           - HIP 97966
           - HR 7593
       HD 188294:
-        name: HD 188294
         type: Star
         subtype: Blue Main Sequence
         ra: 19h 54m 38s
@@ -113,7 +108,6 @@ objects:
         mag: 6.0
     fetched:
       HD 201091:
-        name: HD 201091
         type: Star
         subtype: Main Sequence
         ra: 21h 06m 53s
@@ -123,7 +117,6 @@ objects:
           - HIP 104214
           - HR 8085
       HD 201092:
-        name: HD 201092
         type: Star
         subtype: Main Sequence
         ra: 21h 06m 54s
@@ -161,7 +154,6 @@ objects:
         mag: 8.7
     fetched:
       HD 8890:
-        name: HD 8890
         type: Star
         subtype: Main Sequence Supergiant
         ra: 02h 31m 47s
@@ -242,7 +234,6 @@ objects:
         mag: 9.14 / 11.84
     fetched:
       HD 15089:
-        name: HD 15089
         type: Star
         subtype: Main Sequence
         ra: 02h 29m 03s
@@ -284,10 +275,8 @@ objects:
       - Dumbbell Nebula
     fetched:
       M 27:
-        name: M 27
         type: Planetary Nebula
         subtype: Planetary Nebula
-        desc: ''
         ra: 19h 59m 24s
         dec: 22° 43' 12"
         aka:
@@ -302,10 +291,8 @@ objects:
       - Cooling Tower Cluster
     fetched:
       M 29:
-        name: M 29
         type: Open Cluster
         subtype: Medium disperation, large sized cluster with poor star density
-        desc: ''
         ra: 20h 24m 00s
         dec: 38° 31' 12"
         aka:
@@ -333,7 +320,6 @@ objects:
       - Spiral Cluster
     fetched:
       M 34:
-        name: M 34
         type: Open Cluster
         subtype: Low disperation, large sized cluster with medium star density
         ra: 02h 42m 00s
@@ -350,10 +336,8 @@ objects:
       - Pyramid Cluster
     fetched:
       M 39:
-        name: M 39
         type: Open Cluster
         subtype: Medium disperation, medium sized cluster with poor star density
-        desc: ''
         ra: 21h 31m 48s
         dec: 48° 25' 48"
         aka:
@@ -367,10 +351,8 @@ objects:
       - Ring Nebula
     fetched:
       M 57:
-        name: M 57
         type: Planetary Nebula
         subtype: Planetary Nebula
-        desc: ''
         ra: 18h 53m 24s
         dec: 33° 1' 48"
         aka:
@@ -385,10 +367,8 @@ objects:
       - Angelfish Cluster
     fetched:
       M 71:
-        name: M 71
         type: Globular Cluster
         subtype: ''
-        desc: ''
         ra: 19h 54m 00s
         dec: 18° 46' 48"
         aka:
@@ -400,10 +380,8 @@ objects:
     type: open cluster
     fetched:
       NGC 6633:
-        name: NGC 6633
         type: Open Cluster
         subtype: Medium disperation, medium sized cluster with medium star density
-        desc: ''
         ra: 18h 27m 15s
         dec: 6° 30' 30"
         aka:

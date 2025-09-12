@@ -351,7 +351,7 @@ observations:
     fov: 0.66
     text: |
       Pi-1 and Pi-2 Pegasi are unrelated and too far (10') to
-      be called binary. While Pi-1 is a binary on its own,
+      be called 'double'. While Pi-1 is a binary on its own,
       its pair is not visible, however the surrounding faint stars
       were associated with it formerly.
 
@@ -367,7 +367,7 @@ observations:
       PA: ~150°
       Separation: 42"
     text: |
-      This was the first time I'd measured separation of binary stars.
+      This was the first time I'd measured separation of double stars.
       I used no special equipment and done a naive calculation 
       just for fun. I may describe the method later, now the results:
 

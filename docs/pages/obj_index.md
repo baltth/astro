@@ -23,7 +23,7 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
-- [15 Aquilae](../obs/15-aql-2025-08-27.md) - binary star in Aquila
+- [15 Aquilae](../obs/15-aql-2025-08-27.md) - double star in Aquila
 - [35 Piscium](../obs/35-psc-2025-08-25.md) - triple star in Pisces
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
@@ -70,7 +70,7 @@
 
 #### Aquila
 
-- [15 Aquilae](../obs/15-aql-2025-08-27.md) - binary star in Aquila
+- [15 Aquilae](../obs/15-aql-2025-08-27.md) - double star in Aquila
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 

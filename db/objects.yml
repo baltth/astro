@@ -14,15 +14,60 @@ objects:
 
   15 Aql:
     constellation: Aql
-    type: binary star
+    type: double star
     aka:
       - h Aql
+    components:
+      15 Aql:
+        name: HD 177463
+        mag: 5.4
+      HD 177442:
+        name: HD 177442
+        mag: 7.0
+    fetched:
+      HD 177463:
+        name: HD 177463
+        type: Star
+        subtype: Giant
+        ra: 19h 04m 57s
+        dec: -5° 58' 7"
+        spectral_class: K1III
+        aka:
+          - HIP 93717
+          - HR 7225
+      HD 177442:
+        name: HD 177442
+        type: Star
+        subtype: ''
+        ra: 19h 04m 56s
+        dec: -5° 57' 33"
+        spectral_class: K0
+        aka:
+          - HIP 93716
 
   35 Psc:
     constellation: Psc
     type: triple star
     aka:
-      - UU Piscium
+      - UU Psc
+    components:
+      35 Psc A:
+        name: HD 1061
+        desc: Rotating ellipsoidal variable binary
+        mag: 6.0
+      35 Psc B:
+        mag: 7.7
+    fetched:
+      HD 1061:
+        name: HD 1061
+        type: Star
+        subtype: Main Sequence Subgiant
+        ra: 00h 14m 58s
+        dec: 8° 49' 15"
+        spectral_class: F0IV
+        aka:
+          - HIP 1196
+          - HR 50
 
   57 Aql:
     constellation: Aql
@@ -59,6 +104,35 @@ objects:
   61 Cyg:
     constellation: Cyg
     type: double star
+    components:
+      61 Cyg A:
+        name: HD 201091
+        mag: 5.2
+      61 Cyg B:
+        name: HD 201092
+        mag: 6.0
+    fetched:
+      HD 201091:
+        name: HD 201091
+        type: Star
+        subtype: Main Sequence
+        ra: 21h 06m 53s
+        dec: 38° 44' 58"
+        spectral_class: K5V
+        aka:
+          - HIP 104214
+          - HR 8085
+      HD 201092:
+        name: HD 201092
+        type: Star
+        subtype: Main Sequence
+        ra: 21h 06m 54s
+        dec: 38° 44' 31"
+        spectral_class: K7V
+        aka:
+          - HIP 104217
+          - HR 8086
+          - Bessel's Star
 
   70 Oph:
     constellation: Oph
@@ -75,6 +149,28 @@ objects:
     type: double star
     aka:
       - Polaris
+    components:
+      Alpha UMi A:
+        name: HD 8890
+        desc: Binary with a yellow main sequence supergiant primary
+        spectral_class: F7Ib + F6V
+        mag: 2.0
+      Alpha UMi B:
+        desc: Main sequence star
+        spectral_class: F3V
+        mag: 8.7
+    fetched:
+      HD 8890:
+        name: HD 8890
+        type: Star
+        subtype: Main Sequence Supergiant
+        ra: 02h 31m 47s
+        dec: 89° 15' 51"
+        spectral_class: F7:Ib-IIv SB
+        aka:
+          - HIP 11767
+          - HR 424
+          - Polaris
 
   Archimedes:
     constellation: Moon
@@ -235,6 +331,16 @@ objects:
     aka:
       - NGC 1039
       - Spiral Cluster
+    fetched:
+      M 34:
+        name: M 34
+        type: Open Cluster
+        subtype: Low disperation, large sized cluster with medium star density
+        ra: 02h 42m 00s
+        dec: 42° 46' 12"
+        aka:
+          - NGC 1039
+          - Spiral Cluster
 
   M39:
     constellation: Cyg

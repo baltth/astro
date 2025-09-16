@@ -274,6 +274,32 @@ objects:
     constellation: And
     type: double star
 
+  Gamma Ari:
+    constellation: Ari
+    type: star system
+    aka:
+      - Mesarthim
+    components:
+      ~A:
+        name: HD 11502
+        desc: CVn type variable star
+        mag: 4.58
+      ~B:
+        desc: |
+          'Lambda Boötis' star, maybe a spectroscopic binary
+        mag: 4.64
+    fetched:
+      HD 11502:
+        type: Star
+        subtype: Main Sequence
+        ra: 01h 53m 31s
+        dec: 19° 17' 38"
+        spectral_class: A1p Si
+        aka:
+          - HIP 8832
+          - HR 546
+          - Mesarthim
+
   Gamma Del:
     constellation: Del
     type: double star
@@ -317,6 +343,29 @@ objects:
   Kappa Her:
     constellation: Her
     type: double star
+
+  Lambda Ari:
+    constellation: Ari
+    type: double star
+    components:
+      ~A:
+        name: HD 11973
+        desc: Main sequence star
+        mag: 4.95
+      ~B:
+        desc: Main sequence star
+        mag: 7.75
+        spectral_class: G1V
+    fetched:
+      HD 11973:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 01h 57m 55s
+        dec: 23° 35' 46"
+        spectral_class: F0V
+        aka:
+          - HIP 9153
+          - HR 569
 
   M2:
     constellation: Aqr
@@ -445,6 +494,20 @@ objects:
         aka:
           - NGC 6838
           - Angelfish Cluster
+
+  M103:
+    constellation: Cas
+    type: open cluster
+    aka:
+      - NGC 581
+    fetched:
+      M 103:
+        type: Open Cluster
+        subtype: Medium disperation, medium sized cluster with poor star density
+        ra: 01h 33m 00s
+        dec: 60° 42' 0"
+        aka:
+          - NGC 581
 
   NGC 6633:
     constellation: Oph

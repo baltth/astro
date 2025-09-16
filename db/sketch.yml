@@ -209,11 +209,20 @@ sketches:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001356.jpg -c ../astro/orig/scan/20250912075516_001.jpg -x 25 -y 175 -o1 Fracastorius -o2 
         Aristarchus,Herodotus
 
-  - full: saturn-na-20250912.jpg
-    scan: 20250912080237_001.jpg
+  - full: saturn-lambda-ari-20250916.jpg
+    scan: 20250916011030_001.jpg
     sub:
-      - saturn-20250912.jpg
-    notes: |
-      This sketch page is incomplete, will be updated later.
+      - saturn-20250916.jpg
+      - lambda-ari-20250916.jpg
     _cmd:
-      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001357.jpg -c ../astro/orig/scan/20250912080237_001.jpg -x 75 -y 175 -o1 Saturn
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001367.jpg -c ../astro/orig/scan/20250916011030_001.jpg -x 55 -y 175 -o1 Saturn -o2 'Lambda 
+        Ari'
+
+  - full: m103-gamma-ari-20250916.jpg
+    scan: 20250916011610_002.jpg
+    sub:
+      - m103-20250916.jpg
+      - gamma-ari-20250916.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001369.jpg -c ../astro/orig/scan/20250916011610_002.jpg -s 0.99 -x 45 -y 165 -o1 M103 -o2 
+        'Gamma Ari'

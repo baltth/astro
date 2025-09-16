@@ -17,6 +17,7 @@
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
 - [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
+- [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 - [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
 
@@ -34,9 +35,11 @@
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - double star in Andromeda
+- [Gamma Arietis](../obs/gamma-ari-2025-09-15.md) - star system in Aries
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
+- [Lambda Arietis](../obs/lambda-ari-2025-09-15.md) - double star in Aries
 - [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - astrometric binary star in Pegasus
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
@@ -75,10 +78,16 @@
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 
+#### Aries
+
+- [Gamma Arietis](../obs/gamma-ari-2025-09-15.md) - star system in Aries
+- [Lambda Arietis](../obs/lambda-ari-2025-09-15.md) - double star in Aries
+
 #### Cassiopeia
 
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
+- [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 
 #### Cygnus

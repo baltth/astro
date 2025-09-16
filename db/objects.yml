@@ -11,6 +11,24 @@ objects:
   1 Peg:
     constellation: Peg
     type: star system
+    components:
+      1 Peg A:
+        name: HD 203504
+        mag: 4.0
+      1 Peg B:
+        desc: Spectroscopic binary
+        mag: 9.3
+        spectral_class: K0V
+    fetched:
+      HD 203504:
+        type: Star
+        subtype: Giant
+        ra: 21h 22m 05s
+        dec: 19° 48' 16"
+        spectral_class: K1III
+        aka:
+          - HIP 105502
+          - HR 8173
 
   15 Aql:
     constellation: Aql
@@ -455,13 +473,28 @@ objects:
     constellation: Peg
     type: star
 
-  Saturn:
-    constellation: Solar System
-    type: planet
-
   STF 2841:
     constellation: Peg
     type: double star
+    components:
+      ~A:
+        name: HD 208202
+        mag: 6.3
+        spectral_class: K0III
+    fetched:
+      HD 208202:
+        type: Star
+        subtype: Giant
+        ra: 21h 54m 17s
+        dec: 19° 43' 5"
+        spectral_class: K0III+...
+        aka:
+          - HIP 108119
+          - HR 8364
+
+  Saturn:
+    constellation: Solar System
+    type: planet
 
   Theta Ser:
     constellation: Ser

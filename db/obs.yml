@@ -481,9 +481,9 @@ observations:
 
 
   - name: Saturn
-    img: saturn-20250912.jpg
+    img: saturn-20250916.jpg
     date: 2025-09-11 23:30
-    nelm: 46
+    nelm: 4.6
     seeing: 7
     ap: 127
     mag: 171
@@ -494,3 +494,67 @@ observations:
       Color of Saturn is much better than in my previous sketch,
       the apparent size also seems better. Now I have to
       learn drawing a circle.
+
+  - name: M103
+    img: m103-20250916.jpg
+    date: 2025-09-15 22:10
+    nelm: 4.4
+    seeing: 6
+    ap: 127
+    mag: 171
+    fov: 0.4
+
+  - name: Lambda Ari
+    img: lambda-ari-20250916.jpg
+    date: 2025-09-15 22:40
+    nelm: 4.4
+    seeing: 6
+    ap: 127
+    mag: 103
+    fov: 0.66
+    data:
+      PA: ~220° -- 225°
+      Separation: 38" -- 41.8"
+
+  - name: Gamma Ari
+    img: gamma-ari-20250916.jpg
+    date: 2025-09-15 23:05
+    nelm: 4.4
+    seeing: 6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    data:
+      PA: ~270°
+      Separation: '15.6" _?!_ (catalog data: 7.6")'
+    text: |
+      It's a really nice shiny blueish pair. Everything beyond
+      the visuals is confusing.
+      By [Wikipedia](https://en.wikipedia.org/wiki/Gamma_Arietis)
+      it's a 'binary _or possibly_ trinary star system.'
+      Its primary _A_ component is called _γ-2,_ while
+      the secondary _B_ is _γ-1._ γ-2 is considered as an
+      A2-class subgiant but it maybe has a red dwarf pair.
+      Why not?
+
+      Even the catalogue IDs are contradicting. Wikipedia states that
+      - A = γ-2 = HD 11503 = HR _546_ = _Mesarthim_
+      - B = γ-1 = HD _11502_ = HR 545
+
+      while astronomyapi.com data is
+      - HD _11502_ = HR _546_ = _Mesarthim_
+      - no data for HD 11503 nor HR 545
+
+      Spectral classes on Wikipedia:
+      - A: A2IVpSiSrCr
+      - B: A0Vnp λ Boo _or_ A0IV-V(n)kB8
+
+      On astronomyapi.com HD 11502 is A1p Si.
+      By the way, what is _A0IV-V(n)kB8?_ And what is
+      'chemically peculiar'?...
+
+      I also failed to measure the separation correctly.
+      The result is definitely wrong, about the double of
+      the real value. I have to check my method and measure
+      it again later.
+

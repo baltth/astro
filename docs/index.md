@@ -8,6 +8,9 @@
 
 ## Latest
 
+- 2025-09-15: [Messier 103](obs/m103-2025-09-15.md)
+- 2025-09-15: [Lambda Arietis](obs/lambda-ari-2025-09-15.md)
+- 2025-09-15: [Gamma Arietis](obs/gamma-ari-2025-09-15.md)
 - 2025-09-11: [Fracastorius](obs/fracastorius-2025-09-11.md)
 - 2025-09-11: [Saturn](obs/saturn-2025-09-11.md)
 - 2025-09-06: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-06.md)
@@ -15,9 +18,6 @@
 - 2025-08-28: [57 Aquilae](obs/57-aql-2025-08-28.md)
 - 2025-08-28: [Iota Cassiopeiae](obs/iota-cas-2025-08-28.md)
 - 2025-08-27: [Pi-1 Pegasi, Pi-2 Pegasi](obs/pi-1-peg-pi-2-peg-2025-08-27.md)
-- 2025-08-27: [15 Aquilae](obs/15-aql-2025-08-27.md)
-- 2025-08-25: [35 Piscium](obs/35-psc-2025-08-25.md)
-- 2025-08-19: [NGC 6633](obs/ngc-6633-2025-08-19.md)
 
 ---
 

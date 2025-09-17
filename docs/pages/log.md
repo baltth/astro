@@ -2,6 +2,9 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2025-09-15: [Messier 103](../obs/m103-2025-09-15.md)
+- 2025-09-15: [Lambda Arietis](../obs/lambda-ari-2025-09-15.md)
+- 2025-09-15: [Gamma Arietis](../obs/gamma-ari-2025-09-15.md)
 - 2025-09-11: [Fracastorius](../obs/fracastorius-2025-09-11.md)
 - 2025-09-11: [Saturn](../obs/saturn-2025-09-11.md)
 - 2025-09-06: [Aristarchus, Herodotus](../obs/aristarchus-herodotus-2025-09-06.md)

@@ -11,6 +11,24 @@ objects:
   1 Peg:
     constellation: Peg
     type: star system
+    components:
+      1 Peg A:
+        name: HD 203504
+        mag: 4.0
+      1 Peg B:
+        desc: Spectroscopic binary
+        mag: 9.3
+        spectral_class: K0V
+    fetched:
+      HD 203504:
+        type: Star
+        subtype: Giant
+        ra: 21h 22m 05s
+        dec: 19° 48' 16"
+        spectral_class: K1III
+        aka:
+          - HIP 105502
+          - HR 8173
 
   15 Aql:
     constellation: Aql
@@ -256,6 +274,32 @@ objects:
     constellation: And
     type: double star
 
+  Gamma Ari:
+    constellation: Ari
+    type: star system
+    aka:
+      - Mesarthim
+    components:
+      ~A:
+        name: HD 11502
+        desc: CVn type variable star
+        mag: 4.58
+      ~B:
+        desc: |
+          'Lambda Boötis' star, maybe a spectroscopic binary
+        mag: 4.64
+    fetched:
+      HD 11502:
+        type: Star
+        subtype: Main Sequence
+        ra: 01h 53m 31s
+        dec: 19° 17' 38"
+        spectral_class: A1p Si
+        aka:
+          - HIP 8832
+          - HR 546
+          - Mesarthim
+
   Gamma Del:
     constellation: Del
     type: double star
@@ -299,6 +343,29 @@ objects:
   Kappa Her:
     constellation: Her
     type: double star
+
+  Lambda Ari:
+    constellation: Ari
+    type: double star
+    components:
+      ~A:
+        name: HD 11973
+        desc: Main sequence star
+        mag: 4.95
+      ~B:
+        desc: Main sequence star
+        mag: 7.75
+        spectral_class: G1V
+    fetched:
+      HD 11973:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 01h 57m 55s
+        dec: 23° 35' 46"
+        spectral_class: F0V
+        aka:
+          - HIP 9153
+          - HR 569
 
   M2:
     constellation: Aqr
@@ -428,6 +495,20 @@ objects:
           - NGC 6838
           - Angelfish Cluster
 
+  M103:
+    constellation: Cas
+    type: open cluster
+    aka:
+      - NGC 581
+    fetched:
+      M 103:
+        type: Open Cluster
+        subtype: Medium disperation, medium sized cluster with poor star density
+        ra: 01h 33m 00s
+        dec: 60° 42' 0"
+        aka:
+          - NGC 581
+
   NGC 6633:
     constellation: Oph
     type: open cluster
@@ -455,13 +536,28 @@ objects:
     constellation: Peg
     type: star
 
-  Saturn:
-    constellation: Solar System
-    type: planet
-
   STF 2841:
     constellation: Peg
     type: double star
+    components:
+      ~A:
+        name: HD 208202
+        mag: 6.3
+        spectral_class: K0III
+    fetched:
+      HD 208202:
+        type: Star
+        subtype: Giant
+        ra: 21h 54m 17s
+        dec: 19° 43' 5"
+        spectral_class: K0III+...
+        aka:
+          - HIP 108119
+          - HR 8364
+
+  Saturn:
+    constellation: Solar System
+    type: planet
 
   Theta Ser:
     constellation: Ser

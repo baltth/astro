@@ -133,7 +133,10 @@ observations:
     mag: 100
     fov: 0.68
     img: gamma-and-20250722.jpg
-    text: ''
+    text: |
+      While it seems simple, this star system has a complex
+      [hierarchy](https://commons.wikimedia.org/wiki/File:Gamma_Andromedae_Components_Black.svg).
+      Unfortunately only the main component can be resolved separately.
 
   - name: M71
     date: '2025-07-19'
@@ -172,7 +175,10 @@ observations:
     mag: 100
     fov: 0.68
     img: epsilon-equ-20250729.jpg
-    text: ''
+    text: |
+      Epsilon Equ looks like a double star, but its bright component is
+      a double on its own. As their separation is ~0.6", I was unable to
+      resolve it.
 
   - name: M39
     date: '2025-07-30'

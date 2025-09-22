@@ -34,7 +34,7 @@
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
-- [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - double star in Andromeda
+- [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - star system in Andromeda
 - [Gamma Arietis](../obs/gamma-ari-2025-09-15.md) - star system in Aries
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
@@ -63,7 +63,7 @@
 
 #### Andromeda
 
-- [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - double star in Andromeda
+- [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - star system in Andromeda
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 

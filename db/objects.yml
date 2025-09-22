@@ -233,10 +233,64 @@ objects:
     type: double star
     aka:
       - Albiero
+    components:
+      ~A:
+        name: HD 183912
+        desc: Binary of main sequence stars
+        mag: 3.1 (3.21 + 5.85)
+        spectral_class: K2II + B8:p
+      ~B:
+        name: HD 183914
+        mag: 5.1
+    fetched:
+      HD 183912:
+        type: Star
+        subtype: Bright Giant
+        ra: 19h 30m 43s
+        dec: 27° 57' 35"
+        spectral_class: K3II+...
+        aka:
+          - HIP 95947
+          - HR 7417
+          - Albireo
+      HD 183914:
+        type: Star
+        subtype: Blue Main Sequence
+        ra: 19h 30m 45s
+        dec: 27° 57' 55"
+        spectral_class: B8V
+        aka:
+          - HIP 95951
+          - HR 7418
 
   Epsilon Equ:
     constellation: Equ
     type: star system
+    components:
+      ~A:
+        name: HD 199766
+        spectral_class: F5V
+        mag: 5.96
+      ~B:
+        spectral_class: F6V
+        mag: 6.31
+        data:
+          Separation: 0.64"
+      ~C:
+        spectral_class: F6V
+        mag: 7.35
+        data:
+          Separation: 10"
+    fetched:
+      HD 199766:
+        type: Star
+        subtype: Main Sequence Giant
+        ra: 20h 59m 04s
+        dec: 4° 17' 37"
+        spectral_class: F5III...
+        aka:
+          - HIP 103569
+          - HR 8034
 
   Eta Cas:
     constellation: Cas
@@ -272,7 +326,28 @@ objects:
 
   Gamma And:
     constellation: And
-    type: double star
+    type: star system
+    components:
+      ~A:
+        name: HD 12533
+        mag: 2.27
+        spectral_class: K2+IIb
+      ~BC:
+        name: HIP 9640
+        desc: star system
+        mag: 4.84
+        spectral_class: B9.5V + A0V
+    fetched:
+      HD 12533:
+        type: Star
+        subtype: Blue Main Sequence
+        ra: 02h 03m 53s
+        dec: 42° 19' 47"
+        spectral_class: B8V
+        aka:
+          - HIP 9640
+          - HR 603
+          - Almach
 
   Gamma Ari:
     constellation: Ari
@@ -372,6 +447,14 @@ objects:
     type: globular cluster
     aka:
       - NGC 7089
+    fetched:
+      M 2:
+        type: Globular Cluster
+        subtype: Dense central concentration
+        ra: 21h 33m 36s
+        dec: 0° 49' 12"
+        aka:
+          - NGC 7089
 
   M11:
     constellation: Sct
@@ -544,6 +627,8 @@ objects:
         name: HD 208202
         mag: 6.3
         spectral_class: K0III
+      ~B:
+        mag: 8.0
     fetched:
       HD 208202:
         type: Star

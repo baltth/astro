@@ -217,6 +217,53 @@ objects:
           - HR 424
           - Polaris
 
+  Alpha-1 Cap:
+    constellation: Cap
+    type: binary star
+    aka:
+      - Algiedi Prima
+      - Prima Giedi
+    components:
+      Alpha-1 Cap:
+        name: HD 192876
+        desc: Binary star with a yellow supergiant primary
+        mag: 4.27 + 8.6
+    fetched:
+      HD 192876:
+        type: Star
+        subtype: Yellow Supergiant
+        ra: 20h 17m 38s
+        dec: -13° 29' 30"
+        spectral_class: G3Ib
+        aka:
+          - HIP 100027
+          - HR 7747
+          - Prima Giedi
+
+  Alpha-2 Cap:
+    constellation: Cap
+    type: triple star
+    aka:
+      - Algedi
+    components:
+      ~A:
+        name: HD 192947
+        mag: 3.57
+      ~BC:
+        desc: Binary star
+        mag: ~11
+    fetched:
+      HD 192947:
+        type: Star
+        subtype: Yellow
+        ra: 20h 18m 03s
+        dec: -13° 27' 19"
+        spectral_class: G6/G8III
+        aka:
+          - HIP 100064
+          - HR 7754
+          - Algedi
+
   Archimedes:
     constellation: Moon
     type: crater
@@ -280,6 +327,20 @@ objects:
           - HIP 95951
           - HR 7418
 
+  C47:
+    constellation: Del
+    type: globular cluster
+    desc: Globular cluster
+    aka:
+      - NGC 6934
+    fetched:
+      NGC 6934:
+        type: Globular Cluster
+        subtype: Rather loosely concentrated towards the center
+        ra: 20h 34m 11s
+        dec: 7° 24' 16"
+        aka: []
+
   Epsilon Equ:
     constellation: Equ
     type: star system
@@ -309,6 +370,23 @@ objects:
           - HIP 103569
           - HR 8034
 
+  Epsilon Per:
+    constellation: Per
+    type: star system
+    components:
+      ~A:
+        name: HD 24760
+    fetched:
+      HD 24760:
+        type: Star
+        subtype: Blue
+        ra: 03h 57m 51s
+        dec: 40° 0' 37"
+        spectral_class: B0.5V
+        aka:
+          - HIP 18532
+          - HR 1220
+
   Eta Cas:
     constellation: Cas
     type: double star
@@ -333,6 +411,36 @@ objects:
           - HIP 3821
           - HR 219
           - Achird
+
+  Eta Per:
+    constellation: Per
+    type: binary star
+    components:
+      ~A:
+        name: HD 17506
+        mag: 3.8
+      ~B:
+        name: HD 17456
+        mag: ~8
+    fetched:
+      HD 17506:
+        type: Star
+        subtype: Supergiant
+        ra: 02h 50m 41s
+        dec: 55° 53' 44"
+        spectral_class: K3Ib comp SB
+        aka:
+          - HIP 13268
+          - HR 834
+          - Miram
+      HD 17456:
+        type: Star
+        subtype: Main Sequence
+        ra: 02h 49m 35s
+        dec: 47° 8' 33"
+        spectral_class: A2
+        aka:
+          - HIP 13181
 
   Fracastorius:
     constellation: Moon

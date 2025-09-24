@@ -2,6 +2,10 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2025-09-19: [C47](../obs/c47-2025-09-19.md)
+- 2025-09-19: [Alpha-1 Capricorni, Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md)
+- 2025-09-19: [Eta Persei](../obs/eta-per-2025-09-19.md)
+- 2025-09-19: [Epsilon Persei](../obs/epsilon-per-2025-09-19.md)
 - 2025-09-15: [Messier 103](../obs/m103-2025-09-15.md)
 - 2025-09-15: [Lambda Arietis](../obs/lambda-ari-2025-09-15.md)
 - 2025-09-15: [Gamma Arietis](../obs/gamma-ari-2025-09-15.md)

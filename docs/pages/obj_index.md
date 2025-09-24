@@ -29,7 +29,7 @@
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
-- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
+- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
@@ -148,7 +148,7 @@
 
 #### Ursa Major
 
-- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
+- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
 
 #### Ursa Minor

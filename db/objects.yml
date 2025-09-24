@@ -169,9 +169,26 @@ objects:
 
   80 UMa:
     constellation: UMa
-    type: star
+    type: binary star
     aka:
       - Alcor
+    components:
+      80 UMa:
+        name: HD 116842
+        desc: Binary of main sequence stars
+        spectral_class: A5V SB + M3-4
+        mag: 3.99
+    fetched:
+      HD 116842:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 13h 25m 13s
+        dec: 54° 59' 17"
+        spectral_class: A5V SB
+        aka:
+          - HIP 65477
+          - HR 5062
+          - Alcor
 
   Alpha UMi:
     constellation: UMi
@@ -418,6 +435,33 @@ objects:
   Kappa Her:
     constellation: Her
     type: double star
+    components:
+      ~A:
+        name: HD 145001
+        mag: 4.99
+      ~B:
+        name: HD 145000
+        mag: 6.25
+    fetched:
+      HD 145001:
+        type: Star
+        subtype: Yellow Giant
+        ra: 16h 08m 04s
+        dec: 17° 2' 49"
+        spectral_class: G8III
+        aka:
+          - HIP 79043
+          - HR 6008
+          - Marsic
+      HD 145000:
+        type: Star
+        subtype: Giant
+        ra: 16h 08m 04s
+        dec: 17° 3' 16"
+        spectral_class: K1III
+        aka:
+          - HIP 79045
+          - HR 6009
 
   Lambda Ari:
     constellation: Ari
@@ -692,3 +736,29 @@ objects:
     type: double star
     aka:
       - Mizar
+    components:
+      Zeta-1 UMa:
+        name: HD 116656
+        mag: 2.23
+      Zeta-2 UMa:
+        name: HD 116657
+        mag: 3.88
+    fetched:
+      HD 116656:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 13h 23m 55s
+        dec: 54° 55' 31"
+        spectral_class: A2V
+        aka:
+          - HIP 65378
+          - HR 5054
+          - Mizar
+      HD 116657:
+        type: Star
+        subtype: Main Sequence
+        ra: 13h 23m 56s
+        dec: 54° 55' 14"
+        spectral_class: A1 m
+        aka:
+          - HR 5055

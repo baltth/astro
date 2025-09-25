@@ -226,3 +226,21 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001369.jpg -c ../astro/orig/scan/20250916011610_002.jpg -s 0.99 -x 45 -y 165 -o1 M103 -o2 
         'Gamma Ari'
+
+  - full: c47-alpha-1-cap-alpha-2-cap-20250922.jpg
+    scan: 20250922010236_001.jpg
+    sub:
+      - c47-20250922.jpg
+      - alpha-1-cap-alpha-2-cap-20250922.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001390.jpg -c ../astro/orig/scan/20250922010236_001.jpg -x 35 -y 150 -o1 C47 -o2 'Alpha-1 
+        Cap, Alpha-2 Cap'
+
+  - full: eta-per-epsilon-per-20250922.jpg
+    scan: 20250922010521_002.jpg
+    sub:
+      - eta-per-20250922.jpg
+      - epsilon-per-20250922.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001392.jpg -c ../astro/orig/scan/20250922010521_002.jpg -x 40 -y 175 -o1 'Eta Per' -o2 
+        'Epsilon Per'

@@ -6,6 +6,7 @@
 
 #### Deep space
 
+- [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
@@ -29,11 +30,15 @@
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
-- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
+- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
+- [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
+- [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
+- [Epsilon Persei](../obs/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
+- [Eta Persei](../obs/eta-per-2025-09-19.md) - binary star in Perseus
 - [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - star system in Andromeda
 - [Gamma Arietis](../obs/gamma-ari-2025-09-15.md) - star system in Aries
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
@@ -83,6 +88,11 @@
 - [Gamma Arietis](../obs/gamma-ari-2025-09-15.md) - star system in Aries
 - [Lambda Arietis](../obs/lambda-ari-2025-09-15.md) - double star in Aries
 
+#### Capricornus
+
+- [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
+- [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
+
 #### Cassiopeia
 
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
@@ -99,6 +109,7 @@
 
 #### Delphinus
 
+- [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
 
 #### Equuleus
@@ -128,6 +139,8 @@
 
 #### Perseus
 
+- [Epsilon Persei](../obs/epsilon-per-2025-09-19.md) - star system in Perseus
+- [Eta Persei](../obs/eta-per-2025-09-19.md) - binary star in Perseus
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
 
 #### Pisces
@@ -148,7 +161,7 @@
 
 #### Ursa Major
 
-- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - star in Ursa Major
+- [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
 
 #### Ursa Minor

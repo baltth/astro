@@ -8,16 +8,16 @@
 
 ## Latest
 
+- 2025-09-19: [C47](obs/c47-2025-09-19.md)
+- 2025-09-19: [Alpha-1 Capricorni, Alpha-2 Capricorni](obs/alpha-1-cap-alpha-2-cap-2025-09-19.md)
+- 2025-09-19: [Eta Persei](obs/eta-per-2025-09-19.md)
+- 2025-09-19: [Epsilon Persei](obs/epsilon-per-2025-09-19.md)
 - 2025-09-15: [Messier 103](obs/m103-2025-09-15.md)
 - 2025-09-15: [Lambda Arietis](obs/lambda-ari-2025-09-15.md)
 - 2025-09-15: [Gamma Arietis](obs/gamma-ari-2025-09-15.md)
 - 2025-09-11: [Fracastorius](obs/fracastorius-2025-09-11.md)
 - 2025-09-11: [Saturn](obs/saturn-2025-09-11.md)
 - 2025-09-06: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-06.md)
-- 2025-09-04: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-04.md)
-- 2025-08-28: [57 Aquilae](obs/57-aql-2025-08-28.md)
-- 2025-08-28: [Iota Cassiopeiae](obs/iota-cas-2025-08-28.md)
-- 2025-08-27: [Pi-1 Pegasi, Pi-2 Pegasi](obs/pi-1-peg-pi-2-peg-2025-08-27.md)
 
 ---
 

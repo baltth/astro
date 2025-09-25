@@ -564,3 +564,47 @@ observations:
       the real value. I have to check my method and measure
       it again later.
 
+  - name: C47
+    img: c47-20250922.jpg
+    date: 2025-09-19 21:40
+    nelm: 4.4
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+
+  - name:
+      - Alpha-1 Cap
+      - Alpha-2 Cap
+    img: alpha-1-cap-alpha-2-cap-20250922.jpg
+    date: 2025-09-19 22:20
+    nelm: 4.4
+    seeing: 7
+    ap: 127
+    mag: 220
+    fov: 0.24
+    text: |
+      I hoped to be able to resolve BC components of Alpha-2 Cap.
+      Separated to ~6.6" with 7+ difference in magnitude - well, it's not that easy.
+      I think I saw _something_ so I added _something_ to the sketch...
+
+  - name: Eta Per
+    img: eta-per-20250922.jpg
+    date: 2025-09-19 23:30
+    nelm: 4.4
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    data:
+      PA: ~65°
+      Separation: to be calculated...
+
+  - name: Epsilon Per
+    img: epsilon-per-20250922.jpg
+    date: 2025-09-19 23:55
+    nelm: 4.4
+    seeing: 7
+    ap: 127
+    mag: 171
+    fov: 0.4

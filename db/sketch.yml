@@ -11,7 +11,7 @@
 
 sketches:
   - full: m11-m11-2nd-20250628.jpg
-    scan: 20250628_1.jpg
+    scan: 20250628114229_003.jpg
     sub:
       - m11-20250628.jpg
       - m11-2nd-20250628.jpg
@@ -19,7 +19,7 @@ sketches:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001092.jpg -c ../astro/orig/scan/20250628114229_003.jpg -x 36 -y 185 -o1 M11 -o2 M11
 
   - full: v-aql-wz-cas-20250628.jpg
-    scan: 20250628_2.jpg
+    scan: 20250628114229_004.jpg
     sub:
       - v-aql-20250628.jpg
       - wz-cas-20250628.jpg
@@ -28,7 +28,7 @@ sketches:
         -o2 'WZ Cas'
 
   - full: m2-ngc7009-20250701.jpg
-    scan: 20250701_1.jpg
+    scan: 20250701092405_001.jpg
     sub:
       - m2-20250701.jpg
       - ngc7009-20250701.jpg
@@ -37,7 +37,7 @@ sketches:
         NGC7009
 
   - full: m15-gamma-del-20250701.jpg
-    scan: 20250701_2.jpg
+    scan: 20250701092405_002.jpg
     sub:
       - m15-20250701.jpg
       - gamma-del-20250701.jpg
@@ -46,7 +46,7 @@ sketches:
         'Gamma Del'
 
   - full: zeta-uma-80-uma-kappa-her-20250715.jpg
-    scan: 20250715_1.jpg
+    scan: 20250715014417_002.jpg
     sub:
       - zeta-uma-80-uma-20250715.jpg
       - kappa-her-20250715.jpg
@@ -55,7 +55,7 @@ sketches:
         -o2 'Kappa Her'
 
   - full: m31-m32-gamma-and-20250722.jpg
-    scan: 20250722_2.jpg
+    scan: 20250722004132_002.jpg
     sub:
       - m31-m32-20250722.jpg
       - gamma-and-20250722.jpg
@@ -68,7 +68,7 @@ sketches:
         And'
 
   - full: m71-beta-cyg-20250722.jpg
-    scan: 20250722_1.jpg
+    scan: 20250722004132_001.jpg
     sub:
       - m71-20250722.jpg
       - beta-cyg-20250722.jpg
@@ -81,7 +81,7 @@ sketches:
         Cyg'
 
   - full: m2-epsilon-equ-20250729.jpg
-    scan: 20250729.jpg
+    scan: 20250729012225_001.jpg
     sub:
       - m2-20250729.jpg
       - epsilon-equ-20250729.jpg
@@ -90,7 +90,7 @@ sketches:
         Equ'
 
   - full: m39-m29-20250731.jpg
-    scan: 20250731.jpg
+    scan: 20250731005901_001.jpg
     sub:
       - m39-20250731.jpg
       - m29-20250731.jpg
@@ -98,7 +98,7 @@ sketches:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001170.jpg -c ../astro/orig/scan/20250731005901_001.jpg -x 45 -y 200 -o1 M39 -o2 M29
 
   - full: 1-peg-stf-2841-20250803.jpg
-    scan: 20250803.jpg
+    scan: 20250803101054_001.jpg
     sub:
       - 1-peg-20250803.jpg
       - stf-2841-20250803.jpg
@@ -107,7 +107,7 @@ sketches:
         2841'
 
   - full: eta-cas-70-oph-20250804.jpg
-    scan: 20250804.jpg
+    scan: 20250804234635_001.jpg
     sub:
       - eta-cas-20250804.jpg
       - 70-oph-20250804.jpg
@@ -116,7 +116,7 @@ sketches:
         -o2 '70 Oph'
 
   - full: saturn-theta-ser-20250807.jpg
-    scan: 20250807.jpg
+    scan: 20250807013004_001.jpg
     sub:
       - saturn-20250807.jpg
       - theta-ser-20250807.jpg
@@ -125,7 +125,7 @@ sketches:
         Ser'
 
   - full: m34-alpha-umi-20250820.jpg
-    scan: 20250819.jpg
+    scan: 20250819005451_001.jpg
     sub:
       - m34-20250820.jpg
       - alpha-umi-20250820.jpg
@@ -134,7 +134,7 @@ sketches:
         'Alpha UMi'
 
   - full: ngc-6633-m57-20250820.jpg
-    scan: 20250820_1.jpg
+    scan: 20250820105022_001.jpg
     notes: |
       This night was exceptionally clear, NELM was rather 4.7.
       I was experimenting with using black and blue pens for annotations
@@ -147,7 +147,7 @@ sketches:
         -o2 M57
 
   - full: m27-61-cyg-20250820.jpg
-    scan: 20250820_2.jpg
+    scan: 20250820105022_002.jpg
     sub:
       - m27-20250820.jpg
       - 61-cyg-20250820.jpg
@@ -195,7 +195,7 @@ sketches:
       - archimedes-aristillus-autolycus-20250905.jpg
       - aristarchus-herodotus-20250905.jpg
     _cmd:
-      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001340.jpg -c ../astro/orig/scan/20250905011040_001.jpg -x 80 -y 175 -o1 
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001340.jpg -c ../astro/orig/scan/20250905011040_001.jpg --simple -x 80 -y 175 -o1 
         Archimedes,Aristillus,Autolycus -o2 Aristarchus,Herodotus
 
   - full: fracastorius-aristarchus-herodotus-20250912.jpg
@@ -204,8 +204,8 @@ sketches:
       - fracastorius-20250912.jpg
       - aristarchus-herodotus-20250912.jpg
     _cmd:
-      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001356.jpg -c ../astro/orig/scan/20250912075516_001.jpg -x 25 -y 175 -o1 Fracastorius -o2 
-        Aristarchus,Herodotus
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001356.jpg -c ../astro/orig/scan/20250912075516_001.jpg --simple -x 25 -y 175 -o1 
+        Fracastorius -o2 Aristarchus,Herodotus
 
   - full: saturn-lambda-ari-20250916.jpg
     scan: 20250916011030_001.jpg

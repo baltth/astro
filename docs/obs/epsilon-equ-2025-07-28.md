@@ -36,4 +36,4 @@ Separation |  | 0.64" | 10"
 ## Links
 
 - [Full sketch](../img/m2-epsilon-equ-20250729.jpg)
-- [Original sketch](../scan/20250729.jpg)
+- [Original sketch](../scan/20250729012225_001.jpg)

@@ -242,3 +242,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001392.jpg -c ../astro/orig/scan/20250922010521_002.jpg -x 40 -y 175 -o1 'Eta Per' -o2 
         'Epsilon Per'
+
+  - full: gassendi-petavius-20251009.jpg
+    scan: 20251009075550_001.jpg
+    sub:
+      - gassendi-20251009.jpg
+      - petavius-20251009.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001424.jpg -c ../astro/orig/scan/20251009075550_001.jpg --simple -x 45 -y 170 -o1 Gassendi 
+        -o2 Petavius

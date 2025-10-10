@@ -608,3 +608,30 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
+
+  - name: Gassendi
+    img: gassendi-20251009.jpg
+    date: 2025-10-03 23:30
+    seeing: 4
+    ap: 127
+    mag: 171
+    fov: 2.7'
+    data:
+      Equivalent mag.: ~1510x
+      Age of Moon: 11.4 days
+
+  - name: Petavius
+    img: petavius-20251009.jpg
+    date: 2025-10-08 23:50
+    seeing: cloudy...
+    ap: 127
+    mag: 171
+    fov: 3.3'
+    data:
+      Equivalent mag.: ~1236x
+      Age of Moon: 16.7 days
+    text: |
+      I've done this sketch as an experiment on a cloudy night.
+      The sky was covered by a thin but even layer of cirrocumulus,
+      I was able to observe details only for a few minutes.
+      It was fun in the end and the result is not so bad.

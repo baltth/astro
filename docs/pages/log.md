@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2025-10-08: [Petavius](../obs/petavius-2025-10-08.md)
+- 2025-10-03: [Gassendi](../obs/gassendi-2025-10-03.md)
 - 2025-09-19: [C47](../obs/c47-2025-09-19.md)
 - 2025-09-19: [Alpha-1 Capricorni, Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md)
 - 2025-09-19: [Eta Persei](../obs/eta-per-2025-09-19.md)

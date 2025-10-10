@@ -504,6 +504,13 @@ objects:
     constellation: Del
     type: double star
 
+  Gassendi:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 17.55°S 39.96°W
+      size: 111 km
+
   Herodotus:
     constellation: Moon
     type: crater
@@ -762,6 +769,13 @@ objects:
     aka:
       - Caldwell 55
       - Saturn Nebula
+
+  Petavius:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 23.2°N 49.7°W
+      size: 177 km
 
   Pi-1 Peg:
     constellation: Peg

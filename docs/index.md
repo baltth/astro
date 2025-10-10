@@ -8,6 +8,8 @@
 
 ## Latest
 
+- 2025-10-08: [Petavius](obs/petavius-2025-10-08.md)
+- 2025-10-03: [Gassendi](obs/gassendi-2025-10-03.md)
 - 2025-09-19: [C47](obs/c47-2025-09-19.md)
 - 2025-09-19: [Alpha-1 Capricorni, Alpha-2 Capricorni](obs/alpha-1-cap-alpha-2-cap-2025-09-19.md)
 - 2025-09-19: [Eta Persei](obs/eta-per-2025-09-19.md)
@@ -16,8 +18,6 @@
 - 2025-09-15: [Lambda Arietis](obs/lambda-ari-2025-09-15.md)
 - 2025-09-15: [Gamma Arietis](obs/gamma-ari-2025-09-15.md)
 - 2025-09-11: [Fracastorius](obs/fracastorius-2025-09-11.md)
-- 2025-09-11: [Saturn](obs/saturn-2025-09-11.md)
-- 2025-09-06: [Aristarchus, Herodotus](obs/aristarchus-herodotus-2025-09-06.md)
 
 ---
 

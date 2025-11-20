@@ -30,7 +30,9 @@
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
+- [80 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
+- [81 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
@@ -49,6 +51,8 @@
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
+- [Theta-1 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
+- [Theta-2 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
@@ -59,6 +63,7 @@
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
+- [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
@@ -161,6 +166,13 @@
 
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 
+#### Taurus
+
+- [80 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
+- [81 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
+- [Theta-1 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
+- [Theta-2 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
+
 #### Ursa Major
 
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
@@ -180,6 +192,7 @@
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
+- [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon

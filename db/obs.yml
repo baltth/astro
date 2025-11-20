@@ -635,3 +635,35 @@ observations:
       The sky was covered by a thin but even layer of cirrocumulus,
       I was able to observe details only for a few minutes.
       It was fun in the end and the result is not so bad.
+
+  - name: C/2025 A6
+    img: c-2025-a6-20251103.jpg
+    date: 2025-10-18 18:55
+    loc: Szarvas, HU
+    nelm: '6'
+    seeing: 6
+    ap: 127
+    mag: 48
+    fov: 1.1
+    text: |
+      I had really short time to observe this comet and finished the sketch
+      just at the end of dusk. Apart from this, this was a remarkable night,
+      Szarvas seems to be a really good location for observations.
+
+  - name:
+      - Theta-1 Tau
+      - Theta-2 Tau
+      - 80 Tau
+      - 81 Tau
+    img: theta-tau-80-tau-81-tau-20251103.jpg
+    date: 2025-11-01 23:10
+    loc: ''
+    nelm: 3.8
+    seeing: 5
+    ap: 127
+    mag: 48
+    fov: 1.1
+    text: |
+      These stars are part of the Hyades, forming an asterism like a
+      [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle).
+      Visually it's more spectacular...

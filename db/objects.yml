@@ -167,6 +167,24 @@ objects:
           - HIP 88601
           - HR 6752
 
+  80 Tau:
+    constellation: Tau
+    type: star
+    desc: Main sequence star
+    aka:
+      - STF 554
+      - HD 28485
+    fetched:
+      HD 28485:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 04h 30m 08s
+        dec: 15° 38' 16"
+        spectral_class: F0V...
+        aka:
+          - HIP 20995
+          - HR 1422
+
   80 UMa:
     constellation: UMa
     type: binary star
@@ -189,6 +207,21 @@ objects:
           - HIP 65477
           - HR 5062
           - Alcor
+
+  81 Tau:
+    constellation: Tau
+    type: star
+    desc: Main sequence star
+    fetched:
+      HD 28546:
+        type: Star
+        subtype: Main Sequence
+        ra: 04h 30m 38s
+        dec: 15° 41' 31"
+        spectral_class: Am
+        aka:
+          - HIP 21039
+          - HR 1428
 
   Alpha UMi:
     constellation: UMi
@@ -340,6 +373,11 @@ objects:
         ra: 20h 34m 11s
         dec: 7° 24' 16"
         aka: []
+
+  C/2025 A6:
+    constellation: Solar System
+    type: comet
+    desc: Non-periodic comet
 
   Epsilon Equ:
     constellation: Equ
@@ -844,6 +882,38 @@ objects:
           - HR 7142
     aka:
       - Alya
+
+  Theta-1 Tau:
+    constellation: Tau
+    type: star
+    fetched:
+      HD 28307:
+        type: Star
+        subtype: Yellow Giant
+        ra: 04h 28m 34s
+        dec: 15° 57' 44"
+        spectral_class: G7III
+        aka:
+          - HIP 20885
+          - HR 1411
+  
+  Theta-2 Tau:
+    constellation: Tau
+    type: star
+    aka:
+      - HD 28319
+      - Chamukuy
+    fetched:
+      HD 28319:
+        type: Star
+        subtype: Main Sequence Giant
+        ra: 04h 28m 39s
+        dec: 15° 52' 15"
+        spectral_class: A7III
+        aka:
+          - HIP 20894
+          - HR 1412
+          - Chamukuy
 
   V Aql:
     constellation: Aql

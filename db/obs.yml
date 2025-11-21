@@ -650,12 +650,8 @@ observations:
       just at the end of dusk. Apart from this, this was a remarkable night,
       Szarvas seems to be a really good location for observations.
 
-  - name:
-      - Theta-1 Tau
-      - Theta-2 Tau
-      - 80 Tau
-      - 81 Tau
-    img: theta-tau-80-tau-81-tau-20251103.jpg
+  - name: Penrose triangle
+    img: penrose-triangle-20251103.jpg
     date: 2025-11-01 23:10
     loc: ''
     nelm: 3.8
@@ -666,7 +662,21 @@ observations:
     text: |
       These stars are part of the Hyades, forming an asterism like a
       [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle).
-      Visually it's more spectacular...
+      Unfortunately the FOV is a bit small, visually it's more spectacular
+      and the group is easy to identify.
+
+      I've found no reference about this 'asterism' yet, so I named it
+      by my first association:
+
+      ![Penrose annotated](../img/penrose-annotated-20251103.png)
+
+      Members of the group:
+      - Theta-1 Tau (4.0 mag)
+      - Theta-2 Tau (3.5 mag)
+      - 80 Tau (5.6 mag)
+      - 81 Tau (5.5 mag)
+      - HD 28568 (6.6 mag)
+      - HD 28527 (4.8 mag)
 
   - name: M45
     img: m45-20251103.jpg

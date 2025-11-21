@@ -252,14 +252,14 @@ sketches:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001424.jpg -c ../astro/orig/scan/20251009075550_001.jpg --simple -x 45 -y 170 -o1 Gassendi 
         -o2 Petavius
 
-  - full: c-2025-a6-theta-tau-80-tau-81-tau-20251103.jpg
+  - full: c-2025-a6-penrose-triangle-20251103.jpg
     scan: 20251103003438_001.jpg
     sub:
       - c-2025-a6-20251103.jpg
-      - theta-tau-80-tau-81-tau-20251103.jpg
+      - penrose-triangle-20251103.jpg
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001494.jpg -c ../astro/orig/scan/20251103003438_001.jpg --scale 0.99 -x 30 -y 140 -o1 
-        'C/2025 A6' -o2 'Theta Tau, 80 Tau, 81 Tau'
+        'C/2025 A6' -o2 'Penrose triangle'
 
   - full: m45-na-20251103.jpg
     scan: 20251103003906_001.jpg

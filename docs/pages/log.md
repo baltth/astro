@@ -2,6 +2,9 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2025-11-01: [Theta-1 Tauri, Theta-2 Tauri, 80 Tauri, 81 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md)
+- 2025-11-01: [Messier 45](../obs/m45-2025-11-01.md)
+- 2025-10-18: [C/2025 A6](../obs/c-2025-a6-2025-10-18.md)
 - 2025-10-08: [Petavius](../obs/petavius-2025-10-08.md)
 - 2025-10-03: [Gassendi](../obs/gassendi-2025-10-03.md)
 - 2025-09-19: [C47](../obs/c47-2025-09-19.md)

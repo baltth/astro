@@ -58,17 +58,20 @@
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
 
-#### Other
+#### Moon
 
 - [Archimedes](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
-- [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Petavius](../obs/petavius-2025-10-08.md) - crater in Moon
+
+#### Other
+
+- [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 
 

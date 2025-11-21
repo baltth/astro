@@ -667,3 +667,17 @@ observations:
       These stars are part of the Hyades, forming an asterism like a
       [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle).
       Visually it's more spectacular...
+
+  - name: M45
+    img: m45-20251103.jpg
+    date: 2025-11-01 22:10
+    nelm: 3.8
+    seeing: 5
+    ap: 127
+    mag: 48
+    fov: 1.1
+    text: |
+      Something new... the first double-stack sketch. As 1.1° is my
+      largest FOV, Pleiades fits perfectly into the overlapping circles.
+      I've created this as an experiment, but the result is pretty.
+      I'm sure I'll repeat this under good skies.

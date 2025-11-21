@@ -16,6 +16,7 @@
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
+- [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
 - [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
@@ -170,6 +171,7 @@
 
 - [80 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
 - [81 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
+- [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
 - [Theta-1 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
 - [Theta-2 Tauri](../obs/theta-1-tau-theta-2-tau-80-tau-81-tau-2025-11-01.md) - star in Taurus
 

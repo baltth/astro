@@ -743,6 +743,20 @@ objects:
         aka:
           - NGC 7092
 
+  M45:
+    constellation: Tau
+    type: open cluster
+    aka:
+      - Pleiades
+    fetched:
+      M 45:
+        type: Open Cluster
+        subtype: ''
+        ra: 03h 47m 24s
+        dec: 24° 7' 12"
+        aka:
+          - Pleiades, Seven Sisters or Subaru
+
   M57:
     constellation: Lyr
     type: planetary nebula
@@ -896,7 +910,7 @@ objects:
         aka:
           - HIP 20885
           - HR 1411
-  
+
   Theta-2 Tau:
     constellation: Tau
     type: star

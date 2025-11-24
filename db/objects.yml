@@ -190,6 +190,44 @@ objects:
           - HR 5062
           - Alcor
 
+  Alpha Gem:
+    constellation: Gem
+    type: star system
+    desc: Sextuple star system of three binary pairs
+    aka:
+      - Castor
+    components:
+      ~A:
+        name: HD 60179
+        desc: Spectroscopic binary
+        mag: 1.9
+      ~B:
+        name: HD 60178
+        desc: Spectroscopic binary
+        mag: 3.0
+      ~C:
+        desc: Spectroscopic binary
+        mag: 9.8
+    fetched:
+      HD 60179:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 07h 34m 35s
+        dec: 31° 53' 18"
+        spectral_class: A2Vm
+        aka:
+          - HIP 36850
+          - HR 2891
+          - Castor
+      HD 60178:
+        type: Star
+        subtype: Main Sequence
+        ra: 07h 34m 36s
+        dec: 31° 53' 26"
+        spectral_class: A m
+        aka:
+          - HR 2890
+
   Alpha UMi:
     constellation: UMi
     type: double star
@@ -709,6 +747,43 @@ objects:
         dec: 48° 25' 48"
         aka:
           - NGC 7092
+
+  M42:
+    constellation: Ori
+    type: diffuse nebula
+    desc: Diffuse nebula
+    aka:
+      - Orion Nebula
+      - NGC 1976
+    fetched:
+      M 42:
+        type: Super Nova Remnant
+        subtype: ''
+        ra: 05h 35m 24s
+        dec: -5° 23' 24"
+        aka:
+          - NGC 1976
+          - LBN 974
+          - Orion Nebula
+          - Great Orion Nebula
+
+  M43:
+    constellation: Ori
+    type: emission nebula
+    desc: Emission nebula
+    aka:
+      - De Mairan's Nebula
+      - NGC 1982
+    fetched:
+      M 43:
+        type: Super Nova Remnant
+        subtype: Emission Nebula
+        ra: 05h 34m 48s
+        dec: -5° 16' 12"
+        aka:
+          - NGC 1982
+          - De Mairans Nebula
+          - De Mairan's Nebula
 
   M45:
     constellation: Tau

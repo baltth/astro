@@ -691,3 +691,33 @@ observations:
       largest FOV, Pleiades fits perfectly into the overlapping circles.
       I've created this as an experiment, but the result is pretty.
       I'm sure I'll repeat this under good skies.
+
+  - name:
+      - M42
+      - M43
+    img: m42-m43-20251119.jpg
+    date: 2025-11-19 00:30
+    nelm: 4.2
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      A long time favorite, it looks amazing even at this suburban sky.
+      The intensity of the nebula is realistic on this sketch. Maybe I'll
+      draw another to show the _impression_ instead of the visuals.
+
+  - name: Alpha Gem
+    img: alpha-gem-20251119.jpg
+    date: 2025-11-19 01:15
+    nelm: 4.2
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      Looks like an 'ordinary' double star, but it's a sextuple star system
+      organized into three binary pairs. It's nice and shiny but
+      not so interesting on the drawing nor to draw.
+      I've chosen this star ad-hoc to complete the sketch page
+      containing [M42 and M43](m42-m43-2025-11-18.md).

@@ -8,6 +8,8 @@
 
 ## Latest
 
+- 2025-11-18: [Messier 42, Messier 43](obs/m42-m43-2025-11-18.md)
+- 2025-11-18: [Alpha Geminorum](obs/alpha-gem-2025-11-18.md)
 - 2025-11-01: [Penrose triangle](obs/penrose-triangle-2025-11-01.md)
 - 2025-11-01: [Messier 45](obs/m45-2025-11-01.md)
 - 2025-10-18: [C/2025 A6](obs/c-2025-a6-2025-10-18.md)
@@ -16,8 +18,6 @@
 - 2025-09-19: [C47](obs/c47-2025-09-19.md)
 - 2025-09-19: [Alpha-1 Capricorni, Alpha-2 Capricorni](obs/alpha-1-cap-alpha-2-cap-2025-09-19.md)
 - 2025-09-19: [Eta Persei](obs/eta-per-2025-09-19.md)
-- 2025-09-19: [Epsilon Persei](obs/epsilon-per-2025-09-19.md)
-- 2025-09-15: [Messier 103](obs/m103-2025-09-15.md)
 
 ---
 

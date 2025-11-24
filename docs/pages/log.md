@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2025-11-18: [Messier 42, Messier 43](../obs/m42-m43-2025-11-18.md)
+- 2025-11-18: [Alpha Geminorum](../obs/alpha-gem-2025-11-18.md)
 - 2025-11-01: [Penrose triangle](../obs/penrose-triangle-2025-11-01.md)
 - 2025-11-01: [Messier 45](../obs/m45-2025-11-01.md)
 - 2025-10-18: [C/2025 A6](../obs/c-2025-a6-2025-10-18.md)

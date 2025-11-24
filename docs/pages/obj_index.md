@@ -16,6 +16,8 @@
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
 - [Messier 39](../obs/m39-2025-07-30.md) - open cluster in Cygnus
+- [Messier 42](../obs/m42-m43-2025-11-18.md) - diffuse nebula in Orion
+- [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
 - [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
@@ -32,6 +34,7 @@
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - binary star in Ursa Major
+- [Alpha Geminorum](../obs/alpha-gem-2025-11-18.md) - star system in Gemini
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
@@ -124,6 +127,10 @@
 
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 
+#### Gemini
+
+- [Alpha Geminorum](../obs/alpha-gem-2025-11-18.md) - star system in Gemini
+
 #### Hercules
 
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
@@ -136,6 +143,11 @@
 
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
+
+#### Orion
+
+- [Messier 42](../obs/m42-m43-2025-11-18.md) - diffuse nebula in Orion
+- [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 
 #### Pegasus
 

@@ -268,3 +268,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001495.jpg -c ../astro/orig/scan/20251103003906_001.jpg --scale 0.99 -x 35 -y 185 
         --full-page -o1 M45
+
+  - full: m42-m43-alpha-gem-20251119.jpg
+    scan: 20251119015731_001.jpg
+    sub:
+      - m42-m43-20251119.jpg
+      - alpha-gem-20251119.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001550.jpg -c ../astro/orig/scan/20251119015731_001.jpg -x 62 -y 150 -o1 M42,M43 -o2 'Alpha 
+        Gem'

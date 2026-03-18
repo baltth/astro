@@ -590,6 +590,10 @@ objects:
           - HIP 11569
           - HR 707
 
+  Jupiter:
+    constellation: Solar System
+    type: planet
+
   Kappa Her:
     constellation: Her
     type: double star

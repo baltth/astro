@@ -71,6 +71,7 @@
 #### Other
 
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
 - [Penrose triangle](../obs/penrose-triangle-2025-11-01.md) - asterism in Taurus
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 
@@ -207,6 +208,7 @@
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
+- [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
 - [Petavius](../obs/petavius-2025-10-08.md) - crater in Moon
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 

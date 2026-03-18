@@ -721,3 +721,26 @@ observations:
       not so interesting on the drawing nor to draw.
       I've chosen this star ad-hoc to complete the sketch page
       containing [M42 and M43](m42-m43-2025-11-18.md).
+
+  - name: Jupiter
+    img: jupiter-20260130.jpg
+    date: 2025-11-28 01:30
+    nelm: 4.0
+    seeing: 5-6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      My first try to sketch Jupiter with the Galilean moons.
+      It's a challenging task with inverted colors,
+      maybe the [second try](jupiter-2025-12-26) looks better.
+
+  - name: Jupiter
+    img: jupiter-2nd-20260130.jpg
+    date: 2025-12-27 00:40
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: ''

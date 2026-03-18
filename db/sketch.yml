@@ -277,3 +277,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001550.jpg -c ../astro/orig/scan/20251119015731_001.jpg -x 62 -y 150 -o1 M42,M43 -o2 'Alpha 
         Gem'
+
+  - full: jupiter-jupiter-2nd-20260130.jpg
+    scan: 20260130223151_001.jpg
+    sub:
+      - jupiter-20260130.jpg
+      - jupiter-2nd-20260130.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001881.jpg -c ../astro/orig/scan/20260130223151_001.jpg -s 0.99 -x 70 -y 140 -o1 Jupiter -o2
+        Jupiter

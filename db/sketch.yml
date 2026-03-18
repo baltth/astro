@@ -286,3 +286,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001881.jpg -c ../astro/orig/scan/20260130223151_001.jpg -s 0.99 -x 70 -y 140 -o1 Jupiter -o2
         Jupiter
+
+  - full: c50-ngc-2264-20260130.jpg
+    scan: 20260130223432_001.jpg
+    sub:
+      - c50-20260130.jpg
+      - ngc-2264-20260130.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001883.jpg -c ../astro/orig/scan/20260130223432_001.jpg -s 0.99 -x 70 -y 170 -o1 C50 -o2 
+        'NGC 2264'

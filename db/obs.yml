@@ -743,4 +743,28 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
+    text: |
+      After a month of cloudy nights this day the sky become clear -
+      a really nice Christmas gift, especially with [2264](ngc-2264-2025-12-26.md).
+
+  - name: C50
+    img: c50-20260130.jpg
+    date: 2025-12-27 01:15
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 48
+    fov: 1.1
     text: ''
+
+  - name: NGC 2264
+    img: ngc-2264-20260130.jpg
+    date: 2025-12-27 01:35
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 48
+    fov: 1.1
+    text: |
+      Sketched on the second night of Christmas. I've chosen this unintentionally
+      and realized that it's the Christmas Tree just after I've finished the sketch.

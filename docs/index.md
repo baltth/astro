@@ -9,6 +9,8 @@
 ## Latest
 
 - 2025-12-26: [Jupiter](obs/jupiter-2025-12-26.md)
+- 2025-12-26: [C50](obs/c50-2025-12-26.md)
+- 2025-12-26: [NGC 2264](obs/ngc-2264-2025-12-26.md)
 - 2025-11-27: [Jupiter](obs/jupiter-2025-11-27.md)
 - 2025-11-18: [Messier 42, Messier 43](obs/m42-m43-2025-11-18.md)
 - 2025-11-18: [Alpha Geminorum](obs/alpha-gem-2025-11-18.md)
@@ -16,8 +18,6 @@
 - 2025-11-01: [Messier 45](obs/m45-2025-11-01.md)
 - 2025-10-18: [C/2025 A6](obs/c-2025-a6-2025-10-18.md)
 - 2025-10-08: [Petavius](obs/petavius-2025-10-08.md)
-- 2025-10-03: [Gassendi](obs/gassendi-2025-10-03.md)
-- 2025-09-19: [C47](obs/c47-2025-09-19.md)
 
 ---
 

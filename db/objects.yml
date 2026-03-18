@@ -379,6 +379,23 @@ objects:
         dec: 7° 24' 16"
         aka: []
 
+  C50:
+    constellation: Mon
+    type: open cluster
+    aka:
+      - NGC 2239
+      - NGC 2244
+      - In Rosette Nebula
+    fetched:
+      NGC 2244:
+        type: Duplicate
+        subtype: Low disperation, large sized cluster with poor star density
+        ra: 06h 31m 55s
+        dec: 4° 56' 35"
+        aka:
+          - NGC 2239
+          - In Rosette Nebula
+
   C/2025 A6:
     constellation: Solar System
     type: comet
@@ -848,6 +865,23 @@ objects:
         dec: 60° 42' 0"
         aka:
           - NGC 581
+
+  NGC 2264:
+    constellation: Mon
+    type: open cluster
+    aka:
+      - LBN 911
+      - Christmas Tree Cluster
+    fetched:
+      NGC 2264:
+        type: Open Cluster
+        subtype: High disperation, large sized cluster with poor star density
+        ra: 06h 40m 58s
+        dec: 9° 53' 44"
+        aka:
+          - LBN 911
+          - Christmas Tree Conus Neb
+          - Fox Fur Nebula
 
   NGC 6633:
     constellation: Oph

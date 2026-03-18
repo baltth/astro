@@ -396,6 +396,21 @@ objects:
           - NGC 2239
           - In Rosette Nebula
 
+  C55:
+    constellation: Aqr
+    type: planetary nebula
+    aka:
+      - NGC 7009
+      - Saturn Nebula
+    fetched:
+      NGC 7009:
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        ra: 21h 04m 10s
+        dec: -12° 38' 11"
+        aka:
+          - Saturn Nebula
+
   C/2025 A6:
     constellation: Solar System
     type: comet
@@ -894,13 +909,6 @@ objects:
         dec: 6° 30' 30"
         aka:
           - Tweedledum Cluster
-
-  NGC 7009:
-    constellation: Aqr
-    type: planetary nebula
-    aka:
-      - Caldwell 55
-      - Saturn Nebula
 
   Penrose triangle:
     constellation: Tau

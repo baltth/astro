@@ -8,6 +8,7 @@
 
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
+- [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
@@ -25,7 +26,6 @@
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
-- [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
 
 #### Stars
 
@@ -88,8 +88,8 @@
 
 #### Aquarius
 
+- [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
-- [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
 
 #### Aquila
 

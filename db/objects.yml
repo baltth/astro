@@ -379,6 +379,38 @@ objects:
         dec: 7° 24' 16"
         aka: []
 
+  C50:
+    constellation: Mon
+    type: open cluster
+    aka:
+      - NGC 2239
+      - NGC 2244
+      - In Rosette Nebula
+    fetched:
+      NGC 2244:
+        type: Duplicate
+        subtype: Low disperation, large sized cluster with poor star density
+        ra: 06h 31m 55s
+        dec: 4° 56' 35"
+        aka:
+          - NGC 2239
+          - In Rosette Nebula
+
+  C55:
+    constellation: Aqr
+    type: planetary nebula
+    aka:
+      - NGC 7009
+      - Saturn Nebula
+    fetched:
+      NGC 7009:
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        ra: 21h 04m 10s
+        dec: -12° 38' 11"
+        aka:
+          - Saturn Nebula
+
   C/2025 A6:
     constellation: Solar System
     type: comet
@@ -589,6 +621,10 @@ objects:
         aka:
           - HIP 11569
           - HR 707
+
+  Jupiter:
+    constellation: Solar System
+    type: planet
 
   Kappa Her:
     constellation: Her
@@ -845,6 +881,23 @@ objects:
         aka:
           - NGC 581
 
+  NGC 2264:
+    constellation: Mon
+    type: open cluster
+    aka:
+      - LBN 911
+      - Christmas Tree Cluster
+    fetched:
+      NGC 2264:
+        type: Open Cluster
+        subtype: High disperation, large sized cluster with poor star density
+        ra: 06h 40m 58s
+        dec: 9° 53' 44"
+        aka:
+          - LBN 911
+          - Christmas Tree Conus Neb
+          - Fox Fur Nebula
+
   NGC 6633:
     constellation: Oph
     type: open cluster
@@ -856,13 +909,6 @@ objects:
         dec: 6° 30' 30"
         aka:
           - Tweedledum Cluster
-
-  NGC 7009:
-    constellation: Aqr
-    type: planetary nebula
-    aka:
-      - Caldwell 55
-      - Saturn Nebula
 
   Penrose triangle:
     constellation: Tau

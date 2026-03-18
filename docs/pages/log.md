@@ -2,6 +2,10 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2025-12-26: [Jupiter](../obs/jupiter-2025-12-26.md)
+- 2025-12-26: [C50](../obs/c50-2025-12-26.md)
+- 2025-12-26: [NGC 2264](../obs/ngc-2264-2025-12-26.md)
+- 2025-11-27: [Jupiter](../obs/jupiter-2025-11-27.md)
 - 2025-11-18: [Messier 42, Messier 43](../obs/m42-m43-2025-11-18.md)
 - 2025-11-18: [Alpha Geminorum](../obs/alpha-gem-2025-11-18.md)
 - 2025-11-01: [Penrose triangle](../obs/penrose-triangle-2025-11-01.md)
@@ -49,7 +53,7 @@
 - 2025-07-14: [Kappa Herculis](../obs/kappa-her-2025-07-14.md)
 - 2025-07-12: [Zeta Ursae Majoris, 80 Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md)
 - 2025-06-30: [Messier 2](../obs/m2-2025-06-30.md)
-- 2025-06-30: [NGC 7009](../obs/ngc-7009-2025-06-30.md)
+- 2025-06-30: [C55](../obs/c55-2025-06-30.md)
 - 2025-06-30: [Messier 15](../obs/m15-2025-06-30.md)
 - 2025-06-30: [Gamma Delphini](../obs/gamma-del-2025-06-30.md)
 - 2025-06-27: [Messier 11](../obs/m11-2025-06-27.md)

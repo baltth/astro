@@ -62,7 +62,7 @@ observations:
     img: m2-20250701.jpg
     text: ''
 
-  - name: NGC 7009
+  - name: C55
     date: '2025-06-30'
     nelm: 4.5
     ap: 127
@@ -721,3 +721,50 @@ observations:
       not so interesting on the drawing nor to draw.
       I've chosen this star ad-hoc to complete the sketch page
       containing [M42 and M43](m42-m43-2025-11-18.md).
+
+  - name: Jupiter
+    img: jupiter-20260130.jpg
+    date: 2025-11-28 01:30
+    nelm: 4.0
+    seeing: 5-6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      My first try to sketch Jupiter with the Galilean moons.
+      It's a challenging task with inverted colors,
+      maybe the [second try](jupiter-2025-12-26) looks better.
+
+  - name: Jupiter
+    img: jupiter-2nd-20260130.jpg
+    date: 2025-12-27 00:40
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      After a month of cloudy nights this day the sky become clear -
+      a really nice Christmas gift, especially with [2264](ngc-2264-2025-12-26.md).
+
+  - name: C50
+    img: c50-20260130.jpg
+    date: 2025-12-27 01:15
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 48
+    fov: 1.1
+    text: ''
+
+  - name: NGC 2264
+    img: ngc-2264-20260130.jpg
+    date: 2025-12-27 01:35
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 48
+    fov: 1.1
+    text: |
+      Sketched on the second night of Christmas. I've chosen this unintentionally
+      and realized that it's the Christmas Tree just after I've finished the sketch.

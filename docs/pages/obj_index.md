@@ -7,6 +7,8 @@
 #### Deep space
 
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
+- [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
+- [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
@@ -22,8 +24,8 @@
 - [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
+- [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
-- [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
 
 #### Stars
 
@@ -71,6 +73,7 @@
 #### Other
 
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
 - [Penrose triangle](../obs/penrose-triangle-2025-11-01.md) - asterism in Taurus
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 
@@ -85,8 +88,8 @@
 
 #### Aquarius
 
+- [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
-- [NGC 7009](../obs/ngc-7009-2025-06-30.md) - planetary nebula in Aquarius
 
 #### Aquila
 
@@ -138,6 +141,11 @@
 #### Lyra
 
 - [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
+
+#### Monoceros
+
+- [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
+- [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 
 #### Ophiuchus
 
@@ -207,6 +215,7 @@
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
+- [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
 - [Petavius](../obs/petavius-2025-10-08.md) - crater in Moon
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 

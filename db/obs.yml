@@ -768,3 +768,26 @@ observations:
     text: |
       Sketched on the second night of Christmas. I've chosen this unintentionally
       and realized that it's the Christmas Tree just after I've finished the sketch.
+
+  - name:
+      - Catharina
+      - Cyrillus
+      - Theophilus
+    img: catharina-cyrillus-theophilus-20260420.jpg
+    date: 2026-03-24 23:00
+    nelm: 4.0
+    seeing: 5
+    ap: 127
+    mag: 171
+    data:
+      Age of Moon: 6.5 days
+
+  - name: Langrenus
+    img: langrenus-20260420.jpg
+    date: 2026-04-04 00:00
+    nelm: 3.8
+    seeing: 4
+    ap: 127
+    mag: 171
+    data:
+      Age of Moon: 16.3 days

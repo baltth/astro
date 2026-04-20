@@ -65,10 +65,14 @@
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
+- [Catharina](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
+- [Cyrillus](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
+- [Langrenus](../obs/langrenus-2026-04-03.md) - crater in Moon
 - [Petavius](../obs/petavius-2025-10-08.md) - crater in Moon
+- [Theophilus](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 
 #### Other
 
@@ -212,11 +216,15 @@
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [Catharina](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
+- [Cyrillus](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/gassendi-2025-10-03.md) - crater in Moon
 - [Herodotus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
+- [Langrenus](../obs/langrenus-2026-04-03.md) - crater in Moon
 - [Petavius](../obs/petavius-2025-10-08.md) - crater in Moon
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
+- [Theophilus](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 
 

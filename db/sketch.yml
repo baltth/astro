@@ -295,3 +295,14 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000001883.jpg -c ../astro/orig/scan/20260130223432_001.jpg -s 0.99 -x 70 -y 170 -o1 C50 -o2 
         'NGC 2264'
+
+  - full: catharina-cyrillus-theophilus-langrenus-20260420.jpg
+    scan: 20260420213028_001.jpg
+    sub:
+      - catharina-cyrillus-theophilus-20260420.jpg
+      - langrenus-20260420.jpg
+    notes: |
+      These sketches are incomplete, I had to stop drawing due to the clouds.
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002190.jpg -c ../astro/orig/scan/20260420213028_001.jpg -x 85 -y 200 -o1 'Catharina, 
+        Cyrillus, Theophilus' -o2 Langrenus -s 0.99

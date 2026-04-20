@@ -416,6 +416,20 @@ objects:
     type: comet
     desc: Non-periodic comet
 
+  Catharina:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 18.0°S 23.6°E
+      size: 100 km
+
+  Cyrillus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 13.2°S 24.0°E
+      size: 98 km
+
   Epsilon Equ:
     constellation: Equ
     type: star system
@@ -679,6 +693,13 @@ objects:
         aka:
           - HIP 9153
           - HR 569
+
+  Langrenus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 8.9°S 60.9°E
+      size: 132 km
 
   M2:
     constellation: Aqr
@@ -953,6 +974,13 @@ objects:
   Saturn:
     constellation: Solar System
     type: planet
+
+  Theophilus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 11.4°S 26.4°E
+      size: 100 km
 
   Theta Ser:
     constellation: Ser

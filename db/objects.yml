@@ -856,6 +856,20 @@ objects:
         aka:
           - Pleiades, Seven Sisters or Subaru
 
+  M53:
+    constellation: Com
+    type: globular cluster
+    aka:
+      - NGC 5024
+    fetched:
+      M 53:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 13h 13m 12s
+        dec: 18° 10' 12"
+        aka:
+          - NGC 5024
+
   M57:
     constellation: Lyr
     type: planetary nebula
@@ -871,6 +885,26 @@ objects:
         aka:
           - NGC 6720
           - Ring Nebula
+
+  M64:
+    constellation: Com
+    type: galaxy
+    aka:
+      - NGC 4826
+      - Black Eye Galaxy
+    fetched:
+      M 64:
+        type: Galaxy
+        subtype: Spiral
+        ra: 12h 57m 00s
+        dec: 21° 40' 48"
+        aka:
+          - NGC 4826
+          - UGC 8062
+          - MCG 4-31-1
+          - PGC 44182
+          - Black Eye Galaxy
+          - ZWG 130.1
 
   M71:
     constellation: Sge

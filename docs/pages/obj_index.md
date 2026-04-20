@@ -21,7 +21,9 @@
 - [Messier 42](../obs/m42-m43-2025-11-18.md) - diffuse nebula in Orion
 - [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
+- [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
 - [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
+- [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
@@ -117,6 +119,11 @@
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
+
+#### Coma Berenices
+
+- [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
+- [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 
 #### Cygnus
 

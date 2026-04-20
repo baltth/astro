@@ -306,3 +306,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002190.jpg -c ../astro/orig/scan/20260420213028_001.jpg -x 85 -y 200 -o1 'Catharina, 
         Cyrillus, Theophilus' -o2 Langrenus -s 0.99
+
+  - full: m53-m64-20260410.jpg
+    scan: 20260410170920_001.jpg
+    sub:
+      - m53-20260410.jpg
+      - m64-20260410.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002136.jpg -c ../astro/orig/scan/20260410170920_001.jpg -x 85 -y 160 -o1 M53 -o2 M64 
+        -s 0.99

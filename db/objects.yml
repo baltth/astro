@@ -382,10 +382,10 @@ objects:
   C50:
     constellation: Mon
     type: open cluster
+    desc: Low disperation, large sized cluster with poor star density
     aka:
       - NGC 2239
       - NGC 2244
-      - In Rosette Nebula
     fetched:
       NGC 2244:
         type: Duplicate
@@ -415,6 +415,20 @@ objects:
     constellation: Solar System
     type: comet
     desc: Non-periodic comet
+
+  Catharina:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 18.0°S 23.6°E
+      size: 100 km
+
+  Cyrillus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 13.2°S 24.0°E
+      size: 98 km
 
   Epsilon Equ:
     constellation: Equ
@@ -680,6 +694,13 @@ objects:
           - HIP 9153
           - HR 569
 
+  Langrenus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 8.9°S 60.9°E
+      size: 132 km
+
   M2:
     constellation: Aqr
     type: globular cluster
@@ -835,6 +856,20 @@ objects:
         aka:
           - Pleiades, Seven Sisters or Subaru
 
+  M53:
+    constellation: Com
+    type: globular cluster
+    aka:
+      - NGC 5024
+    fetched:
+      M 53:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 13h 13m 12s
+        dec: 18° 10' 12"
+        aka:
+          - NGC 5024
+
   M57:
     constellation: Lyr
     type: planetary nebula
@@ -850,6 +885,26 @@ objects:
         aka:
           - NGC 6720
           - Ring Nebula
+
+  M64:
+    constellation: Com
+    type: galaxy
+    aka:
+      - NGC 4826
+      - Black Eye Galaxy
+    fetched:
+      M 64:
+        type: Galaxy
+        subtype: Spiral
+        ra: 12h 57m 00s
+        dec: 21° 40' 48"
+        aka:
+          - NGC 4826
+          - UGC 8062
+          - MCG 4-31-1
+          - PGC 44182
+          - Black Eye Galaxy
+          - ZWG 130.1
 
   M71:
     constellation: Sge
@@ -953,6 +1008,13 @@ objects:
   Saturn:
     constellation: Solar System
     type: planet
+
+  Theophilus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 11.4°S 26.4°E
+      size: 100 km
 
   Theta Ser:
     constellation: Ser

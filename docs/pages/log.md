@@ -2,6 +2,10 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-04-08: [Messier 53](../obs/m53-2026-04-08.md)
+- 2026-04-08: [Messier 64](../obs/m64-2026-04-08.md)
+- 2026-04-03: [Langrenus](../obs/langrenus-2026-04-03.md)
+- 2026-03-24: [Catharina, Cyrillus, Theophilus](../obs/catharina-cyrillus-theophilus-2026-03-24.md)
 - 2025-12-26: [Jupiter](../obs/jupiter-2025-12-26.md)
 - 2025-12-26: [C50](../obs/c50-2025-12-26.md)
 - 2025-12-26: [NGC 2264](../obs/ngc-2264-2025-12-26.md)

@@ -382,10 +382,10 @@ objects:
   C50:
     constellation: Mon
     type: open cluster
+    desc: Low disperation, large sized cluster with poor star density
     aka:
       - NGC 2239
       - NGC 2244
-      - In Rosette Nebula
     fetched:
       NGC 2244:
         type: Duplicate

@@ -820,4 +820,25 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
-  
+
+  - name: C/2025 R3
+    img: c-2025-r3-20260420.jpg
+    date: 2026-04-12 04:25
+    nelm: 4.2
+    seeing: 6
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      I've observed this comet from home. It was hard to find an acceptable observation position,
+      there's no good view to the east and what I have is full of city lights. It was hard to see even
+      in the finder. Still it was worth to see, especially as it's not going to return.
+
+  - name: M57
+    img: m57-20260420.jpg
+    date: 2026-04-18 01:30
+    nelm: 4.2
+    seeing: 7
+    ap: 127
+    mag: 171
+    fov: 0.4

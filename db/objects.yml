@@ -416,6 +416,11 @@ objects:
     type: comet
     desc: Non-periodic comet
 
+  C/2025 R3:
+    constellation: Solar System
+    type: comet
+    desc: Hyperbolic Oort cloud comet
+
   Catharina:
     constellation: Moon
     type: crater

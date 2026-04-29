@@ -23,7 +23,7 @@
 - [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
-- [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
+- [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
@@ -80,6 +80,7 @@
 #### Other
 
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
 - [Penrose triangle](../obs/penrose-triangle-2025-11-01.md) - asterism in Taurus
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
@@ -153,7 +154,7 @@
 
 #### Lyra
 
-- [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
+- [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 
 #### Monoceros
 
@@ -225,6 +226,7 @@
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Catharina](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Cyrillus](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon

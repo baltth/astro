@@ -936,6 +936,24 @@ objects:
         aka:
           - NGC 581
 
+  M13:
+    constellation: Her
+    type: globular cluster
+    aka:
+      - NGC 6205
+      - Hercules Cluster
+    fetched:
+      M 13:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 16h 41m 24s
+        dec: 36° 27' 36"
+        aka:
+          - NGC 6205
+          - Hercules Cluster
+          - Great Star Cluster In Hercules
+          - Great Hercules Cluster
+
   NGC 2264:
     constellation: Mon
     type: open cluster

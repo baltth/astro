@@ -11,6 +11,7 @@
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
+- [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
@@ -148,6 +149,7 @@
 #### Hercules
 
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
+- [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 
 #### Lyra
 

@@ -811,3 +811,13 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
+
+  - name: M13
+    img: m13-m13-2nd-20260410.jpg
+    date: 2026-04-09 00:50
+    nelm: 4.5
+    seeing: 5
+    ap: 127
+    mag: 171
+    fov: 0.4
+  

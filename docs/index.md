@@ -10,6 +10,7 @@
 
 - 2026-04-08: [Messier 53](obs/m53-2026-04-08.md)
 - 2026-04-08: [Messier 64](obs/m64-2026-04-08.md)
+- 2026-04-08: [Messier 13](obs/m13-2026-04-08.md)
 - 2026-04-03: [Langrenus](obs/langrenus-2026-04-03.md)
 - 2026-03-24: [Catharina, Cyrillus, Theophilus](obs/catharina-cyrillus-theophilus-2026-03-24.md)
 - 2025-12-26: [Jupiter](obs/jupiter-2025-12-26.md)
@@ -17,7 +18,6 @@
 - 2025-12-26: [NGC 2264](obs/ngc-2264-2025-12-26.md)
 - 2025-11-27: [Jupiter](obs/jupiter-2025-11-27.md)
 - 2025-11-18: [Messier 42, Messier 43](obs/m42-m43-2025-11-18.md)
-- 2025-11-18: [Alpha Geminorum](obs/alpha-gem-2025-11-18.md)
 
 ---
 

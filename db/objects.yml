@@ -720,6 +720,22 @@ objects:
         aka:
           - NGC 7089
 
+  M5:
+    constellation: Ser
+    type: globular cluster
+    aka:
+      - NGC 5904
+      - Rose Cluster
+    fetched:
+      M 5:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 15h 18m 36s
+        dec: 2° 4' 48"
+        aka:
+          - NGC 5904
+          - Rose Cluster
+
   M11:
     constellation: Sct
     type: open cluster

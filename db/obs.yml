@@ -842,3 +842,15 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
+
+  - name: M5
+    img: m5-m5-2nd-20260420.jpg
+    date: 2026-04-18 00:50
+    nelm: 4.2
+    seeing: 7
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      Double sketch of this spectacular cluster. For me it looked a bit asymmetric, and
+      the shiny center had oval surroundings.

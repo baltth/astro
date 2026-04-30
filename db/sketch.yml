@@ -331,3 +331,11 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002191.jpg -c ../astro/orig/scan/20260420213347_001.jpg -x 70 -y 195 -o1 'C/2025 R3' -o2 M57
         -s 0.99
+
+  - full: m5-m5-2nd-20260420.jpg
+    scan: 20260420213532_001.jpg
+    sub:
+      - m5-20260420.jpg
+      - m5-2nd-20260420.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002192.jpg -c ../astro/orig/scan/20260420213532_001.jpg -x 55 -y 160 -o1 M5 -o2 M5 -s 0.99

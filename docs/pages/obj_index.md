@@ -10,6 +10,7 @@
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
+- [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
@@ -199,6 +200,7 @@
 
 #### Serpens
 
+- [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 
 #### Taurus

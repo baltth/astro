@@ -2,8 +2,14 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-04-18: [Messier 104](../obs/m104-2026-04-18.md)
+- 2026-04-18: [Delta Corvi](../obs/delta-crv-2026-04-18.md)
+- 2026-04-17: [Messier 57](../obs/m57-2026-04-17.md)
+- 2026-04-17: [Messier 5](../obs/m5-2026-04-17.md)
+- 2026-04-11: [C/2025 R3](../obs/c-2025-r3-2026-04-11.md)
 - 2026-04-08: [Messier 53](../obs/m53-2026-04-08.md)
 - 2026-04-08: [Messier 64](../obs/m64-2026-04-08.md)
+- 2026-04-08: [Messier 13](../obs/m13-2026-04-08.md)
 - 2026-04-03: [Langrenus](../obs/langrenus-2026-04-03.md)
 - 2026-03-24: [Catharina, Cyrillus, Theophilus](../obs/catharina-cyrillus-theophilus-2026-03-24.md)
 - 2025-12-26: [Jupiter](../obs/jupiter-2025-12-26.md)

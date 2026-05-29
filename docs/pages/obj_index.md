@@ -10,7 +10,9 @@
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
+- [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
+- [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
@@ -22,10 +24,11 @@
 - [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
-- [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
+- [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
+- [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 
@@ -43,6 +46,7 @@
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Epsilon Persei](../obs/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
@@ -79,6 +83,7 @@
 #### Other
 
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
 - [Penrose triangle](../obs/penrose-triangle-2025-11-01.md) - asterism in Taurus
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
@@ -125,6 +130,10 @@
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 
+#### Corvus
+
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
+
 #### Cygnus
 
 - [61 Cygni](../obs/61-cyg-2025-08-19.md) - double star in Cygnus
@@ -148,10 +157,11 @@
 #### Hercules
 
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
+- [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 
 #### Lyra
 
-- [Messier 57](../obs/m57-2025-08-19.md) - planetary nebula in Lyra
+- [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 
 #### Monoceros
 
@@ -196,6 +206,7 @@
 
 #### Serpens
 
+- [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 
 #### Taurus
@@ -212,6 +223,10 @@
 
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
 
+#### Virgo
+
+- [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
+
 #### Vulpecula
 
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
@@ -223,6 +238,7 @@
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
+- [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Catharina](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Cyrillus](../obs/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Fracastorius](../obs/fracastorius-2025-09-11.md) - crater in Moon

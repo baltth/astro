@@ -854,3 +854,21 @@ observations:
     text: |
       Double sketch of this spectacular cluster. For me it looked a bit asymmetric, and
       the shiny center had oval surroundings.
+
+  - name: M104
+    img: m104-20260529.jpg
+    date: 2026-04-19 00:10
+    nelm: 4.0
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+
+  - name: Delta Crv
+    img: delta-crv-20260529.jpg
+    date: 2026-04-19 00:40
+    nelm: 4.0
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1

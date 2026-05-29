@@ -435,6 +435,23 @@ objects:
       coordinates: 13.2°S 24.0°E
       size: 98 km
 
+  Delta Crv:
+    constellation: Crv
+    type: star
+    aka:
+      - Algorab
+    fetched:
+      HD 108767:
+        type: Star
+        subtype: Blue
+        ra: 12h 29m 51s
+        dec: -17° 29' 4"
+        spectral_class: B9.5V
+        aka:
+          - HIP 60965
+          - HR 4757
+          - Algorab
+
   Epsilon Equ:
     constellation: Equ
     type: star system
@@ -974,6 +991,24 @@ objects:
           - Hercules Cluster
           - Great Star Cluster In Hercules
           - Great Hercules Cluster
+
+  M104:
+    constellation: Vir
+    type: galaxy
+    aka:
+      - NGC 4594
+      - Sombrero Galaxy
+    fetched:
+      M 104:
+        type: Galaxy
+        subtype: Spiral
+        ra: 12h 40m 12s
+        dec: -11° 37' 12"
+        aka:
+          - NGC 4594
+          - MCG -2-32-20
+          - PGC 42407
+          - Sombrero Galaxy
 
   NGC 2264:
     constellation: Mon

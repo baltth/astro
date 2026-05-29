@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-04-18: [Messier 104](../obs/m104-2026-04-18.md)
+- 2026-04-18: [Delta Corvi](../obs/delta-crv-2026-04-18.md)
 - 2026-04-17: [Messier 57](../obs/m57-2026-04-17.md)
 - 2026-04-17: [Messier 5](../obs/m5-2026-04-17.md)
 - 2026-04-11: [C/2025 R3](../obs/c-2025-r3-2026-04-11.md)

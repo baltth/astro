@@ -28,6 +28,7 @@
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
+- [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 
@@ -45,6 +46,7 @@
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Epsilon Persei](../obs/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
@@ -127,6 +129,10 @@
 
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
+
+#### Corvus
+
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
 
 #### Cygnus
 
@@ -216,6 +222,10 @@
 #### Ursa Minor
 
 - [Alpha Ursae Minoris](../obs/alpha-umi-2025-08-18.md) - double star in Ursa Minor
+
+#### Virgo
+
+- [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
 
 #### Vulpecula
 

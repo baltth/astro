@@ -339,3 +339,12 @@ sketches:
       - m5-2nd-20260420.jpg
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002192.jpg -c ../astro/orig/scan/20260420213532_001.jpg -x 55 -y 160 -o1 M5 -o2 M5 -s 0.99
+
+  - full: m104-delta-crv-20260529.jpg
+    scan: 20260420213733_001.jpg
+    sub:
+      - m104-20260529.jpg
+      - delta-crv-20260529.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002193.jpg -c ../astro/orig/scan/20260420213733_001.jpg -x 45 -y 172 -o1 M104 -o2 'Delta 
+        Crv' -s 0.99

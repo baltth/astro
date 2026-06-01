@@ -892,7 +892,7 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
-  
+
   - name: Kemble 2
     img: kemble-2-20260601.jpg
     date: 2026-05-18 22:30
@@ -914,3 +914,21 @@ observations:
       While it looks like a binary star, Psi-1 Draconis is a triple star system.
       Psi-1 Draconis A was found to be a spectroscopic binary on its owm.
       Also note that B star has an exoplanet 'Psi-1 Draconis Bb' - imagine it onto the sketch.
+
+  - name: C6
+    img: c6-20260601.jpg
+    date: 2026-05-18 23:20
+    nelm: 4.2
+    seeing: 8
+    ap: 127
+    mag: 171
+    fov: 0.4
+
+  - name: Nu Dra
+    img: nu-dra-20260601.jpg
+    date: 2026-05-18 23:40
+    nelm: 4.2
+    seeing: 8
+    ap: 127
+    mag: 47
+    fov: 1.1

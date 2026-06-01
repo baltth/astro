@@ -365,6 +365,22 @@ objects:
           - HIP 95951
           - HR 7418
 
+  C6:
+    constellation: Dra
+    type: planetary nebula
+    aka:
+      - Cat's Eye Nebula
+      - NGC 6543
+    fetched:
+      NGC 6543:
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        ra: 17h 58m 33s
+        dec: 66° 37' 59"
+        aka:
+          - Cat Eye Nebula
+          - Cats Eye Nebula
+
   C47:
     constellation: Del
     type: globular cluster
@@ -1080,6 +1096,44 @@ objects:
         dec: 6° 30' 30"
         aka:
           - Tweedledum Cluster
+
+  Nu Dra:
+    constellation: Dra
+    type: star system
+    aka:
+      - Kuma
+    components:
+      Nu-1 Dra:
+        name: HD 159541
+        desc: "'Am' star on the main sequence"
+        spectral_class: A8Vm (kA3hF0mF0)
+        mag: 4.88
+      Nu-2 Dra:
+        name: HD 159560
+        desc: "Spectroscopic binary with an 'Am' primary"
+        spectral_class: A4IVm (kA3hF1mF0)
+        mag: 4.88
+    fetched:
+      HD 159541:
+        type: Star
+        subtype: Main Sequence
+        ra: 17h 32m 10s
+        dec: 55° 11' 3"
+        spectral_class: Am...
+        aka:
+          - HIP 85819
+          - HR 6554
+          - Kuma
+      HD 159560:
+        type: Star
+        subtype: Main Sequence
+        ra: 17h 32m 15s
+        dec: 55° 10' 23"
+        spectral_class: Am
+        aka:
+          - HIP 85829
+          - HR 6555
+          - Kuma
 
   Penrose triangle:
     constellation: Tau

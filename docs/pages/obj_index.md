@@ -6,6 +6,7 @@
 
 #### Deep space
 
+- [C6](../obs/c6-2026-05-18.md) - planetary nebula in Draco
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
@@ -59,6 +60,7 @@
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
 - [Lambda Arietis](../obs/lambda-ari-2025-09-15.md) - double star in Aries
+- [Nu Draconis](../obs/nu-dra-2026-05-18.md) - star system in Draco
 - [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - astrometric binary star in Pegasus
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
@@ -152,7 +154,9 @@
 
 #### Draco
 
+- [C6](../obs/c6-2026-05-18.md) - planetary nebula in Draco
 - [Kemble 2](../obs/kemble-2-2026-05-18.md) - asterism in Draco
+- [Nu Draconis](../obs/nu-dra-2026-05-18.md) - star system in Draco
 - [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
 
 #### Equuleus

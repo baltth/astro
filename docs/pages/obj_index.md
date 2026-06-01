@@ -59,6 +59,7 @@
 - [Lambda Arietis](../obs/lambda-ari-2025-09-15.md) - double star in Aries
 - [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - astrometric binary star in Pegasus
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
+- [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
@@ -85,6 +86,7 @@
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
+- [Kemble 2](../obs/kemble-2-2026-05-18.md) - asterism in Draco
 - [Penrose triangle](../obs/penrose-triangle-2025-11-01.md) - asterism in Taurus
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 
@@ -145,6 +147,11 @@
 
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
+
+#### Draco
+
+- [Kemble 2](../obs/kemble-2-2026-05-18.md) - asterism in Draco
+- [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
 
 #### Equuleus
 

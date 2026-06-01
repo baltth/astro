@@ -348,3 +348,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002193.jpg -c ../astro/orig/scan/20260420213733_001.jpg -x 45 -y 172 -o1 M104 -o2 'Delta 
         Crv' -s 0.99
+
+  - full: kemble-2-psi-1-dra-20260601.jpg
+    scan: 20260601011218_001.jpg
+    sub:
+      - kemble-2-20260601.jpg
+      - psi-1-dra-20260601.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002348.jpg -c ../astro/orig/scan/20260601011218_001.jpg -x 55 -y 165 -o1 'Kemble 2' -o2 
+        'Psi-1 Dra' -s 0.99

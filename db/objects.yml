@@ -701,6 +701,15 @@ objects:
           - HIP 79045
           - HR 6009
 
+  Kemble 2:
+    constellation: Dra
+    type: asterism
+    aka:
+      - Mini-Cassiopeia
+      - Little Queen
+    ra: 18h 34m 54s
+    dec: 72° 23' 2"
+
   Lambda Ari:
     constellation: Ari
     type: double star
@@ -1065,6 +1074,41 @@ objects:
   Pi-2 Peg:
     constellation: Peg
     type: star
+
+  Psi-1 Dra:
+    constellation: Dra
+    type: star system
+    aka:
+      - Dziban
+    components:
+      ~A:
+        name: HD 162003
+        desc: Spectroscopic binary star with a main sequence subgiant primary
+        mag: 4.58
+      ~B:
+        name: HD 162004
+        mag: 5.82
+    fetched:
+      HD 162003:
+        type: Star
+        subtype: Main Sequence Subgiant
+        ra: 17h 41m 56s
+        dec: 72° 8' 56"
+        spectral_class: F5IV-V
+        aka:
+          - HIP 86614
+          - HR 6636
+          - Dziban
+      HD 162004:
+        type: Star
+        subtype: Yellow Main Sequence
+        ra: 17h 41m 58s
+        dec: 72° 9' 25"
+        spectral_class: G0V
+        aka:
+          - HIP 86620
+          - HR 6637
+          - Dsiban
 
   STF 2841:
     constellation: Peg

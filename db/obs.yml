@@ -873,6 +873,26 @@ observations:
     mag: 47
     fov: 1.1
 
+  - name: M48
+    img: m48-20260601.jpg
+    date: 2026-04-20 22:20
+    nelm: 4.0
+    seeing: 5
+    ap: 127
+    mag: 4.7
+    fov: 1.1
+    text: |
+      Bad conditions for observation and a pretty open cluster.
+
+  - name: M92
+    img: m92-20260601.jpg
+    date: 2026-05-11 00:15
+    nelm: 3.8
+    seeing: 5
+    ap: 127
+    mag: 103
+    fov: 0.66
+  
   - name: Kemble 2
     img: kemble-2-20260601.jpg
     date: 2026-05-18 22:30

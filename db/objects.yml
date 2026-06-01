@@ -777,6 +777,24 @@ objects:
       - NGC 6705
       - Wild Duck Cluster
 
+  M13:
+    constellation: Her
+    type: globular cluster
+    aka:
+      - NGC 6205
+      - Hercules Cluster
+    fetched:
+      M 13:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 16h 41m 24s
+        dec: 36° 27' 36"
+        aka:
+          - NGC 6205
+          - Hercules Cluster
+          - Great Star Cluster In Hercules
+          - Great Hercules Cluster
+
   M15:
     constellation: Peg
     type: globular cluster
@@ -911,6 +929,19 @@ objects:
         aka:
           - Pleiades, Seven Sisters or Subaru
 
+  M48:
+    constellation: Hya
+    type: open cluster
+    subtype: Very low disperation, medium sized cluster with medium star density
+    fetched:
+      M 48:
+        type: Open Cluster
+        subtype: Very low disperation, medium sized cluster with medium star density
+        ra: 08h 13m 12s
+        dec: -5° 45' 0"
+        aka:
+          - NGC 2548
+
   M53:
     constellation: Com
     type: globular cluster
@@ -977,6 +1008,18 @@ objects:
           - NGC 6838
           - Angelfish Cluster
 
+  M92:
+    constellation: Her
+    type: globular cluster
+    fetched:
+      M 92:
+        type: Globular Cluster
+        subtype: Intermediate rich concentrations
+        ra: 17h 17m 24s
+        dec: 43° 8' 24"
+        aka:
+          - NGC 6341
+
   M103:
     constellation: Cas
     type: open cluster
@@ -990,24 +1033,6 @@ objects:
         dec: 60° 42' 0"
         aka:
           - NGC 581
-
-  M13:
-    constellation: Her
-    type: globular cluster
-    aka:
-      - NGC 6205
-      - Hercules Cluster
-    fetched:
-      M 13:
-        type: Globular Cluster
-        subtype: Intermediate concentrations
-        ra: 16h 41m 24s
-        dec: 36° 27' 36"
-        aka:
-          - NGC 6205
-          - Hercules Cluster
-          - Great Star Cluster In Hercules
-          - Great Hercules Cluster
 
   M104:
     constellation: Vir

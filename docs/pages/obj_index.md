@@ -23,10 +23,12 @@
 - [Messier 42](../obs/m42-m43-2025-11-18.md) - diffuse nebula in Orion
 - [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
+- [Messier 48](../obs/m48-2026-04-20.md) - open cluster in Hydra
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
 - [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
+- [Messier 92](../obs/m92-2026-05-10.md) - globular cluster in Hercules
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
@@ -165,6 +167,11 @@
 
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
+- [Messier 92](../obs/m92-2026-05-10.md) - globular cluster in Hercules
+
+#### Hydra
+
+- [Messier 48](../obs/m48-2026-04-20.md) - open cluster in Hydra
 
 #### Lyra
 

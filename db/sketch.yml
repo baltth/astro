@@ -357,3 +357,11 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002348.jpg -c ../astro/orig/scan/20260601011218_001.jpg -x 55 -y 165 -o1 'Kemble 2' -o2 
         'Psi-1 Dra' -s 0.99
+
+  - full: m48-m92-20260601.jpg
+    scan: 20260601011330_001.jpg
+    sub:
+      - m48-20260601.jpg
+      - m92-20260601.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002349.jpg -c ../astro/orig/scan/20260601011330_001.jpg -x 75 -y 150 -o1 M48 -o2 M92 -s 0.99

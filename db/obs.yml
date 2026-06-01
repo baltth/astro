@@ -932,3 +932,26 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
+
+  - name: M8
+    img: m8-20260601.jpg
+    date: 2026-05-25 01:10
+    loc: Bükkösd, HU
+    nelm: 52
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Just for fun: my very first astronomy sketch was M8, done into my palm-sized
+      notebook. [Here](../img/m8-very-first.jpg) it is.
+
+  - name: M22
+    img: m22-20260601.jpg
+    date: 2026-05-25 01:35
+    loc: Bükkösd, HU
+    nelm: 52
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1

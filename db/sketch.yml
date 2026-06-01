@@ -374,3 +374,11 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002350.jpg -c ../astro/orig/scan/20260601011428_001.jpg -x 50 -y 160 -o1 C6 -o2 'Nu Dra' -s 
         0.99
+
+  - full: m8-m22-20260601.jpg
+    scan: 20260601011525_001.jpg
+    sub:
+      - m8-20260601.jpg
+      - m22-20260601.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002351.jpg -c ../astro/orig/scan/20260601011525_001.jpg -x 55 -y 190 -o1 M8 -o2 M22 -s 0.99

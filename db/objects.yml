@@ -786,6 +786,24 @@ objects:
           - NGC 5904
           - Rose Cluster
 
+  M8:
+    constellation: Sgr
+    type: emission nebula
+    desc: Super nova remnant emission nebula
+    aka:
+      - NGC 6523
+      - Lagoon Nebula
+    fetched:
+      M 8:
+        type: Super Nova Remnant
+        subtype: Emission Nebula
+        ra: 18h 03m 35s
+        dec: -24° 23' 24"
+        aka:
+          - NGC 6523
+          - LBN 25
+          - Lagoon Nebula
+
   M11:
     constellation: Sct
     type: open cluster
@@ -817,6 +835,23 @@ objects:
     aka:
       - NGC 7078
       - Great Pegasus Cluster
+
+  M22:
+    constellation: Sgr
+    type: globular cluster
+    aka:
+      - NGC 6656
+      - Great Sagittarius Cluster
+    fetched:
+      M 22:
+        type: Globular Cluster
+        subtype: Intermediate loose concentration
+        ra: 18h 36m 36s
+        dec: -23° 54' 0"
+        aka:
+          - NGC 6656
+          - ESO 523-SC4
+          - Great Sagittarius Cluster
 
   M27:
     constellation: Vul
@@ -1110,7 +1145,7 @@ objects:
         mag: 4.88
       Nu-2 Dra:
         name: HD 159560
-        desc: "Spectroscopic binary with an 'Am' primary"
+        desc: Spectroscopic binary with an 'Am' primary
         spectral_class: A4IVm (kA3hF1mF0)
         mag: 4.88
     fetched:

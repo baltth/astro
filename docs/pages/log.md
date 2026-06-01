@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-05-24: [Messier 8](../obs/m8-2026-05-24.md)
+- 2026-05-24: [Messier 22](../obs/m22-2026-05-24.md)
 - 2026-05-18: [Kemble 2](../obs/kemble-2-2026-05-18.md)
 - 2026-05-18: [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md)
 - 2026-05-18: [C6](../obs/c6-2026-05-18.md)

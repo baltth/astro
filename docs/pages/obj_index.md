@@ -12,9 +12,11 @@
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
+- [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
+- [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
@@ -217,6 +219,11 @@
 #### Sagitta
 
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
+
+#### Sagittarius
+
+- [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
+- [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
 
 #### Scutum
 

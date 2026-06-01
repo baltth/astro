@@ -437,9 +437,17 @@ objects:
 
   Delta Crv:
     constellation: Crv
-    type: star
+    type: double star
     aka:
       - Algorab
+    components:
+      ~A:
+        name: HD 108767
+        mag: 2.96
+      ~B:
+        name: HR 4757
+        spectral_class: K2Ve
+        mag: 9.3
     fetched:
       HD 108767:
         type: Star

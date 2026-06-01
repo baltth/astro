@@ -46,7 +46,7 @@
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
-- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - double star in Corvus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Epsilon Persei](../obs/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
@@ -132,7 +132,7 @@
 
 #### Corvus
 
-- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - double star in Corvus
 
 #### Cygnus
 

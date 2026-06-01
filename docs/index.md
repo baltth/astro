@@ -8,16 +8,16 @@
 
 ## Latest
 
+- 2026-05-24: [Messier 8](obs/m8-2026-05-24.md)
+- 2026-05-24: [Messier 22](obs/m22-2026-05-24.md)
+- 2026-05-18: [Kemble 2](obs/kemble-2-2026-05-18.md)
+- 2026-05-18: [Psi-1 Draconis](obs/psi-1-dra-2026-05-18.md)
+- 2026-05-18: [C6](obs/c6-2026-05-18.md)
+- 2026-05-18: [Nu Draconis](obs/nu-dra-2026-05-18.md)
+- 2026-05-10: [Messier 92](obs/m92-2026-05-10.md)
+- 2026-04-20: [Messier 48](obs/m48-2026-04-20.md)
 - 2026-04-18: [Messier 104](obs/m104-2026-04-18.md)
 - 2026-04-18: [Delta Corvi](obs/delta-crv-2026-04-18.md)
-- 2026-04-17: [Messier 57](obs/m57-2026-04-17.md)
-- 2026-04-17: [Messier 5](obs/m5-2026-04-17.md)
-- 2026-04-11: [C/2025 R3](obs/c-2025-r3-2026-04-11.md)
-- 2026-04-08: [Messier 53](obs/m53-2026-04-08.md)
-- 2026-04-08: [Messier 64](obs/m64-2026-04-08.md)
-- 2026-04-08: [Messier 13](obs/m13-2026-04-08.md)
-- 2026-04-03: [Langrenus](obs/langrenus-2026-04-03.md)
-- 2026-03-24: [Catharina, Cyrillus, Theophilus](obs/catharina-cyrillus-theophilus-2026-03-24.md)
 
 ---
 

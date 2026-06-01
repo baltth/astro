@@ -365,6 +365,22 @@ objects:
           - HIP 95951
           - HR 7418
 
+  C6:
+    constellation: Dra
+    type: planetary nebula
+    aka:
+      - Cat's Eye Nebula
+      - NGC 6543
+    fetched:
+      NGC 6543:
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        ra: 17h 58m 33s
+        dec: 66° 37' 59"
+        aka:
+          - Cat Eye Nebula
+          - Cats Eye Nebula
+
   C47:
     constellation: Del
     type: globular cluster
@@ -437,9 +453,17 @@ objects:
 
   Delta Crv:
     constellation: Crv
-    type: star
+    type: double star
     aka:
       - Algorab
+    components:
+      ~A:
+        name: HD 108767
+        mag: 2.96
+      ~B:
+        name: HR 4757
+        spectral_class: K2Ve
+        mag: 9.3
     fetched:
       HD 108767:
         type: Star
@@ -693,6 +717,15 @@ objects:
           - HIP 79045
           - HR 6009
 
+  Kemble 2:
+    constellation: Dra
+    type: asterism
+    aka:
+      - Mini-Cassiopeia
+      - Little Queen
+    ra: 18h 34m 54s
+    dec: 72° 23' 2"
+
   Lambda Ari:
     constellation: Ari
     type: double star
@@ -753,6 +786,24 @@ objects:
           - NGC 5904
           - Rose Cluster
 
+  M8:
+    constellation: Sgr
+    type: emission nebula
+    desc: Super nova remnant emission nebula
+    aka:
+      - NGC 6523
+      - Lagoon Nebula
+    fetched:
+      M 8:
+        type: Super Nova Remnant
+        subtype: Emission Nebula
+        ra: 18h 03m 35s
+        dec: -24° 23' 24"
+        aka:
+          - NGC 6523
+          - LBN 25
+          - Lagoon Nebula
+
   M11:
     constellation: Sct
     type: open cluster
@@ -760,12 +811,47 @@ objects:
       - NGC 6705
       - Wild Duck Cluster
 
+  M13:
+    constellation: Her
+    type: globular cluster
+    aka:
+      - NGC 6205
+      - Hercules Cluster
+    fetched:
+      M 13:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 16h 41m 24s
+        dec: 36° 27' 36"
+        aka:
+          - NGC 6205
+          - Hercules Cluster
+          - Great Star Cluster In Hercules
+          - Great Hercules Cluster
+
   M15:
     constellation: Peg
     type: globular cluster
     aka:
       - NGC 7078
       - Great Pegasus Cluster
+
+  M22:
+    constellation: Sgr
+    type: globular cluster
+    aka:
+      - NGC 6656
+      - Great Sagittarius Cluster
+    fetched:
+      M 22:
+        type: Globular Cluster
+        subtype: Intermediate loose concentration
+        ra: 18h 36m 36s
+        dec: -23° 54' 0"
+        aka:
+          - NGC 6656
+          - ESO 523-SC4
+          - Great Sagittarius Cluster
 
   M27:
     constellation: Vul
@@ -894,6 +980,19 @@ objects:
         aka:
           - Pleiades, Seven Sisters or Subaru
 
+  M48:
+    constellation: Hya
+    type: open cluster
+    subtype: Very low disperation, medium sized cluster with medium star density
+    fetched:
+      M 48:
+        type: Open Cluster
+        subtype: Very low disperation, medium sized cluster with medium star density
+        ra: 08h 13m 12s
+        dec: -5° 45' 0"
+        aka:
+          - NGC 2548
+
   M53:
     constellation: Com
     type: globular cluster
@@ -960,6 +1059,18 @@ objects:
           - NGC 6838
           - Angelfish Cluster
 
+  M92:
+    constellation: Her
+    type: globular cluster
+    fetched:
+      M 92:
+        type: Globular Cluster
+        subtype: Intermediate rich concentrations
+        ra: 17h 17m 24s
+        dec: 43° 8' 24"
+        aka:
+          - NGC 6341
+
   M103:
     constellation: Cas
     type: open cluster
@@ -973,24 +1084,6 @@ objects:
         dec: 60° 42' 0"
         aka:
           - NGC 581
-
-  M13:
-    constellation: Her
-    type: globular cluster
-    aka:
-      - NGC 6205
-      - Hercules Cluster
-    fetched:
-      M 13:
-        type: Globular Cluster
-        subtype: Intermediate concentrations
-        ra: 16h 41m 24s
-        dec: 36° 27' 36"
-        aka:
-          - NGC 6205
-          - Hercules Cluster
-          - Great Star Cluster In Hercules
-          - Great Hercules Cluster
 
   M104:
     constellation: Vir
@@ -1039,6 +1132,44 @@ objects:
         aka:
           - Tweedledum Cluster
 
+  Nu Dra:
+    constellation: Dra
+    type: star system
+    aka:
+      - Kuma
+    components:
+      Nu-1 Dra:
+        name: HD 159541
+        desc: "'Am' star on the main sequence"
+        spectral_class: A8Vm (kA3hF0mF0)
+        mag: 4.88
+      Nu-2 Dra:
+        name: HD 159560
+        desc: Spectroscopic binary with an 'Am' primary
+        spectral_class: A4IVm (kA3hF1mF0)
+        mag: 4.88
+    fetched:
+      HD 159541:
+        type: Star
+        subtype: Main Sequence
+        ra: 17h 32m 10s
+        dec: 55° 11' 3"
+        spectral_class: Am...
+        aka:
+          - HIP 85819
+          - HR 6554
+          - Kuma
+      HD 159560:
+        type: Star
+        subtype: Main Sequence
+        ra: 17h 32m 15s
+        dec: 55° 10' 23"
+        spectral_class: Am
+        aka:
+          - HIP 85829
+          - HR 6555
+          - Kuma
+
   Penrose triangle:
     constellation: Tau
     type: asterism
@@ -1057,6 +1188,41 @@ objects:
   Pi-2 Peg:
     constellation: Peg
     type: star
+
+  Psi-1 Dra:
+    constellation: Dra
+    type: star system
+    aka:
+      - Dziban
+    components:
+      ~A:
+        name: HD 162003
+        desc: Spectroscopic binary star with a main sequence subgiant primary
+        mag: 4.58
+      ~B:
+        name: HD 162004
+        mag: 5.82
+    fetched:
+      HD 162003:
+        type: Star
+        subtype: Main Sequence Subgiant
+        ra: 17h 41m 56s
+        dec: 72° 8' 56"
+        spectral_class: F5IV-V
+        aka:
+          - HIP 86614
+          - HR 6636
+          - Dziban
+      HD 162004:
+        type: Star
+        subtype: Yellow Main Sequence
+        ra: 17h 41m 58s
+        dec: 72° 9' 25"
+        spectral_class: G0V
+        aka:
+          - HIP 86620
+          - HR 6637
+          - Dsiban
 
   STF 2841:
     constellation: Peg

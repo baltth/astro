@@ -2,6 +2,14 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-05-24: [Messier 8](../obs/m8-2026-05-24.md)
+- 2026-05-24: [Messier 22](../obs/m22-2026-05-24.md)
+- 2026-05-18: [Kemble 2](../obs/kemble-2-2026-05-18.md)
+- 2026-05-18: [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md)
+- 2026-05-18: [C6](../obs/c6-2026-05-18.md)
+- 2026-05-18: [Nu Draconis](../obs/nu-dra-2026-05-18.md)
+- 2026-05-10: [Messier 92](../obs/m92-2026-05-10.md)
+- 2026-04-20: [Messier 48](../obs/m48-2026-04-20.md)
 - 2026-04-18: [Messier 104](../obs/m104-2026-04-18.md)
 - 2026-04-18: [Delta Corvi](../obs/delta-crv-2026-04-18.md)
 - 2026-04-17: [Messier 57](../obs/m57-2026-04-17.md)

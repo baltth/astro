@@ -6,14 +6,17 @@
 
 #### Deep space
 
+- [C6](../obs/c6-2026-05-18.md) - planetary nebula in Draco
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
+- [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
+- [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
@@ -23,10 +26,12 @@
 - [Messier 42](../obs/m42-m43-2025-11-18.md) - diffuse nebula in Orion
 - [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
+- [Messier 48](../obs/m48-2026-04-20.md) - open cluster in Hydra
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
 - [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
+- [Messier 92](../obs/m92-2026-05-10.md) - globular cluster in Hercules
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
@@ -46,7 +51,7 @@
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
 - [Beta Cygni](../obs/beta-cyg-2025-07-19.md) - double star in Cygnus
-- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - double star in Corvus
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
 - [Epsilon Persei](../obs/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
@@ -57,8 +62,10 @@
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
 - [Lambda Arietis](../obs/lambda-ari-2025-09-15.md) - double star in Aries
+- [Nu Draconis](../obs/nu-dra-2026-05-18.md) - star system in Draco
 - [Pi-1 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - astrometric binary star in Pegasus
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
+- [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
@@ -85,6 +92,7 @@
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
+- [Kemble 2](../obs/kemble-2-2026-05-18.md) - asterism in Draco
 - [Penrose triangle](../obs/penrose-triangle-2025-11-01.md) - asterism in Taurus
 - [Saturn](../obs/saturn-2025-09-11.md) - planet in Solar System
 
@@ -132,7 +140,7 @@
 
 #### Corvus
 
-- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - star in Corvus
+- [Delta Corvi](../obs/delta-crv-2026-04-18.md) - double star in Corvus
 
 #### Cygnus
 
@@ -146,6 +154,13 @@
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [Gamma Delphini](../obs/gamma-del-2025-06-30.md) - double star in Delphinus
 
+#### Draco
+
+- [C6](../obs/c6-2026-05-18.md) - planetary nebula in Draco
+- [Kemble 2](../obs/kemble-2-2026-05-18.md) - asterism in Draco
+- [Nu Draconis](../obs/nu-dra-2026-05-18.md) - star system in Draco
+- [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
+
 #### Equuleus
 
 - [Epsilon Equulei](../obs/epsilon-equ-2025-07-28.md) - star system in Equuleus
@@ -158,6 +173,11 @@
 
 - [Kappa Herculis](../obs/kappa-her-2025-07-14.md) - double star in Hercules
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
+- [Messier 92](../obs/m92-2026-05-10.md) - globular cluster in Hercules
+
+#### Hydra
+
+- [Messier 48](../obs/m48-2026-04-20.md) - open cluster in Hydra
 
 #### Lyra
 
@@ -199,6 +219,11 @@
 #### Sagitta
 
 - [Messier 71](../obs/m71-2025-07-19.md) - globular cluster in Sagitta
+
+#### Sagittarius
+
+- [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
+- [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
 
 #### Scutum
 

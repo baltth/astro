@@ -2,6 +2,14 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+
+---
+
+- [Categories](#categories)
+- [By constellation](#by-constellation)
+
+---
+
 ## Categories
 
 #### Deep space

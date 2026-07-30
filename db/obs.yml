@@ -980,3 +980,34 @@ observations:
     text: |
       A quadruple system with close and bright 2+1 stars (A & B) and a far and pale fourth one (C).
       I was not able to separate A and B components.
+
+  - name: M10
+    img: m10-20260709.jpg
+    date: 2026-06-16 01:30
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      I usually struggle observing M10 and [M12](m12-2026-06-15.md) from the suburban sky of my hometown -
+      somehow they're hard to locate and not spectacular. This night was different.
+
+      M10 is not bright but big - at least it seemed to be - and has a nice circular shape.
+      It seemed a bit textured but I was not able to resolve stars or locate irregularities.
+
+  - name: M12
+    img: m12-20260709.jpg
+    date: 2026-06-16 01:45
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      I usually struggle observing [M10](m10-2026-06-15.md) and M12 from the suburban sky of my hometown -
+      somehow they're hard to locate and not spectacular. This night was different.
+
+      M12 has an asymmetric shape and no definite center. I was able to resolve several
+      stars. Overall it looks really nice.
+      

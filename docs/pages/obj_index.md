@@ -22,7 +22,9 @@
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
+- [Messier 10](../obs/m10-2026-06-15.md) - globular cluster in Ophiuchus
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
+- [Messier 12](../obs/m12-2026-06-15.md) - globular cluster in Ophiuchus
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
@@ -202,6 +204,8 @@
 #### Ophiuchus
 
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
+- [Messier 10](../obs/m10-2026-06-15.md) - globular cluster in Ophiuchus
+- [Messier 12](../obs/m12-2026-06-15.md) - globular cluster in Ophiuchus
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 - [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md) - star system in Ophiuchus
 

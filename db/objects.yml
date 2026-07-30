@@ -819,12 +819,43 @@ objects:
           - LBN 25
           - Lagoon Nebula
 
+  M10:
+    constellation: Oph
+    type: globular cluster
+    aka:
+      - NGC 6254
+    fetched:
+      M 10:
+        type: Globular Cluster
+        subtype: Intermediate loose concentration
+        ra: 16h 57m 00s
+        dec: -4° 6' 0"
+        aka:
+          - NGC 6254
+
   M11:
     constellation: Sct
     type: open cluster
     aka:
       - NGC 6705
       - Wild Duck Cluster
+
+  M12:
+    constellation: Oph
+    type: globular cluster
+    desc: Globular cluster
+    aka:
+      - NGC 6218
+      - Gumball Globular Cluster
+    fetched:
+      M 12:
+        type: Globular Cluster
+        subtype: Loose towards the center
+        ra: 16h 47m 24s
+        dec: -1° 57' 0"
+        aka:
+          - NGC 6218
+          - Gumball Globular Cluster
 
   M13:
     constellation: Her

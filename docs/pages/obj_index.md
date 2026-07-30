@@ -15,6 +15,7 @@
 #### Deep space
 
 - [C6](../obs/c6-2026-05-18.md) - planetary nebula in Draco
+- [C10](../obs/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
@@ -75,6 +76,7 @@
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
+- [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md) - star system in Ophiuchus
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
@@ -136,6 +138,7 @@
 
 #### Cassiopeia
 
+- [C10](../obs/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
@@ -200,6 +203,7 @@
 
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
+- [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md) - star system in Ophiuchus
 
 #### Orion
 

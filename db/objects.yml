@@ -381,6 +381,21 @@ objects:
           - Cat Eye Nebula
           - Cats Eye Nebula
 
+  C10:
+    constellation: Cas
+    type: open cluster
+    aka:
+      - Lawnmower Cluster
+      - NGC 663
+    fetched:
+      NGC 663:
+        type: Open Cluster
+        subtype: Medium disperation, medium sized cluster with medium star density
+        ra: 01h 46m 15s
+        dec: 61° 13' 6"
+        aka:
+          - Lawnmower Cluster
+
   C47:
     constellation: Del
     type: globular cluster
@@ -1248,6 +1263,42 @@ objects:
   Saturn:
     constellation: Solar System
     type: planet
+
+  Tau Oph:
+    constellation: Oph
+    type: star system
+    aka:
+      - 69 Oph
+      - BD-08°4549
+    components:
+      ~A:
+        name: HD 164764
+        desc: Spectroscopic binary star
+        mag: 5.24
+      ~B:
+        name: HD 164765
+        mag: 5.94
+      ~C:
+        name: BD-08°4549C
+        mag: 11.28
+    fetched:
+      HD 164764:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 18h 03m 04s
+        dec: -9° 49' 11"
+        spectral_class: F5V+...
+        aka:
+          - HIP 88404
+          - HR 6733
+      HD 164765:
+        type: Star
+        subtype: Main Sequence
+        ra: 18h 03m 04s
+        dec: -9° 49' 6"
+        spectral_class: F3J
+        aka:
+          - HR 6734
 
   Theophilus:
     constellation: Moon

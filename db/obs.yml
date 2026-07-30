@@ -955,3 +955,28 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
+
+  - name: C10
+    img: c10-20260709.jpg
+    date: 2026-06-07 01:30
+    loc: Rózsa-sziget, Makád, HU
+    nelm: 4.8
+    seeing: 6
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Made on a silent night spent with fishing, not disturbed by carps. _Rózsa-sziget_ has no open sky but
+      the coast of _Duna_ provides good half-sky view with low horizon and minimal light pollution.
+
+  - name: Tau Oph
+    img: tau-oph-20260709.jpg
+    date: 2026-06-16 02:00
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      A quadruple system with close and bright 2+1 stars (A & B) and a far and pale fourth one (C).
+      I was not able to separate A and B components.

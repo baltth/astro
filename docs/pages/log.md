@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-06-15: [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md)
+- 2026-06-06: [C10](../obs/c10-2026-06-06.md)
 - 2026-05-24: [Messier 8](../obs/m8-2026-05-24.md)
 - 2026-05-24: [Messier 22](../obs/m22-2026-05-24.md)
 - 2026-05-18: [Kemble 2](../obs/kemble-2-2026-05-18.md)

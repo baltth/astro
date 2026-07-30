@@ -875,12 +875,44 @@ objects:
           - Great Star Cluster In Hercules
           - Great Hercules Cluster
 
+  M14:
+    constellation: Oph
+    type: globular cluster
+    aka:
+      - NGC 6402
+    fetched:
+      M 14:
+        type: Globular Cluster
+        subtype: Rather loosely concentrated towards the center
+        ra: 17h 37m 48s
+        dec: -3° 15' 0"
+        aka:
+          - NGC 6402
+
   M15:
     constellation: Peg
     type: globular cluster
     aka:
       - NGC 7078
       - Great Pegasus Cluster
+
+  M16:
+    constellation: Ser
+    type: open cluster
+    aka:
+      - NGC 6611
+      - LBN 67
+      - Eagle Nebula
+    fetched:
+      M 16:
+        type: Open Cluster
+        subtype: Low disperation, large sized cluster with medium star density
+        ra: 18h 18m 36s
+        dec: -13° 49' 12"
+        aka:
+          - NGC 6611
+          - LBN 67
+          - Eagle Nebula
 
   M22:
     constellation: Sgr

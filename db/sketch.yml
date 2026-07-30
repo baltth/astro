@@ -399,3 +399,11 @@ sketches:
       - m12-20260709.jpg
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002435.jpg -c ../astro/orig/scan/20260709010839_001.jpg -x 60 -y 170 -o1 M10 -o2 M12 -s 0.99
+
+  - full: m14-m16-20260709.jpg
+    scan: 20260709010949_001.jpg
+    sub:
+      - m14-20260709.jpg
+      - m16-20260709.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002436.jpg -c ../astro/orig/scan/20260709010949_001.jpg -x 50 -y 155 -o1 M14 -o2 M16 -s 0.99

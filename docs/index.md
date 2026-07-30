@@ -8,6 +8,8 @@
 
 ## Latest
 
+- 2026-06-18: [Messier 16](obs/m16-2026-06-18.md)
+- 2026-06-18: [Messier 14](obs/m14-2026-06-18.md)
 - 2026-06-15: [Tau Ophiuchi](obs/tau-oph-2026-06-15.md)
 - 2026-06-15: [Messier 12](obs/m12-2026-06-15.md)
 - 2026-06-15: [Messier 10](obs/m10-2026-06-15.md)
@@ -16,8 +18,6 @@
 - 2026-05-24: [Messier 8](obs/m8-2026-05-24.md)
 - 2026-05-18: [Nu Draconis](obs/nu-dra-2026-05-18.md)
 - 2026-05-18: [C6](obs/c6-2026-05-18.md)
-- 2026-05-18: [Psi-1 Draconis](obs/psi-1-dra-2026-05-18.md)
-- 2026-05-18: [Kemble 2](obs/kemble-2-2026-05-18.md)
 
 ---
 

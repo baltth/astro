@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-06-18: [Messier 16](../obs/m16-2026-06-18.md)
+- 2026-06-18: [Messier 14](../obs/m14-2026-06-18.md)
 - 2026-06-15: [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md)
 - 2026-06-15: [Messier 12](../obs/m12-2026-06-15.md)
 - 2026-06-15: [Messier 10](../obs/m10-2026-06-15.md)

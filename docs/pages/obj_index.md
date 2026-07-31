@@ -2,20 +2,33 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+
+---
+
+- [Categories](#categories)
+- [By constellation](#by-constellation)
+
+---
+
 ## Categories
 
 #### Deep space
 
 - [C6](../obs/c6-2026-05-18.md) - planetary nebula in Draco
+- [C10](../obs/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [C47](../obs/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
+- [Messier 10](../obs/m10-2026-06-15.md) - globular cluster in Ophiuchus
 - [Messier 11](../obs/m11-2025-06-27.md) - open cluster in Scutum
+- [Messier 12](../obs/m12-2026-06-15.md) - globular cluster in Ophiuchus
 - [Messier 13](../obs/m13-2026-04-08.md) - globular cluster in Hercules
+- [Messier 14](../obs/m14-2026-06-18.md) - globular cluster in Ophiuchus
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
+- [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
@@ -67,6 +80,7 @@
 - [Pi-2 Pegasi](../obs/pi-1-peg-pi-2-peg-2025-08-27.md) - star in Pegasus
 - [Psi-1 Draconis](../obs/psi-1-dra-2026-05-18.md) - star system in Draco
 - [STF 2841](../obs/stf-2841-2025-08-02.md) - double star in Pegasus
+- [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md) - star system in Ophiuchus
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
@@ -128,6 +142,7 @@
 
 #### Cassiopeia
 
+- [C10](../obs/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
@@ -191,7 +206,11 @@
 #### Ophiuchus
 
 - [70 Ophiuchi](../obs/70-oph-2025-08-04.md) - double star in Ophiuchus
+- [Messier 10](../obs/m10-2026-06-15.md) - globular cluster in Ophiuchus
+- [Messier 12](../obs/m12-2026-06-15.md) - globular cluster in Ophiuchus
+- [Messier 14](../obs/m14-2026-06-18.md) - globular cluster in Ophiuchus
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
+- [Tau Ophiuchi](../obs/tau-oph-2026-06-15.md) - star system in Ophiuchus
 
 #### Orion
 
@@ -232,6 +251,7 @@
 #### Serpens
 
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
+- [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 
 #### Taurus

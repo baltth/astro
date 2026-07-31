@@ -955,3 +955,81 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
+
+  - name: C10
+    img: c10-20260709.jpg
+    date: 2026-06-07 01:30
+    loc: Rózsa-sziget, Makád, HU
+    nelm: 4.8
+    seeing: 6
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Made on a silent night spent with fishing, not disturbed by carps. _Rózsa-sziget_ has no open sky but
+      the coast of _Duna_ provides good half-sky view with low horizon and minimal light pollution.
+
+  - name: Tau Oph
+    img: tau-oph-20260709.jpg
+    date: 2026-06-16 02:00
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      A quadruple system with close and bright 2+1 stars (A & B) and a far and pale fourth one (C).
+      I was not able to separate A and B components.
+
+  - name: M10
+    img: m10-20260709.jpg
+    date: 2026-06-16 01:30
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      I usually struggle observing M10 and [M12](m12-2026-06-15.md) from the suburban sky of my hometown -
+      somehow they're hard to locate and not spectacular. This night was different.
+
+      M10 is not bright but big - at least it seemed to be - and has a nice circular shape.
+      It seemed a bit textured but I was not able to resolve stars or locate irregularities.
+
+  - name: M12
+    img: m12-20260709.jpg
+    date: 2026-06-16 01:45
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      I usually struggle observing [M10](m10-2026-06-15.md) and M12 from the suburban sky of my hometown -
+      somehow they're hard to locate and not spectacular. This night was different.
+
+      M12 has an asymmetric shape and no definite center. I was able to resolve several
+      stars. Overall it looks really nice.
+
+  - name: M14
+    img: m14-20260709.jpg
+    date: 2026-06-19 01:10
+    nelm: 40
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: ''
+
+  - name: M16
+    img: m16-20260709.jpg
+    date: 2026-06-19 01:30
+    nelm: 40
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Well, this may not meet your expectations. It's sad but this is how this beautiful nebula
+      looks like on a suburban sky. At least it's OK as an open cluster.
+      I'm looking forward to observe it under good skies.

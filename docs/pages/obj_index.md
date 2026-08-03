@@ -40,6 +40,7 @@
 - [Messier 43](../obs/m42-m43-2025-11-18.md) - emission nebula in Orion
 - [Messier 45](../obs/m45-2025-11-01.md) - open cluster in Taurus
 - [Messier 48](../obs/m48-2026-04-20.md) - open cluster in Hydra
+- [Messier 52](../obs/m52-2026-06-19.md) - open cluster in Cassiopeia
 - [Messier 53](../obs/m53-2026-04-08.md) - globular cluster in Coma Berenices
 - [Messier 57](../obs/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/m64-2026-04-08.md) - galaxy in Coma Berenices
@@ -47,6 +48,7 @@
 - [Messier 92](../obs/m92-2026-05-10.md) - globular cluster in Hercules
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [Messier 104](../obs/m104-2026-04-18.md) - galaxy in Virgo
+- [Messier 110](../obs/m110-2026-06-19.md) - galaxy in Andromeda
 - [NGC 2264](../obs/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 - [NGC 6633](../obs/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 
@@ -118,6 +120,7 @@
 - [Gamma Andromedae](../obs/gamma-and-2025-07-19.md) - star system in Andromeda
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
+- [Messier 110](../obs/m110-2026-06-19.md) - galaxy in Andromeda
 
 #### Aquarius
 
@@ -145,6 +148,7 @@
 - [C10](../obs/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [Eta Cassiopeiae](../obs/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Iota Cassiopeiae](../obs/iota-cas-2025-08-28.md) - star system in Cassiopeia
+- [Messier 52](../obs/m52-2026-06-19.md) - open cluster in Cassiopeia
 - [Messier 103](../obs/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 

@@ -1071,6 +1071,23 @@ objects:
         aka:
           - NGC 2548
 
+  M52:
+    constellation: Cas
+    type: open cluster
+    aka:
+      - Scorpion Cluster
+      - NGC 7654
+    fetched:
+      M 52:
+        type: Open Cluster
+        subtype: Very low disperation, medium sized cluster with rich star density
+        ra: 23h 24m 00s
+        dec: 61° 34' 48"
+        aka:
+          - NGC 7654
+          - Cassiopeia Salt And Pepper Cluster
+          - Scorpion Cluster
+
   M53:
     constellation: Com
     type: globular cluster
@@ -1180,6 +1197,26 @@ objects:
           - MCG -2-32-20
           - PGC 42407
           - Sombrero Galaxy
+
+  M110:
+    constellation: And
+    type: galaxy
+    aka:
+      - 'Andromeda Satellite #2'
+      - NGC 205
+    fetched:
+      M 110:
+        type: Galaxy
+        subtype: Elliptical
+        ra: 00h 40m 12s
+        dec: 41° 41' 24"
+        aka:
+          - NGC 205
+          - UGC 426
+          - MCG 7-2-14
+          - PGC 2429
+          - ZWG 535.14
+          - 'Andromeda Satellite #2'
 
   NGC 2264:
     constellation: Mon

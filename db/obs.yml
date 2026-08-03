@@ -1033,3 +1033,28 @@ observations:
       Well, this may not meet your expectations. It's sad but this is how this beautiful nebula
       looks like on a suburban sky. At least it's OK as an open cluster.
       I'm looking forward to observe it under good skies.
+
+  - name: M52
+    img: m52-20260709.jpg
+    date: 2026-06-20 01:30
+    loc: Rózsa-sziget, Makád, HU
+    nelm: 50
+    seeing: 8
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      An interestingly asymmetric cluster with some 'tentacles' on the west.
+
+  - name: M110
+    img: m110-20260709.jpg
+    date: 2026-06-20 02:30
+    loc: Rózsa-sziget, Makád, HU
+    nelm: 50
+    seeing: 8
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      This galaxy is hard to see, mainly because it lies on the boundary of
+      [Androameda galaxy](m31-m32-2025-07-19.md). If you don't see it, that's not your fault...

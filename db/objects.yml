@@ -914,6 +914,22 @@ objects:
           - LBN 67
           - Eagle Nebula
 
+  M18:
+    constellation: Sgr
+    type: open cluster
+    aka:
+      - NGC 6613
+      - Black Swan Cluster
+    fetched:
+      M 18:
+        type: Open Cluster
+        subtype: Low disperation, large sized cluster with poor star density
+        ra: 18h 19m 12s
+        dec: -17° 7' 48"
+        aka:
+          - NGC 6613
+          - Black Swan Cluster
+
   M22:
     constellation: Sgr
     type: globular cluster
@@ -1218,6 +1234,10 @@ objects:
           - ZWG 535.14
           - 'Andromeda Satellite #2'
 
+  Mars:
+    constellation: Solar System
+    type: planet
+
   NGC 2264:
     constellation: Mon
     type: open cluster
@@ -1441,6 +1461,10 @@ objects:
           - HR 7142
     aka:
       - Alya
+
+  Uranus:
+    constellation: Solar System
+    type: planet
 
   V Aql:
     constellation: Aql

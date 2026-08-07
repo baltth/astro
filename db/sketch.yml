@@ -407,3 +407,21 @@ sketches:
       - m16-20260709.jpg
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002436.jpg -c ../astro/orig/scan/20260709010949_001.jpg -x 50 -y 155 -o1 M14 -o2 M16 -s 0.99
+
+  - full: m52-m110-20260709.jpg
+    scan: 20260709011046_001.jpg
+    sub:
+      - m52-20260709.jpg
+      - m110-20260709.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002437.jpg -c ../astro/orig/scan/20260709011046_001.jpg -x 50 -y 175 -o1 M52 -o2 M110 -s 
+        0.99
+
+  - full: mars-uranus-m18-20260804.jpg
+    scan: 20260804000051_001.jpg
+    sub:
+      - mars-uranus-20260804.jpg
+      - m18-20260804.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002473.jpeg -c ../astro/orig/scan/20260804000051_001.jpg -x 50 -y 180 -o1 'Mars, Uranus' -o2
+        M18 -s 0.99

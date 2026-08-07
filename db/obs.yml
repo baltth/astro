@@ -1033,3 +1033,58 @@ observations:
       Well, this may not meet your expectations. It's sad but this is how this beautiful nebula
       looks like on a suburban sky. At least it's OK as an open cluster.
       I'm looking forward to observe it under good skies.
+
+  - name: M52
+    img: m52-20260709.jpg
+    date: 2026-06-20 01:30
+    loc: Rózsa-sziget, Makád, HU
+    nelm: 50
+    seeing: 8
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      An interestingly asymmetric cluster with some 'tentacles' on the west.
+
+  - name: M110
+    img: m110-20260709.jpg
+    date: 2026-06-20 02:30
+    loc: Rózsa-sziget, Makád, HU
+    nelm: 50
+    seeing: 8
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      This galaxy is hard to see, mainly because it lies on the boundary of
+      [Androameda galaxy](m31-m32-2025-07-19.md). If you don't see it, that's not your fault...
+
+  - name:
+      - Mars
+      - Uranus
+    img: mars-uranus-20260804.jpg
+    date: 2026-07-04 03:45
+    #nelm: 0
+    #seeing: 0
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      A rare constellation, Mars and Uranus separated by ~10'. As I observed this right before sunrise,
+      I did not record NELM and seeing as it had no sense. It was fun but not really interesting -
+      I saw fewer than usual due to the cloudy weather.
+
+      > Note that the observation day is off by one compared to the sketch notes.
+      > I'm sure the correct day id 4th of July as the separation and orientation was
+      > completely different on the other day. Sorry for this.
+
+  - name: M18
+    img: m18-20260804.jpg
+    date: 2026-07-11 00:40
+    nelm: 4.0
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      I assume this looks much better from a better location. Still it's worth to see and enjoyable to draw.

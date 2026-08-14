@@ -29,10 +29,13 @@
 - [Messier 14](../obs/m14-2026-06-18.md) - globular cluster in Ophiuchus
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
 - [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
+- [Messier 17](../obs/m17-2026-07-24.md) - super nova remnant in Serpens
 - [Messier 18](../obs/m18-2026-07-10.md) - open cluster in Sagittarius
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
+- [Messier 25](../obs/m25-2026-07-16.md) - open cluster in Sagittarius
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
+- [Messier 30](../obs/m30-2026-07-20.md) - globular cluster in Capricornus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
@@ -56,6 +59,7 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
+- [11 Aquilae](../obs/11-aql-2026-07-16.md) - double star in Aquila
 - [15 Aquilae](../obs/15-aql-2025-08-27.md) - double star in Aquila
 - [35 Piscium](../obs/35-psc-2025-08-25.md) - triple star in Pisces
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
@@ -87,6 +91,7 @@
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
+- [Zeta Aquarii](../obs/zeta-aqr-2026-07-20.md) - triple star system in Aquarius
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
 
 #### Moon
@@ -106,6 +111,7 @@
 
 #### Other
 
+- [10P/Tempel](../obs/10p-tempel-2026-07-24.md) - comet in Solar System
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
@@ -129,9 +135,11 @@
 
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
+- [Zeta Aquarii](../obs/zeta-aqr-2026-07-20.md) - triple star system in Aquarius
 
 #### Aquila
 
+- [11 Aquilae](../obs/11-aql-2026-07-16.md) - double star in Aquila
 - [15 Aquilae](../obs/15-aql-2025-08-27.md) - double star in Aquila
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
@@ -145,6 +153,7 @@
 
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
+- [Messier 30](../obs/m30-2026-07-20.md) - globular cluster in Capricornus
 
 #### Cassiopeia
 
@@ -251,6 +260,7 @@
 - [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
 - [Messier 18](../obs/m18-2026-07-10.md) - open cluster in Sagittarius
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
+- [Messier 25](../obs/m25-2026-07-16.md) - open cluster in Sagittarius
 
 #### Scutum
 
@@ -260,6 +270,7 @@
 
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
+- [Messier 17](../obs/m17-2026-07-24.md) - super nova remnant in Serpens
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 
 #### Taurus
@@ -286,6 +297,7 @@
 
 #### Other
 
+- [10P/Tempel](../obs/10p-tempel-2026-07-24.md) - comet in Solar System
 - [Archimedes](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon

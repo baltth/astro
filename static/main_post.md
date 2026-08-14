@@ -60,6 +60,11 @@ Let's name a few!
   [techniques](https://perezmedia.net/beltofvenus/category/tools-and-techniques/).
 - The album of [Carol L](https://www.cloudynights.com/gallery/member/4175-Carol%20L/)
   and the whole community on [Cloudy Nights](https://www.cloudynights.com).
+- Last but not least, [MCsE](https://www.mcse.hu) (_Hungarian Astronomical Association_ in
+  [English](https://www.mcse.hu/introducing-the-hungarian-astronomical-association/))
+  and all its members, maintaining a huge historical observation database
+  [_Észlelőnapló_](https://eszlelonaplo.mcse.hu).
+
 
 ---
 

@@ -8,16 +8,16 @@
 
 ## Latest
 
+- 2026-07-24: [10P/Tempel](obs/10p-tempel-2026-07-24.md)
+- 2026-07-24: [Messier 17](obs/m17-2026-07-24.md)
+- 2026-07-20: [Zeta Aquarii](obs/zeta-aqr-2026-07-20.md)
+- 2026-07-20: [Messier 30](obs/m30-2026-07-20.md)
+- 2026-07-16: [11 Aquilae](obs/11-aql-2026-07-16.md)
+- 2026-07-16: [Messier 25](obs/m25-2026-07-16.md)
 - 2026-07-10: [Messier 18](obs/m18-2026-07-10.md)
 - 2026-07-03: [Mars, Uranus](obs/mars-uranus-2026-07-03.md)
 - 2026-06-19: [Messier 110](obs/m110-2026-06-19.md)
 - 2026-06-19: [Messier 52](obs/m52-2026-06-19.md)
-- 2026-06-18: [Messier 16](obs/m16-2026-06-18.md)
-- 2026-06-18: [Messier 14](obs/m14-2026-06-18.md)
-- 2026-06-15: [Tau Ophiuchi](obs/tau-oph-2026-06-15.md)
-- 2026-06-15: [Messier 12](obs/m12-2026-06-15.md)
-- 2026-06-15: [Messier 10](obs/m10-2026-06-15.md)
-- 2026-06-06: [C10](obs/c10-2026-06-06.md)
 
 ---
 
@@ -90,6 +90,11 @@ Let's name a few!
   [techniques](https://perezmedia.net/beltofvenus/category/tools-and-techniques/).
 - The album of [Carol L](https://www.cloudynights.com/gallery/member/4175-Carol%20L/)
   and the whole community on [Cloudy Nights](https://www.cloudynights.com).
+- Last but not least, [MCsE](https://www.mcse.hu) (_Hungarian Astronomical Association_ in
+  [English](https://www.mcse.hu/introducing-the-hungarian-astronomical-association/))
+  and all its members, maintaining a huge historical observation database
+  [_Észlelőnapló_](https://eszlelonaplo.mcse.hu).
+
 
 ---
 

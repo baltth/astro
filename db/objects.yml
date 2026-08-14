@@ -30,6 +30,36 @@ objects:
           - HIP 105502
           - HR 8173
 
+  10P/Tempel:
+    constellation: Solar System
+    type: comet
+    desc: Jupiter-family comet
+    aka:
+      - Tempel 2
+      
+  11 Aql:
+    constellation: Aql
+    type: double star
+    aka:
+      - STF 2424 AB
+    components:
+      ~A:
+        name: HD 176303
+        mag: 5.2
+      ~B:
+        spectral_class: F6IV
+        mag: 9.3
+    fetched:
+      HD 176303:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 18h 59m 05s
+        dec: 13° 37' 20"
+        spectral_class: F8V
+        aka:
+          - HIP 93203
+          - HR 7172
+
   15 Aql:
     constellation: Aql
     type: double star
@@ -914,6 +944,26 @@ objects:
           - LBN 67
           - Eagle Nebula
 
+  M17:
+    constellation: Ser
+    type: super nova remnant
+    aka:
+      - NGC 6618
+      - Omega Nebula
+      - Swan Nebula
+      - Horseshoe Nebula
+    fetched:
+      M 17:
+        type: Super Nova Remnant
+        subtype: ''
+        ra: 18h 20m 24s
+        dec: -16° 10' 48"
+        aka:
+          - NGC 6618
+          - LBN 60
+          - Omega Nebula
+          - Omega, Swan, Horseshoe, Lobster, or Checkmark Nebula
+
   M18:
     constellation: Sgr
     type: open cluster
@@ -947,6 +997,19 @@ objects:
           - ESO 523-SC4
           - Great Sagittarius Cluster
 
+  M25:
+    constellation: Sgr
+    type: open cluster
+    aka:
+      - IC 4725
+    fetched:
+      M 25:
+        type: Open Cluster
+        subtype: ''
+        ra: 18h 31m 12s
+        dec: -19° 15' 0"
+        aka: []
+
   M27:
     constellation: Vul
     type: planetary nebula
@@ -978,6 +1041,23 @@ objects:
         aka:
           - NGC 6913
           - Cooling Tower
+
+  M30:
+    constellation: Cap
+    type: globular cluster
+    aka:
+      - NGC 7099
+      - Jellyfish Cluster
+    fetched:
+      M 30:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 21h 40m 12s
+        dec: -23° 10' 48"
+        aka:
+          - NGC 7099
+          - ESO 531-SC21
+          - Jellyfish Cluster
 
   M31:
     constellation: And
@@ -1473,6 +1553,38 @@ objects:
   WZ Cas:
     constellation: Cas
     type: carbon star
+
+  Zeta Aqr:
+    constellation: Aqr
+    type: triple star system
+    aka:
+      - Sadaltager
+    components:
+      ~A:
+        name: HD 213052
+        type: Star
+        subtype: Main Sequence Giant
+        desc: Astrometric binary star with a main sequence giant
+        ra: 22h 28m 49s
+        dec: -0° 1' 11.89"
+        mag: 4.4
+        spectral_class: F3V
+      ~B:
+        name: HD 213051
+        dec: -0° 1' 13.96"
+        mag: 4.5
+        spectral_class: F6IV
+    fetched:
+      HD 213051:
+        type: Star
+        subtype: Main Sequence Giant
+        ra: 22h 28m 49s
+        dec: -1° 58' 48"  # ????
+        spectral_class: F3III-IV
+        aka:
+          - HIP 110960
+          - HR 8558
+          - Sadaltager
 
   Zeta UMa:
     constellation: UMa

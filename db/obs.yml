@@ -1088,3 +1088,77 @@ observations:
     fov: 0.66
     text: |
       I assume this looks much better from a better location. Still it's worth to see and enjoyable to draw.
+
+  - name: M25
+    img: m25-20260804.jpg
+    date: 2026-07-17 00:30
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      I really enjoy drawing open clusters like this. It's challenging but but the result is visually correct
+      and spectacular at the same time - at least if one likes 'white dots on black'.
+
+  - name: 11 Aql
+    img: 11-aql-20260804.jpg
+    date: 2026-07-17 01:05
+    nelm: 4.0
+    seeing: 6
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      A visual triple star system _(STF 2424)._ For me it was double, C component has visual magnitude of 13.4 ...
+
+  - name: M30
+    img: m30-20260804.jpg
+    date: 2026-07-21 00:45
+    nelm: 4.0
+    seeing: 5
+    ap: 127
+    mag: 103
+    fov: 0.66
+
+  - name: Zeta Aqr
+    img: zeta-aqr-20260804.jpg
+    date: 2026-07-21 01:00
+    nelm: 4.0
+    seeing: 5
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      > Most of the object data is from [Wikipedia](https://en.wikipedia.org/wiki/Zeta_Aquarii),
+      > as _astronomyapi.com_ had totally wrong declination value for B component _(HD 213051)_
+      > and nothing for A. By the way, the separation value of 2.1" also seems a bit low to me...
+
+  - name: M17
+    img: m17-20260804.jpg
+    date: 2026-07-25 01:10
+    loc: Szent Balázs-hegy, Szentantalfa, HU
+    nelm: 5.0
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Well, this was not the best view of this nebula, but still worth to see. Maybe next time...
+
+  - name: 10P/Tempel
+    img: 10p-tempel-20260804.jpg
+    date: 2026-07-25 01:30
+    loc: Szent Balázs-hegy, Szentantalfa, HU
+    nelm: 5.0
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Can you see it? It's between _HD 206177_ and _HD 206072._
+      It was hard to find and observe. I had a short time between the clouds and it also had
+      a relatively low elevation. So faint, I saw no trail nor any color. Its distance was
+      ~ 0.45 AU, the apparent magnitude was ~9.
+
+      > Maybe this is too realistic, I should have drawn it brighter to be seen...

@@ -30,6 +30,29 @@ objects:
           - HIP 105502
           - HR 8173
 
+  11 Aql:
+    constellation: Aql
+    type: double star
+    aka:
+      - STF 2424 AB
+    components:
+      ~A:
+        name: HD 176303
+        mag: 5.2
+      ~B:
+        spectral_class: F6IV
+        mag: 9.3
+    fetched:
+      HD 176303:
+        type: Star
+        subtype: Main Sequence Main Sequence
+        ra: 18h 59m 05s
+        dec: 13° 37' 20"
+        spectral_class: F8V
+        aka:
+          - HIP 93203
+          - HR 7172
+
   15 Aql:
     constellation: Aql
     type: double star
@@ -946,6 +969,19 @@ objects:
           - NGC 6656
           - ESO 523-SC4
           - Great Sagittarius Cluster
+
+  M25:
+    constellation: Sgr
+    type: open cluster
+    aka:
+      - IC 4725
+    fetched:
+      M 25:
+        type: Open Cluster
+        subtype: ''
+        ra: 18h 31m 12s
+        dec: -19° 15' 0"
+        aka: []
 
   M27:
     constellation: Vul

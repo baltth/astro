@@ -425,3 +425,12 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002473.jpeg -c ../astro/orig/scan/20260804000051_001.jpg -x 50 -y 180 -o1 'Mars, Uranus' -o2
         M18 -s 0.99
+
+  - full: m25-11-aql-20260804.jpg
+    scan: 20260804000152_001.jpg
+    sub:
+      - m25-20260804.jpg
+      - 11-aql-20260804.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002474.jpeg -c ../astro/orig/scan/20260804000152_001.jpg -x 50 -y 185 -o1 M25 -o2 '11 Aql' 
+        -s 0.99

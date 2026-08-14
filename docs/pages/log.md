@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-07-16: [11 Aquilae](../obs/11-aql-2026-07-16.md)
+- 2026-07-16: [Messier 25](../obs/m25-2026-07-16.md)
 - 2026-07-10: [Messier 18](../obs/m18-2026-07-10.md)
 - 2026-07-03: [Mars, Uranus](../obs/mars-uranus-2026-07-03.md)
 - 2026-06-19: [Messier 110](../obs/m110-2026-06-19.md)

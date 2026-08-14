@@ -31,6 +31,7 @@
 - [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
 - [Messier 18](../obs/m18-2026-07-10.md) - open cluster in Sagittarius
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
+- [Messier 25](../obs/m25-2026-07-16.md) - open cluster in Sagittarius
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
@@ -56,6 +57,7 @@
 #### Stars
 
 - [1 Pegasi](../obs/1-peg-2025-08-02.md) - star system in Pegasus
+- [11 Aquilae](../obs/11-aql-2026-07-16.md) - double star in Aquila
 - [15 Aquilae](../obs/15-aql-2025-08-27.md) - double star in Aquila
 - [35 Piscium](../obs/35-psc-2025-08-25.md) - triple star in Pisces
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
@@ -132,6 +134,7 @@
 
 #### Aquila
 
+- [11 Aquilae](../obs/11-aql-2026-07-16.md) - double star in Aquila
 - [15 Aquilae](../obs/15-aql-2025-08-27.md) - double star in Aquila
 - [57 Aquilae](../obs/57-aql-2025-08-28.md) - double star in Aquila
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
@@ -251,6 +254,7 @@
 - [Messier 8](../obs/m8-2026-05-24.md) - emission nebula in Sagittarius
 - [Messier 18](../obs/m18-2026-07-10.md) - open cluster in Sagittarius
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
+- [Messier 25](../obs/m25-2026-07-16.md) - open cluster in Sagittarius
 
 #### Scutum
 

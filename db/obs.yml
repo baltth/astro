@@ -1133,3 +1133,32 @@ observations:
       > Most of the object data is from [Wikipedia](https://en.wikipedia.org/wiki/Zeta_Aquarii),
       > as _astronomyapi.com_ had totally wrong declination value for B component _(HD 213051)_
       > and nothing for A. By the way, the separation value of 2.1" also seems a bit low to me...
+
+  - name: M17
+    img: m17-20260804.jpg
+    date: 2026-07-25 01:10
+    loc: Szent Balázs-hegy, Szentantalfa, HU
+    nelm: 5.0
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Well, this was not the best view of this nebula, but still worth to see. Maybe next time...
+
+  - name: 10P/Tempel
+    img: 10p-tempel-20260804.jpg
+    date: 2026-07-25 01:30
+    loc: Szent Balázs-hegy, Szentantalfa, HU
+    nelm: 5.0
+    seeing: 7
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      Can you see it? It's between _HD 206177_ and _HD 206072._
+      It was hard to find and observe. I had a short time between the clouds and it also had
+      a relatively low elevation. So faint, I saw no trail nor any color. Its distance was
+      ~ 0.45 AU, the apparent magnitude was ~9.
+
+      > Maybe this is too realistic, I should have drawn it brighter to be seen...

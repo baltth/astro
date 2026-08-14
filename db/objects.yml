@@ -30,6 +30,13 @@ objects:
           - HIP 105502
           - HR 8173
 
+  10P/Tempel:
+    constellation: Solar System
+    type: comet
+    desc: Jupiter-family comet
+    aka:
+      - Tempel 2
+      
   11 Aql:
     constellation: Aql
     type: double star
@@ -936,6 +943,26 @@ objects:
           - NGC 6611
           - LBN 67
           - Eagle Nebula
+
+  M17:
+    constellation: Ser
+    type: super nova remnant
+    aka:
+      - NGC 6618
+      - Omega Nebula
+      - Swan Nebula
+      - Horseshoe Nebula
+    fetched:
+      M 17:
+        type: Super Nova Remnant
+        subtype: ''
+        ra: 18h 20m 24s
+        dec: -16° 10' 48"
+        aka:
+          - NGC 6618
+          - LBN 60
+          - Omega Nebula
+          - Omega, Swan, Horseshoe, Lobster, or Checkmark Nebula
 
   M18:
     constellation: Sgr

@@ -29,6 +29,7 @@
 - [Messier 14](../obs/m14-2026-06-18.md) - globular cluster in Ophiuchus
 - [Messier 15](../obs/m15-2025-06-30.md) - globular cluster in Pegasus
 - [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
+- [Messier 17](../obs/m17-2026-07-24.md) - super nova remnant in Serpens
 - [Messier 18](../obs/m18-2026-07-10.md) - open cluster in Sagittarius
 - [Messier 22](../obs/m22-2026-05-24.md) - globular cluster in Sagittarius
 - [Messier 25](../obs/m25-2026-07-16.md) - open cluster in Sagittarius
@@ -110,6 +111,7 @@
 
 #### Other
 
+- [10P/Tempel](../obs/10p-tempel-2026-07-24.md) - comet in Solar System
 - [C/2025 A6](../obs/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [C/2025 R3](../obs/c-2025-r3-2026-04-11.md) - comet in Solar System
 - [Jupiter](../obs/jupiter-2025-12-26.md) - planet in Solar System
@@ -268,6 +270,7 @@
 
 - [Messier 5](../obs/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 16](../obs/m16-2026-06-18.md) - open cluster in Serpens
+- [Messier 17](../obs/m17-2026-07-24.md) - super nova remnant in Serpens
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 
 #### Taurus
@@ -294,6 +297,7 @@
 
 #### Other
 
+- [10P/Tempel](../obs/10p-tempel-2026-07-24.md) - comet in Solar System
 - [Archimedes](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Aristarchus](../obs/aristarchus-herodotus-2025-09-06.md) - crater in Moon
 - [Aristillus](../obs/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon

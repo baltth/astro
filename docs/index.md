@@ -8,6 +8,8 @@
 
 ## Latest
 
+- 2026-07-24: [10P/Tempel](obs/10p-tempel-2026-07-24.md)
+- 2026-07-24: [Messier 17](obs/m17-2026-07-24.md)
 - 2026-07-20: [Zeta Aquarii](obs/zeta-aqr-2026-07-20.md)
 - 2026-07-20: [Messier 30](obs/m30-2026-07-20.md)
 - 2026-07-16: [11 Aquilae](obs/11-aql-2026-07-16.md)
@@ -16,8 +18,6 @@
 - 2026-07-03: [Mars, Uranus](obs/mars-uranus-2026-07-03.md)
 - 2026-06-19: [Messier 110](obs/m110-2026-06-19.md)
 - 2026-06-19: [Messier 52](obs/m52-2026-06-19.md)
-- 2026-06-18: [Messier 16](obs/m16-2026-06-18.md)
-- 2026-06-18: [Messier 14](obs/m14-2026-06-18.md)
 
 ---
 

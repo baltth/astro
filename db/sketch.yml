@@ -443,3 +443,17 @@ sketches:
     _cmd:
       - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002475.jpeg -c ../astro/orig/scan/20260804000314_001.jpg -x 50 -y 170 -o1 M30 -o2 'Zeta Aqr'
         -s 0.99
+
+  - full: m17-10p-tempel-20260804.jpg
+    scan: 20260804000507_001.jpg
+    sub:
+      - m17-20260804.jpg
+      - 10p-tempel-20260804.jpg
+    _cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002477.jpeg -c ../astro/orig/scan/20260804000507_001.jpg -x 45 -y 160 -o1 M17 -o2 10P/Tempel
+        -s 0.99
+    notes: |
+      I really like this place. A beautiful rural sky, perfect view to the South, and only a few lights from _Balaton._
+      Unfortunately this night was disturbed by some clouds and moonshine.
+
+      Note that the location on the sketch is _Tagyon._ That's incorrect, the mountain belongs to _Szentantalfa._

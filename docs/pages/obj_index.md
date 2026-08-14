@@ -34,6 +34,7 @@
 - [Messier 25](../obs/m25-2026-07-16.md) - open cluster in Sagittarius
 - [Messier 27](../obs/m27-2025-08-19.md) - planetary nebula in Vulpecula
 - [Messier 29](../obs/m29-2025-07-30.md) - open cluster in Cygnus
+- [Messier 30](../obs/m30-2026-07-20.md) - globular cluster in Capricornus
 - [Messier 31](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 34](../obs/m34-2025-08-18.md) - open cluster in Perseus
@@ -89,6 +90,7 @@
 - [Theta Serpentis](../obs/theta-ser-2025-08-06.md) - double star in Serpens
 - [V Aquilae](../obs/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
+- [Zeta Aquarii](../obs/zeta-aqr-2026-07-20.md) - triple star system in Aquarius
 - [Zeta Ursae Majoris](../obs/zeta-uma-80-uma-2025-07-12.md) - double star in Ursa Major
 
 #### Moon
@@ -131,6 +133,7 @@
 
 - [C55](../obs/c55-2025-06-30.md) - planetary nebula in Aquarius
 - [Messier 2](../obs/m2-2025-07-28.md) - globular cluster in Aquarius
+- [Zeta Aquarii](../obs/zeta-aqr-2026-07-20.md) - triple star system in Aquarius
 
 #### Aquila
 
@@ -148,6 +151,7 @@
 
 - [Alpha-1 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - binary star in Capricornus
 - [Alpha-2 Capricorni](../obs/alpha-1-cap-alpha-2-cap-2025-09-19.md) - triple star in Capricornus
+- [Messier 30](../obs/m30-2026-07-20.md) - globular cluster in Capricornus
 
 #### Cassiopeia
 

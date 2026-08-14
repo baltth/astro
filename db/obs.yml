@@ -1111,3 +1111,25 @@ observations:
     fov: 0.66
     text: |
       A visual triple star system _(STF 2424)._ For me it was double, C component has visual magnitude of 13.4 ...
+
+  - name: M30
+    img: m30-20260804.jpg
+    date: 2026-07-21 00:45
+    nelm: 4.0
+    seeing: 5
+    ap: 127
+    mag: 103
+    fov: 0.66
+
+  - name: Zeta Aqr
+    img: zeta-aqr-20260804.jpg
+    date: 2026-07-21 01:00
+    nelm: 4.0
+    seeing: 5
+    ap: 127
+    mag: 171
+    fov: 0.4
+    text: |
+      > Most of the object data is from [Wikipedia](https://en.wikipedia.org/wiki/Zeta_Aquarii),
+      > as _astronomyapi.com_ had totally wrong declination value for B component _(HD 213051)_
+      > and nothing for A. By the way, the separation value of 2.1" also seems a bit low to me...

@@ -1015,6 +1015,23 @@ objects:
           - NGC 6913
           - Cooling Tower
 
+  M30:
+    constellation: Cap
+    type: globular cluster
+    aka:
+      - NGC 7099
+      - Jellyfish Cluster
+    fetched:
+      M 30:
+        type: Globular Cluster
+        subtype: Intermediate concentrations
+        ra: 21h 40m 12s
+        dec: -23° 10' 48"
+        aka:
+          - NGC 7099
+          - ESO 531-SC21
+          - Jellyfish Cluster
+
   M31:
     constellation: And
     type: galaxy
@@ -1509,6 +1526,38 @@ objects:
   WZ Cas:
     constellation: Cas
     type: carbon star
+
+  Zeta Aqr:
+    constellation: Aqr
+    type: triple star system
+    aka:
+      - Sadaltager
+    components:
+      ~A:
+        name: HD 213052
+        type: Star
+        subtype: Main Sequence Giant
+        desc: Astrometric binary star with a main sequence giant
+        ra: 22h 28m 49s
+        dec: -0° 1' 11.89"
+        mag: 4.4
+        spectral_class: F3V
+      ~B:
+        name: HD 213051
+        dec: -0° 1' 13.96"
+        mag: 4.5
+        spectral_class: F6IV
+    fetched:
+      HD 213051:
+        type: Star
+        subtype: Main Sequence Giant
+        ra: 22h 28m 49s
+        dec: -1° 58' 48"  # ????
+        spectral_class: F3III-IV
+        aka:
+          - HIP 110960
+          - HR 8558
+          - Sadaltager
 
   Zeta UMa:
     constellation: UMa

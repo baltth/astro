@@ -15,7 +15,7 @@ a lot of remaining space on the page. This gave me the idea to
 draw a second, incomplete FOV for one more sketch.
 I liked the result and I've stuck with this style.
 
-> By the way this was [Messier 11](obs/m11-2025-06-27.md),
+> By the way this was [Messier 11](obs/2025/m11-2025-06-27.md),
 > the second sketch is the same object with different magnification.
 
 I use different colors during sketching.

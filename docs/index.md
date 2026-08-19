@@ -2,22 +2,22 @@
 > 
 > Balázs Tóth - [_baltth@gmail.com_][mail]
 
-![M31, M32](img/m31-m32-20250722.jpg)
+![M31, M32](img/2025/m31-m32-20250722.jpg)
 
 ---
 
 ## Latest
 
-- 2026-07-24: [10P/Tempel](obs/10p-tempel-2026-07-24.md)
-- 2026-07-24: [Messier 17](obs/m17-2026-07-24.md)
-- 2026-07-20: [Zeta Aquarii](obs/zeta-aqr-2026-07-20.md)
-- 2026-07-20: [Messier 30](obs/m30-2026-07-20.md)
-- 2026-07-16: [11 Aquilae](obs/11-aql-2026-07-16.md)
-- 2026-07-16: [Messier 25](obs/m25-2026-07-16.md)
-- 2026-07-10: [Messier 18](obs/m18-2026-07-10.md)
-- 2026-07-03: [Mars, Uranus](obs/mars-uranus-2026-07-03.md)
-- 2026-06-19: [Messier 110](obs/m110-2026-06-19.md)
-- 2026-06-19: [Messier 52](obs/m52-2026-06-19.md)
+- 2026-07-24: [10P/Tempel](obs/2026/10p-tempel-2026-07-24.md)
+- 2026-07-24: [Messier 17](obs/2026/m17-2026-07-24.md)
+- 2026-07-20: [Zeta Aquarii](obs/2026/zeta-aqr-2026-07-20.md)
+- 2026-07-20: [Messier 30](obs/2026/m30-2026-07-20.md)
+- 2026-07-16: [11 Aquilae](obs/2026/11-aql-2026-07-16.md)
+- 2026-07-16: [Messier 25](obs/2026/m25-2026-07-16.md)
+- 2026-07-10: [Messier 18](obs/2026/m18-2026-07-10.md)
+- 2026-07-03: [Mars, Uranus](obs/2026/mars-uranus-2026-07-03.md)
+- 2026-06-19: [Messier 110](obs/2026/m110-2026-06-19.md)
+- 2026-06-19: [Messier 52](obs/2026/m52-2026-06-19.md)
 
 ---
 
@@ -45,7 +45,7 @@ a lot of remaining space on the page. This gave me the idea to
 draw a second, incomplete FOV for one more sketch.
 I liked the result and I've stuck with this style.
 
-> By the way this was [Messier 11](obs/m11-2025-06-27.md),
+> By the way this was [Messier 11](obs/2025/m11-2025-06-27.md),
 > the second sketch is the same object with different magnification.
 
 I use different colors during sketching.

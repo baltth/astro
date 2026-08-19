@@ -36,7 +36,7 @@ objects:
     desc: Jupiter-family comet
     aka:
       - Tempel 2
-      
+
   11 Aql:
     constellation: Aql
     type: double star
@@ -425,6 +425,22 @@ objects:
         dec: 61° 13' 6"
         aka:
           - Lawnmower Cluster
+
+  C13:
+    constellation: Cas
+    type: open cluster
+    aka:
+      - Owl Cluster
+      - Dragonfly Cluster
+      - NGC 457
+    fetched:
+      NGC 457:
+        type: Open Cluster
+        subtype: Very low disperation, large sized cluster with rich star density
+        ra: 01h 19m 32s
+        dec: 58° 17' 27"
+        aka:
+          - Dragonfly Cluster
 
   C47:
     constellation: Del

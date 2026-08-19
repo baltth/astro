@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-08-07: [Saturn](../obs/2026/saturn-2026-08-07.md)
+- 2026-08-07: [C13](../obs/2026/c13-2026-08-07.md)
 - 2026-07-24: [10P/Tempel](../obs/2026/10p-tempel-2026-07-24.md)
 - 2026-07-24: [Messier 17](../obs/2026/m17-2026-07-24.md)
 - 2026-07-20: [Zeta Aquarii](../obs/2026/zeta-aqr-2026-07-20.md)

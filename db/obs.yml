@@ -1162,3 +1162,34 @@ observations:
       ~ 0.45 AU, the apparent magnitude was ~9.
 
       > Maybe this is too realistic, I should have drawn it brighter to be seen...
+
+  - name: C13
+    img: 2026/c13-20260813.jpg
+    date: 2026-08-08 00:45
+    nelm: 3.8
+    seeing: 6
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      I've been waiting for this for a time. The sky was not ideal, I've seen this better
+      several times. Let's say this was a practice session.
+
+  - name: Saturn
+    img: 2026/saturn-20260813.jpg
+    date: 2026-08-08 01:10
+    nelm: 3.8
+    seeing: 6
+    ap: 127
+    mag: 220
+    fov: 0.24
+    text: |
+      The ring of Saturn had turned a lot since the [last time](../2025/saturn-2025-09-11.md) -
+      it was 11 months ago. I've used higher magnification this time, I was able to observe
+      four moons, ordered by orbital radius:
+      - [Tethys](https://en.wikipedia.org/wiki/Tethys_(moon))
+      - [Rhea](https://en.wikipedia.org/wiki/Rhea_(moon))
+      - [Titan](https://en.wikipedia.org/wiki/Titan_(moon))
+      - [Iapetus](https://en.wikipedia.org/wiki/Iapetus_(moon))
+
+      > I forgot to note the FOV on the page, sorry for this.

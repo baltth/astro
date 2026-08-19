@@ -16,6 +16,7 @@
 
 - [C6](../obs/2026/c6-2026-05-18.md) - planetary nebula in Draco
 - [C10](../obs/2026/c10-2026-06-06.md) - open cluster in Cassiopeia
+- [C13](../obs/2026/c13-2026-08-07.md) - open cluster in Cassiopeia
 - [C47](../obs/2025/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/2025/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/2025/c55-2025-06-30.md) - planetary nebula in Aquarius
@@ -118,7 +119,7 @@
 - [Kemble 2](../obs/2026/kemble-2-2026-05-18.md) - asterism in Draco
 - [Mars](../obs/2026/mars-uranus-2026-07-03.md) - planet in Solar System
 - [Penrose triangle](../obs/2025/penrose-triangle-2025-11-01.md) - asterism in Taurus
-- [Saturn](../obs/2025/saturn-2025-09-11.md) - planet in Solar System
+- [Saturn](../obs/2026/saturn-2026-08-07.md) - planet in Solar System
 - [Uranus](../obs/2026/mars-uranus-2026-07-03.md) - planet in Solar System
 
 
@@ -158,6 +159,7 @@
 #### Cassiopeia
 
 - [C10](../obs/2026/c10-2026-06-06.md) - open cluster in Cassiopeia
+- [C13](../obs/2026/c13-2026-08-07.md) - open cluster in Cassiopeia
 - [Eta Cassiopeiae](../obs/2025/eta-cas-2025-08-04.md) - double star in Cassiopeia
 - [Iota Cassiopeiae](../obs/2025/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Messier 52](../obs/2026/m52-2026-06-19.md) - open cluster in Cassiopeia
@@ -313,7 +315,7 @@
 - [Langrenus](../obs/2026/langrenus-2026-04-03.md) - crater in Moon
 - [Mars](../obs/2026/mars-uranus-2026-07-03.md) - planet in Solar System
 - [Petavius](../obs/2025/petavius-2025-10-08.md) - crater in Moon
-- [Saturn](../obs/2025/saturn-2025-09-11.md) - planet in Solar System
+- [Saturn](../obs/2026/saturn-2026-08-07.md) - planet in Solar System
 - [Theophilus](../obs/2026/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Uranus](../obs/2026/mars-uranus-2026-07-03.md) - planet in Solar System
 

@@ -24,7 +24,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: m11-20250628.jpg
+    img: 2025/m11-20250628.jpg
     text: |
       A favorite since the first view.
 
@@ -39,7 +39,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: v-aql-20250628.jpg
+    img: 2025/v-aql-20250628.jpg
     text: |
       Oops, it's a typo, 'V Aqu' is written there. Apart from this,
       I really like this star and its neighborhood.
@@ -50,7 +50,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: wz-cas-20250628.jpg
+    img: 2025/wz-cas-20250628.jpg
     text: ''
 
   - name: M2
@@ -59,7 +59,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: m2-20250701.jpg
+    img: 2025/m2-20250701.jpg
     text: ''
 
   - name: C55
@@ -68,7 +68,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: ngc7009-20250701.jpg
+    img: 2025/ngc7009-20250701.jpg
     text: |
       Saturn Nebula looked extremely well on this night.
       The color and intensity of the sketch is exaggerated.
@@ -81,7 +81,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: m15-20250701.jpg
+    img: 2025/m15-20250701.jpg
     text: ''
 
   - name: Gamma Del
@@ -90,7 +90,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: gamma-del-20250701.jpg
+    img: 2025/gamma-del-20250701.jpg
     text: ''
 
   - name: [Zeta UMa, 80 UMa]
@@ -99,7 +99,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: zeta-uma-80-uma-20250715.jpg
+    img: 2025/zeta-uma-80-uma-20250715.jpg
     text: |
       Dedicated to my dear wife, Klári.
 
@@ -112,7 +112,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: kappa-her-20250715.jpg
+    img: 2025/kappa-her-20250715.jpg
     text: ''
 
   - name: [M31, M32]
@@ -122,7 +122,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: m31-m32-20250722.jpg
+    img: 2025/m31-m32-20250722.jpg
     text: ''
 
   - name: Gamma And
@@ -132,7 +132,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: gamma-and-20250722.jpg
+    img: 2025/gamma-and-20250722.jpg
     text: |
       While it seems simple, this star system has a complex
       [hierarchy](https://commons.wikimedia.org/wiki/File:Gamma_Andromedae_Components_Black.svg).
@@ -145,7 +145,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: m71-20250722.jpg
+    img: 2025/m71-20250722.jpg
     text: ''
 
   - name: Beta Cyg
@@ -155,7 +155,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: beta-cyg-20250722.jpg
+    img: 2025/beta-cyg-20250722.jpg
     text: ''
 
   - name: M2
@@ -164,7 +164,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: m2-20250729.jpg
+    img: 2025/m2-20250729.jpg
     text: |
       This is my second sketch of M2, definitely better than the first one.
 
@@ -174,7 +174,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: epsilon-equ-20250729.jpg
+    img: 2025/epsilon-equ-20250729.jpg
     text: |
       Epsilon Equ looks like a double star, but its bright component is
       a double on its own. As their separation is ~0.6", I was unable to
@@ -186,7 +186,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: m39-20250731.jpg
+    img: 2025/m39-20250731.jpg
     text: ''
 
   - name: M29
@@ -195,7 +195,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: m29-20250731.jpg
+    img: 2025/m29-20250731.jpg
     text: ''
 
   - name: 1 Peg
@@ -204,7 +204,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: 1-peg-20250803.jpg
+    img: 2025/1-peg-20250803.jpg
     text: ''
 
   - name: STF 2841
@@ -213,7 +213,7 @@ observations:
     ap: 127
     mag: 47
     fov: 1.1
-    img: stf-2841-20250803.jpg
+    img: 2025/stf-2841-20250803.jpg
     text: ''
 
   - name: Eta Cas
@@ -222,7 +222,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: eta-cas-20250804.jpg
+    img: 2025/eta-cas-20250804.jpg
     text: |
       This star system is really worth to see.
       Maybe the colors of the sketch are too intensive,
@@ -234,7 +234,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: 70-oph-20250804.jpg
+    img: 2025/70-oph-20250804.jpg
     text: ''
 
   - name: Saturn
@@ -243,7 +243,7 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
-    img: saturn-20250807.jpg
+    img: 2025/saturn-20250807.jpg
     text: |
       Saturn and Titan for the first time...
       The rings look flat now but still have visible shadow.
@@ -257,7 +257,7 @@ observations:
     ap: 127
     mag: 100
     fov: 0.68
-    img: theta-ser-20250807.jpg
+    img: 2025/theta-ser-20250807.jpg
     text: ''
 
   - name: M34
@@ -266,7 +266,7 @@ observations:
     ap: 127
     mag: 48
     fov: 1.1
-    img: m34-20250820.jpg
+    img: 2025/m34-20250820.jpg
     text: ''
 
   - name: Alpha UMi
@@ -275,7 +275,7 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
-    img: alpha-umi-20250820.jpg
+    img: 2025/alpha-umi-20250820.jpg
     text: ''
 
   - name: NGC 6633
@@ -284,7 +284,7 @@ observations:
     ap: 127
     mag: 48
     fov: 1.1
-    img: ngc-6633-20250820.jpg
+    img: 2025/ngc-6633-20250820.jpg
     text: |
       This sketch was a challenge.
       I've tried to interpret the proper relative brightness
@@ -297,7 +297,7 @@ observations:
     ap: 127
     mag: 171
     fov: 0.4
-    img: m57-20250820.jpg
+    img: 2025/m57-20250820.jpg
     text: |
       The Ring could be seen really well today.
       It was really hard to determine the orientation
@@ -310,7 +310,7 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
-    img: m27-20250820.jpg
+    img: 2025/m27-20250820.jpg
     text: |
       Dumbbell Nebula is a favorite -
       this was my first deep space object,
@@ -325,14 +325,14 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
-    img: 61-cyg-20250820.jpg
+    img: 2025/61-cyg-20250820.jpg
     text: |
       Really nice binary. This was my fourth sketch on that night.
       I was tired, the surroundings may be rough and incomplete.
 
   - name: 35 Psc
     date: 2025-08-25 23:55
-    img: 35-psc-20250826.jpg
+    img: 2025/35-psc-20250826.jpg
     nelm: 4.6
     seeing: 7
     ap: 127
@@ -349,7 +349,7 @@ observations:
       - Pi-1 Peg
       - Pi-2 Peg
     date: 2025-08-27 21:35
-    img: pi-1-peg-pi-2-peg-20250828.jpg
+    img: 2025/pi-1-peg-pi-2-peg-20250828.jpg
     nelm: 4.4
     seeing: 5
     ap: 127
@@ -363,7 +363,7 @@ observations:
 
   - name: 15 Aql
     date: 2025-08-27 22:30
-    img: 15-aql-20250828.jpg
+    img: 2025/15-aql-20250828.jpg
     nelm: 4.4
     seeing: 5
     ap: 127
@@ -383,7 +383,7 @@ observations:
       _39"_ separation.
 
   - name: 57 Aql
-    img: 57-aql-20250829.jpg
+    img: 2025/57-aql-20250829.jpg
     date: 2025-08-28 23:20
     nelm: 4.0
     seeing: 4
@@ -396,7 +396,7 @@ observations:
     text: ''
 
   - name: Iota Cas
-    img: iota-cas-20250829.jpg
+    img: 2025/iota-cas-20250829.jpg
     date: 2025-08-28 23:40
     loc: ''
     nelm: 4.0
@@ -413,7 +413,7 @@ observations:
       - Archimedes
       - Aristillus
       - Autolycus
-    img: archimedes-aristillus-autolycus-20250905.jpg
+    img: 2025/archimedes-aristillus-autolycus-20250905.jpg
     date: '2025-08-14'
     loc: Zivogosce, HR
     ap: 127
@@ -430,7 +430,7 @@ observations:
   - name:
       - Aristarchus
       - Herodotus
-    img: aristarchus-herodotus-20250905.jpg
+    img: 2025/aristarchus-herodotus-20250905.jpg
     date: 2025-09-04 23:15
     seeing: 7
     ap: 127
@@ -447,7 +447,7 @@ observations:
       I checked it again [two days later](aristarchus-herodotus-2025-09-06.md)...
 
   - name: Fracastorius
-    img: fracastorius-20250912.jpg
+    img: 2025/fracastorius-20250912.jpg
     date: 2025-09-11 23:55
     nelm: 4.6
     seeing: 7
@@ -467,7 +467,7 @@ observations:
   - name:
       - Aristarchus
       - Herodotus
-    img: aristarchus-herodotus-20250912.jpg
+    img: 2025/aristarchus-herodotus-20250912.jpg
     date: 2025-09-07 00:30
     seeing: 7
     ap: 127
@@ -487,7 +487,7 @@ observations:
 
 
   - name: Saturn
-    img: saturn-20250916.jpg
+    img: 2025/saturn-20250916.jpg
     date: 2025-09-11 23:30
     nelm: 4.6
     seeing: 7
@@ -502,7 +502,7 @@ observations:
       learn drawing a circle.
 
   - name: M103
-    img: m103-20250916.jpg
+    img: 2025/m103-20250916.jpg
     date: 2025-09-15 22:10
     nelm: 4.4
     seeing: 6
@@ -511,7 +511,7 @@ observations:
     fov: 0.4
 
   - name: Lambda Ari
-    img: lambda-ari-20250916.jpg
+    img: 2025/lambda-ari-20250916.jpg
     date: 2025-09-15 22:40
     nelm: 4.4
     seeing: 6
@@ -523,7 +523,7 @@ observations:
       Separation: 38" -- 41.8"
 
   - name: Gamma Ari
-    img: gamma-ari-20250916.jpg
+    img: 2025/gamma-ari-20250916.jpg
     date: 2025-09-15 23:05
     nelm: 4.4
     seeing: 6
@@ -565,7 +565,7 @@ observations:
       it again later.
 
   - name: C47
-    img: c47-20250922.jpg
+    img: 2025/c47-20250922.jpg
     date: 2025-09-19 21:40
     nelm: 4.4
     seeing: 7
@@ -576,7 +576,7 @@ observations:
   - name:
       - Alpha-1 Cap
       - Alpha-2 Cap
-    img: alpha-1-cap-alpha-2-cap-20250922.jpg
+    img: 2025/alpha-1-cap-alpha-2-cap-20250922.jpg
     date: 2025-09-19 22:20
     nelm: 4.4
     seeing: 7
@@ -589,7 +589,7 @@ observations:
       I think I saw _something_ so I added _something_ to the sketch...
 
   - name: Eta Per
-    img: eta-per-20250922.jpg
+    img: 2025/eta-per-20250922.jpg
     date: 2025-09-19 23:30
     nelm: 4.4
     seeing: 7
@@ -601,7 +601,7 @@ observations:
       Separation: to be calculated...
 
   - name: Epsilon Per
-    img: epsilon-per-20250922.jpg
+    img: 2025/epsilon-per-20250922.jpg
     date: 2025-09-19 23:55
     nelm: 4.4
     seeing: 7
@@ -610,7 +610,7 @@ observations:
     fov: 0.4
 
   - name: Gassendi
-    img: gassendi-20251009.jpg
+    img: 2025/gassendi-20251009.jpg
     date: 2025-10-03 23:30
     seeing: 4
     ap: 127
@@ -621,7 +621,7 @@ observations:
       Age of Moon: 11.4 days
 
   - name: Petavius
-    img: petavius-20251009.jpg
+    img: 2025/petavius-20251009.jpg
     date: 2025-10-08 23:50
     seeing: cloudy...
     ap: 127
@@ -637,7 +637,7 @@ observations:
       It was fun in the end and the result is not so bad.
 
   - name: C/2025 A6
-    img: c-2025-a6-20251103.jpg
+    img: 2025/c-2025-a6-20251103.jpg
     date: 2025-10-18 18:55
     loc: Szarvas, HU
     nelm: '6'
@@ -651,7 +651,7 @@ observations:
       Szarvas seems to be a really good location for observations.
 
   - name: Penrose triangle
-    img: penrose-triangle-20251103.jpg
+    img: 2025/penrose-triangle-20251103.jpg
     date: 2025-11-01 23:10
     loc: ''
     nelm: 3.8
@@ -668,7 +668,7 @@ observations:
       I've found no reference about this 'asterism' yet, so I named it
       by my first association:
 
-      ![Penrose annotated](../../img/penrose-annotated-20251103.png)
+      ![Penrose annotated](../../img/2025/penrose-annotated-20251103.png)
 
       Members of the group:
       - Theta-1 Tau (4.0 mag)
@@ -679,7 +679,7 @@ observations:
       - HD 28527 (4.8 mag)
 
   - name: M45
-    img: m45-20251103.jpg
+    img: 2025/m45-20251103.jpg
     date: 2025-11-01 22:10
     nelm: 3.8
     seeing: 5
@@ -695,7 +695,7 @@ observations:
   - name:
       - M42
       - M43
-    img: m42-m43-20251119.jpg
+    img: 2025/m42-m43-20251119.jpg
     date: 2025-11-19 00:30
     nelm: 4.2
     seeing: 7
@@ -708,7 +708,7 @@ observations:
       draw another to show the _impression_ instead of the visuals.
 
   - name: Alpha Gem
-    img: alpha-gem-20251119.jpg
+    img: 2025/alpha-gem-20251119.jpg
     date: 2025-11-19 01:15
     nelm: 4.2
     seeing: 7
@@ -723,7 +723,7 @@ observations:
       containing [M42 and M43](m42-m43-2025-11-18.md).
 
   - name: Jupiter
-    img: jupiter-20260130.jpg
+    img: 2026/jupiter-20260130.jpg
     date: 2025-11-28 01:30
     nelm: 4.0
     seeing: 5-6
@@ -736,7 +736,7 @@ observations:
       maybe the [second try](jupiter-2025-12-26.md) looks better.
 
   - name: Jupiter
-    img: jupiter-2nd-20260130.jpg
+    img: 2026/jupiter-2nd-20260130.jpg
     date: 2025-12-27 00:40
     nelm: 4.0
     seeing: 6
@@ -748,7 +748,7 @@ observations:
       a really nice Christmas gift, especially with [2264](ngc-2264-2025-12-26.md).
 
   - name: C50
-    img: c50-20260130.jpg
+    img: 2026/c50-20260130.jpg
     date: 2025-12-27 01:15
     nelm: 4.0
     seeing: 6
@@ -758,7 +758,7 @@ observations:
     text: ''
 
   - name: NGC 2264
-    img: ngc-2264-20260130.jpg
+    img: 2026/ngc-2264-20260130.jpg
     date: 2025-12-27 01:35
     nelm: 4.0
     seeing: 6
@@ -773,7 +773,7 @@ observations:
       - Catharina
       - Cyrillus
       - Theophilus
-    img: catharina-cyrillus-theophilus-20260420.jpg
+    img: 2026/catharina-cyrillus-theophilus-20260420.jpg
     date: 2026-03-24 23:00
     nelm: 4.0
     seeing: 5
@@ -783,7 +783,7 @@ observations:
       Age of Moon: 6.5 days
 
   - name: Langrenus
-    img: langrenus-20260420.jpg
+    img: 2026/langrenus-20260420.jpg
     date: 2026-04-04 00:00
     nelm: 3.8
     seeing: 4
@@ -793,7 +793,7 @@ observations:
       Age of Moon: 16.3 days
 
   - name: M53
-    img: m53-20260410.jpg
+    img: 2026/m53-20260410.jpg
     date: 2026-04-09 00:20
     nelm: 4.5
     seeing: 5
@@ -804,7 +804,7 @@ observations:
       Nice and shiny cluster with a strange alien worm visitor... No, that blue line is the art of my younger daughter.
 
   - name: M64
-    img: m64-20260410.jpg
+    img: 2026/m64-20260410.jpg
     date: 2026-04-09 00:40
     nelm: 4.5
     seeing: 5
@@ -813,7 +813,7 @@ observations:
     fov: 1.1
 
   - name: M13
-    img: m13-m13-2nd-20260410.jpg
+    img: 2026/m13-m13-2nd-20260410.jpg
     date: 2026-04-09 00:50
     nelm: 4.5
     seeing: 5
@@ -822,7 +822,7 @@ observations:
     fov: 0.4
 
   - name: C/2025 R3
-    img: c-2025-r3-20260420.jpg
+    img: 2026/c-2025-r3-20260420.jpg
     date: 2026-04-12 04:25
     nelm: 4.2
     seeing: 6
@@ -835,7 +835,7 @@ observations:
       in the finder. Still it was worth to see, especially as it's not going to return.
 
   - name: M57
-    img: m57-20260420.jpg
+    img: 2026/m57-20260420.jpg
     date: 2026-04-18 01:30
     nelm: 4.2
     seeing: 7
@@ -844,7 +844,7 @@ observations:
     fov: 0.4
 
   - name: M5
-    img: m5-m5-2nd-20260420.jpg
+    img: 2026/m5-m5-2nd-20260420.jpg
     date: 2026-04-18 00:50
     nelm: 4.2
     seeing: 7
@@ -856,7 +856,7 @@ observations:
       the shiny center had oval surroundings.
 
   - name: M104
-    img: m104-20260529.jpg
+    img: 2026/m104-20260529.jpg
     date: 2026-04-19 00:10
     nelm: 4.0
     seeing: 7
@@ -865,7 +865,7 @@ observations:
     fov: 1.1
 
   - name: Delta Crv
-    img: delta-crv-20260529.jpg
+    img: 2026/delta-crv-20260529.jpg
     date: 2026-04-19 00:40
     nelm: 4.0
     seeing: 7
@@ -874,7 +874,7 @@ observations:
     fov: 1.1
 
   - name: M48
-    img: m48-20260601.jpg
+    img: 2026/m48-20260601.jpg
     date: 2026-04-20 22:20
     nelm: 4.0
     seeing: 5
@@ -885,7 +885,7 @@ observations:
       Bad conditions for observation and a pretty open cluster.
 
   - name: M92
-    img: m92-20260601.jpg
+    img: 2026/m92-20260601.jpg
     date: 2026-05-11 00:15
     nelm: 3.8
     seeing: 5
@@ -894,7 +894,7 @@ observations:
     fov: 0.66
 
   - name: Kemble 2
-    img: kemble-2-20260601.jpg
+    img: 2026/kemble-2-20260601.jpg
     date: 2026-05-18 22:30
     nelm: 4.2
     seeing: 8
@@ -903,7 +903,7 @@ observations:
     fov: 1.1
 
   - name: Psi-1 Dra
-    img: psi-1-dra-20260601.jpg
+    img: 2026/psi-1-dra-20260601.jpg
     date: 2026-05-18 22:55
     nelm: 4.2
     seeing: 8
@@ -916,7 +916,7 @@ observations:
       Also note that B star has an exoplanet 'Psi-1 Draconis Bb' - imagine it onto the sketch.
 
   - name: C6
-    img: c6-20260601.jpg
+    img: 2026/c6-20260601.jpg
     date: 2026-05-18 23:20
     nelm: 4.2
     seeing: 8
@@ -925,7 +925,7 @@ observations:
     fov: 0.4
 
   - name: Nu Dra
-    img: nu-dra-20260601.jpg
+    img: 2026/nu-dra-20260601.jpg
     date: 2026-05-18 23:40
     nelm: 4.2
     seeing: 8
@@ -934,7 +934,7 @@ observations:
     fov: 1.1
 
   - name: M8
-    img: m8-20260601.jpg
+    img: 2026/m8-20260601.jpg
     date: 2026-05-25 01:10
     loc: Bükkösd, HU
     nelm: 52
@@ -947,7 +947,7 @@ observations:
       notebook. [Here](../../img/m8-very-first.jpg) it is.
 
   - name: M22
-    img: m22-20260601.jpg
+    img: 2026/m22-20260601.jpg
     date: 2026-05-25 01:35
     loc: Bükkösd, HU
     nelm: 52
@@ -957,7 +957,7 @@ observations:
     fov: 1.1
 
   - name: C10
-    img: c10-20260709.jpg
+    img: 2026/c10-20260709.jpg
     date: 2026-06-07 01:30
     loc: Rózsa-sziget, Makád, HU
     nelm: 4.8
@@ -970,7 +970,7 @@ observations:
       the coast of _Duna_ provides good half-sky view with low horizon and minimal light pollution.
 
   - name: Tau Oph
-    img: tau-oph-20260709.jpg
+    img: 2026/tau-oph-20260709.jpg
     date: 2026-06-16 02:00
     nelm: 4.0
     seeing: 6
@@ -982,7 +982,7 @@ observations:
       I was not able to separate A and B components.
 
   - name: M10
-    img: m10-20260709.jpg
+    img: 2026/m10-20260709.jpg
     date: 2026-06-16 01:30
     nelm: 4.0
     seeing: 6
@@ -997,7 +997,7 @@ observations:
       It seemed a bit textured but I was not able to resolve stars or locate irregularities.
 
   - name: M12
-    img: m12-20260709.jpg
+    img: 2026/m12-20260709.jpg
     date: 2026-06-16 01:45
     nelm: 4.0
     seeing: 6
@@ -1012,7 +1012,7 @@ observations:
       stars. Overall it looks really nice.
 
   - name: M14
-    img: m14-20260709.jpg
+    img: 2026/m14-20260709.jpg
     date: 2026-06-19 01:10
     nelm: 40
     seeing: 7
@@ -1022,7 +1022,7 @@ observations:
     text: ''
 
   - name: M16
-    img: m16-20260709.jpg
+    img: 2026/m16-20260709.jpg
     date: 2026-06-19 01:30
     nelm: 40
     seeing: 7
@@ -1035,7 +1035,7 @@ observations:
       I'm looking forward to observe it under good skies.
 
   - name: M52
-    img: m52-20260709.jpg
+    img: 2026/m52-20260709.jpg
     date: 2026-06-20 01:30
     loc: Rózsa-sziget, Makád, HU
     nelm: 50
@@ -1047,7 +1047,7 @@ observations:
       An interestingly asymmetric cluster with some 'tentacles' on the west.
 
   - name: M110
-    img: m110-20260709.jpg
+    img: 2026/m110-20260709.jpg
     date: 2026-06-20 02:30
     loc: Rózsa-sziget, Makád, HU
     nelm: 50
@@ -1062,7 +1062,7 @@ observations:
   - name:
       - Mars
       - Uranus
-    img: mars-uranus-20260804.jpg
+    img: 2026/mars-uranus-20260804.jpg
     date: 2026-07-04 03:45
     #nelm: 0
     #seeing: 0
@@ -1079,7 +1079,7 @@ observations:
       > completely different on the other day. Sorry for this.
 
   - name: M18
-    img: m18-20260804.jpg
+    img: 2026/m18-20260804.jpg
     date: 2026-07-11 00:40
     nelm: 4.0
     seeing: 7
@@ -1090,7 +1090,7 @@ observations:
       I assume this looks much better from a better location. Still it's worth to see and enjoyable to draw.
 
   - name: M25
-    img: m25-20260804.jpg
+    img: 2026/m25-20260804.jpg
     date: 2026-07-17 00:30
     nelm: 4.0
     seeing: 6
@@ -1102,7 +1102,7 @@ observations:
       and spectacular at the same time - at least if one likes 'white dots on black'.
 
   - name: 11 Aql
-    img: 11-aql-20260804.jpg
+    img: 2026/11-aql-20260804.jpg
     date: 2026-07-17 01:05
     nelm: 4.0
     seeing: 6
@@ -1113,7 +1113,7 @@ observations:
       A visual triple star system _(STF 2424)._ For me it was double, C component has visual magnitude of 13.4 ...
 
   - name: M30
-    img: m30-20260804.jpg
+    img: 2026/m30-20260804.jpg
     date: 2026-07-21 00:45
     nelm: 4.0
     seeing: 5
@@ -1122,7 +1122,7 @@ observations:
     fov: 0.66
 
   - name: Zeta Aqr
-    img: zeta-aqr-20260804.jpg
+    img: 2026/zeta-aqr-20260804.jpg
     date: 2026-07-21 01:00
     nelm: 4.0
     seeing: 5
@@ -1135,7 +1135,7 @@ observations:
       > and nothing for A. By the way, the separation value of 2.1" also seems a bit low to me...
 
   - name: M17
-    img: m17-20260804.jpg
+    img: 2026/m17-20260804.jpg
     date: 2026-07-25 01:10
     loc: Szent Balázs-hegy, Szentantalfa, HU
     nelm: 5.0
@@ -1147,7 +1147,7 @@ observations:
       Well, this was not the best view of this nebula, but still worth to see. Maybe next time...
 
   - name: 10P/Tempel
-    img: 10p-tempel-20260804.jpg
+    img: 2026/10p-tempel-20260804.jpg
     date: 2026-07-25 01:30
     loc: Szent Balázs-hegy, Szentantalfa, HU
     nelm: 5.0

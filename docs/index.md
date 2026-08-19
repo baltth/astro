@@ -8,16 +8,16 @@
 
 ## Latest
 
-- 2026-07-24: [10P/Tempel](obs/10p-tempel-2026-07-24.md)
-- 2026-07-24: [Messier 17](obs/m17-2026-07-24.md)
-- 2026-07-20: [Zeta Aquarii](obs/zeta-aqr-2026-07-20.md)
-- 2026-07-20: [Messier 30](obs/m30-2026-07-20.md)
-- 2026-07-16: [11 Aquilae](obs/11-aql-2026-07-16.md)
-- 2026-07-16: [Messier 25](obs/m25-2026-07-16.md)
-- 2026-07-10: [Messier 18](obs/m18-2026-07-10.md)
-- 2026-07-03: [Mars, Uranus](obs/mars-uranus-2026-07-03.md)
-- 2026-06-19: [Messier 110](obs/m110-2026-06-19.md)
-- 2026-06-19: [Messier 52](obs/m52-2026-06-19.md)
+- 2026-07-24: [10P/Tempel](obs/2026/10p-tempel-2026-07-24.md)
+- 2026-07-24: [Messier 17](obs/2026/m17-2026-07-24.md)
+- 2026-07-20: [Zeta Aquarii](obs/2026/zeta-aqr-2026-07-20.md)
+- 2026-07-20: [Messier 30](obs/2026/m30-2026-07-20.md)
+- 2026-07-16: [11 Aquilae](obs/2026/11-aql-2026-07-16.md)
+- 2026-07-16: [Messier 25](obs/2026/m25-2026-07-16.md)
+- 2026-07-10: [Messier 18](obs/2026/m18-2026-07-10.md)
+- 2026-07-03: [Mars, Uranus](obs/2026/mars-uranus-2026-07-03.md)
+- 2026-06-19: [Messier 110](obs/2026/m110-2026-06-19.md)
+- 2026-06-19: [Messier 52](obs/2026/m52-2026-06-19.md)
 
 ---
 

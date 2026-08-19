@@ -457,3 +457,11 @@ sketches:
       Unfortunately this night was disturbed by some clouds and moonshine.
 
       Note that the location on the sketch is _Tagyon._ That's incorrect, the mountain belongs to _Szentantalfa._
+
+  - full: 2026/c13-saturn-20260813.jpg
+    scan: 2026/20260813073147_001.jpg
+    sub:
+      - 2026/c13-20260813.jpg
+      - 2026/saturn-20260813.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002535.jpeg -c ../astro/orig/scan/20260813073147_001.jpg -x 55 -y 190 -o1 C13 -o2 Saturn

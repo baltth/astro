@@ -4,7 +4,7 @@
 
 _Epsilon Per_ -- _ε Per_ -- _Star system in Perseus_  
 
-![Epsilon Persei](../../img/epsilon-per-20250922.jpg)
+![Epsilon Persei](../../img/2025/epsilon-per-20250922.jpg)
 
 Object | Epsilon Persei
 -|-
@@ -30,5 +30,5 @@ Spectral class | B0.5V †
 
 ## Links
 
-- [Full sketch](../../img/eta-per-epsilon-per-20250922.jpg)
-- [Original sketch](../../scan/20250922010521_002.jpg)
+- [Full sketch](../../img/2025/eta-per-epsilon-per-20250922.jpg)
+- [Original sketch](../../scan/2025/20250922010521_002.jpg)

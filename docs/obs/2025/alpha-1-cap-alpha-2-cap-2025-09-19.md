@@ -5,7 +5,7 @@
 _Alpha-1 Cap_ -- _Algiedi Prima_ -- _Prima Giedi_ -- _Binary star in Capricornus_  
 _Alpha-2 Cap_ -- _Algedi_ -- _Triple star in Capricornus_  
 
-![Alpha-1 Capricorni, Alpha-2 Capricorni](../../img/alpha-1-cap-alpha-2-cap-20250922.jpg)
+![Alpha-1 Capricorni, Alpha-2 Capricorni](../../img/2025/alpha-1-cap-alpha-2-cap-20250922.jpg)
 
 I hoped to be able to resolve BC components of Alpha-2 Cap.
 Separated to ~6.6" with 7+ difference in magnitude - well, it's not that easy.
@@ -36,5 +36,5 @@ Spectral class | G3Ib † | G6/G8III † |
 
 ## Links
 
-- [Full sketch](../../img/c47-alpha-1-cap-alpha-2-cap-20250922.jpg)
-- [Original sketch](../../scan/20250922010236_001.jpg)
+- [Full sketch](../../img/2025/c47-alpha-1-cap-alpha-2-cap-20250922.jpg)
+- [Original sketch](../../scan/2025/20250922010236_001.jpg)

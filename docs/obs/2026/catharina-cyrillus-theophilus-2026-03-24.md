@@ -6,7 +6,7 @@ _Catharina_ -- _Crater in Moon_
 _Cyrillus_ -- _Crater in Moon_  
 _Theophilus_ -- _Crater in Moon_  
 
-![Catharina, Cyrillus, Theophilus](../../img/catharina-cyrillus-theophilus-20260420.jpg)
+![Catharina, Cyrillus, Theophilus](../../img/2026/catharina-cyrillus-theophilus-20260420.jpg)
 
 Objects | Catharina, Cyrillus, Theophilus
 -|-
@@ -31,5 +31,5 @@ Size | 100 km | 98 km | 100 km
 
 ## Links
 
-- [Full sketch](../../img/catharina-cyrillus-theophilus-langrenus-20260420.jpg)
-- [Original sketch](../../scan/20260420213028_001.jpg)
+- [Full sketch](../../img/2026/catharina-cyrillus-theophilus-langrenus-20260420.jpg)
+- [Original sketch](../../scan/2026/20260420213028_001.jpg)

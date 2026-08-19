@@ -5,7 +5,7 @@
 _Aristarchus_ -- _Crater in Moon_  
 _Herodotus_ -- _Crater in Moon_  
 
-![Aristarchus, Herodotus](../../img/aristarchus-herodotus-20250905.jpg)
+![Aristarchus, Herodotus](../../img/2025/aristarchus-herodotus-20250905.jpg)
 
 I wanted to observe the Moon, choosing these craters was an ad-hoc decision.
 Aristarchus is considered the brightest on the surface of Moon.
@@ -35,6 +35,6 @@ Size | 40 km | 35 km
 
 ## Links
 
-- [Full sketch](../../img/archimedes-aristillus-autolycus-aristarchus-herodotus-20250905.jpg)
-- [Original sketch](../../scan/20250905011040_001.jpg)
+- [Full sketch](../../img/2025/archimedes-aristillus-autolycus-aristarchus-herodotus-20250905.jpg)
+- [Original sketch](../../scan/2025/20250905011040_001.jpg)
 - [Next: Aristarchus, Herodotus on 2025-09-06](../../obs/2025/aristarchus-herodotus-2025-09-06.md)

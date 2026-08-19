@@ -5,7 +5,7 @@
 _Mars_ -- _Planet in Solar System_  
 _Uranus_ -- _Planet in Solar System_  
 
-![Mars, Uranus](../../img/mars-uranus-20260804.jpg)
+![Mars, Uranus](../../img/2026/mars-uranus-20260804.jpg)
 
 A rare constellation, Mars and Uranus separated by ~10'. As I observed this right before sunrise,
 I did not record NELM and seeing as it had no sense. It was fun but not really interesting -
@@ -25,5 +25,5 @@ FOV | 0.4°
 
 ## Links
 
-- [Full sketch](../../img/mars-uranus-m18-20260804.jpg)
-- [Original sketch](../../scan/20260804000051_001.jpg)
+- [Full sketch](../../img/2026/mars-uranus-m18-20260804.jpg)
+- [Original sketch](../../scan/2026/20260804000051_001.jpg)

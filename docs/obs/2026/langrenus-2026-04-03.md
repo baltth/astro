@@ -4,7 +4,7 @@
 
 _Langrenus_ -- _Crater in Moon_  
 
-![Langrenus](../../img/langrenus-20260420.jpg)
+![Langrenus](../../img/2026/langrenus-20260420.jpg)
 
 Object | Langrenus
 -|-
@@ -29,5 +29,5 @@ Size | 132 km
 
 ## Links
 
-- [Full sketch](../../img/catharina-cyrillus-theophilus-langrenus-20260420.jpg)
-- [Original sketch](../../scan/20260420213028_001.jpg)
+- [Full sketch](../../img/2026/catharina-cyrillus-theophilus-langrenus-20260420.jpg)
+- [Original sketch](../../scan/2026/20260420213028_001.jpg)

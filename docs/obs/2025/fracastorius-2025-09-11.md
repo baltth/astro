@@ -4,7 +4,7 @@
 
 _Fracastorius_ -- _Crater in Moon_  
 
-![Fracastorius](../../img/fracastorius-20250912.jpg)
+![Fracastorius](../../img/2025/fracastorius-20250912.jpg)
 
 This crater looked really impressive. Just on the boundary of lunar night, 
 full of shadows with huge contrast.
@@ -35,5 +35,5 @@ Size | 124 km
 
 ## Links
 
-- [Full sketch](../../img/fracastorius-aristarchus-herodotus-20250912.jpg)
-- [Original sketch](../../scan/20250912075516_001.jpg)
+- [Full sketch](../../img/2025/fracastorius-aristarchus-herodotus-20250912.jpg)
+- [Original sketch](../../scan/2025/20250912075516_001.jpg)

@@ -4,7 +4,7 @@
 
 _Epsilon Equ_ -- _ε Equ_ -- _Star system in Equuleus_  
 
-![Epsilon Equulei](../../img/epsilon-equ-20250729.jpg)
+![Epsilon Equulei](../../img/2025/epsilon-equ-20250729.jpg)
 
 Epsilon Equ looks like a double star, but its bright component is
 a double on its own. As their separation is ~0.6", I was unable to
@@ -35,5 +35,5 @@ Separation |  | 0.64" | 10"
 
 ## Links
 
-- [Full sketch](../../img/m2-epsilon-equ-20250729.jpg)
-- [Original sketch](../../scan/20250729012225_001.jpg)
+- [Full sketch](../../img/2025/m2-epsilon-equ-20250729.jpg)
+- [Original sketch](../../scan/2025/20250729012225_001.jpg)

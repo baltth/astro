@@ -4,7 +4,7 @@
 
 _Penrose triangle_ -- _Asterism in Taurus_  
 
-![Penrose triangle](../../img/penrose-triangle-20251103.jpg)
+![Penrose triangle](../../img/2025/penrose-triangle-20251103.jpg)
 
 These stars are part of the Hyades, forming an asterism like a
 [Penrose triangle](https://en.wikipedia.org/wiki/Penrose_triangle).
@@ -14,7 +14,7 @@ and the group is easy to identify.
 I've found no reference about this 'asterism' yet, so I named it
 by my first association:
 
-![Penrose annotated](../../img/penrose-annotated-20251103.png)
+![Penrose annotated](../../img/2025/penrose-annotated-20251103.png)
 
 Members of the group:
 - Theta-1 Tau (4.0 mag)
@@ -36,5 +36,5 @@ FOV | 1.1°
 
 ## Links
 
-- [Full sketch](../../img/c-2025-a6-penrose-triangle-20251103.jpg)
-- [Original sketch](../../scan/20251103003438_001.jpg)
+- [Full sketch](../../img/2025/c-2025-a6-penrose-triangle-20251103.jpg)
+- [Original sketch](../../scan/2025/20251103003438_001.jpg)

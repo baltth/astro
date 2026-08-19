@@ -4,7 +4,7 @@
 
 _Lambda Ari_ -- _Double star in Aries_  
 
-![Lambda Arietis](../../img/lambda-ari-20250916.jpg)
+![Lambda Arietis](../../img/2025/lambda-ari-20250916.jpg)
 
 Object | Lambda Arietis
 -|-
@@ -34,5 +34,5 @@ Spectral class | F0V † | G1V
 
 ## Links
 
-- [Full sketch](../../img/saturn-lambda-ari-20250916.jpg)
-- [Original sketch](../../scan/20250916011030_001.jpg)
+- [Full sketch](../../img/2025/saturn-lambda-ari-20250916.jpg)
+- [Original sketch](../../scan/2025/20250916011030_001.jpg)

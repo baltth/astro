@@ -6,7 +6,7 @@ _Archimedes_ -- _Crater in Moon_
 _Aristillus_ -- _Crater in Moon_  
 _Autolycus_ -- _Crater in Moon_  
 
-![Archimedes, Aristillus, Autolycus](../../img/archimedes-aristillus-autolycus-20250905.jpg)
+![Archimedes, Aristillus, Autolycus](../../img/2025/archimedes-aristillus-autolycus-20250905.jpg)
 
 My first sketch of the Moon. I didn't prepare this, just simply had
 a night when observing anything else was impossible due to the bad seeing.
@@ -33,5 +33,5 @@ Size | 81 km | 55 km | 39 km
 
 ## Links
 
-- [Full sketch](../../img/archimedes-aristillus-autolycus-aristarchus-herodotus-20250905.jpg)
-- [Original sketch](../../scan/20250905011040_001.jpg)
+- [Full sketch](../../img/2025/archimedes-aristillus-autolycus-aristarchus-herodotus-20250905.jpg)
+- [Original sketch](../../scan/2025/20250905011040_001.jpg)

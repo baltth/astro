@@ -14,7 +14,7 @@ and the group is easy to identify.
 I've found no reference about this 'asterism' yet, so I named it
 by my first association:
 
-![Penrose annotated](../img/penrose-annotated-20251103.png)
+![Penrose annotated](../../img/penrose-annotated-20251103.png)
 
 Members of the group:
 - Theta-1 Tau (4.0 mag)

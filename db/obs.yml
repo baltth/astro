@@ -668,7 +668,7 @@ observations:
       I've found no reference about this 'asterism' yet, so I named it
       by my first association:
 
-      ![Penrose annotated](../img/penrose-annotated-20251103.png)
+      ![Penrose annotated](../../img/penrose-annotated-20251103.png)
 
       Members of the group:
       - Theta-1 Tau (4.0 mag)
@@ -733,7 +733,7 @@ observations:
     text: |
       My first try to sketch Jupiter with the Galilean moons.
       It's a challenging task with inverted colors,
-      maybe the [second try](jupiter-2025-12-26) looks better.
+      maybe the [second try](jupiter-2025-12-26.md) looks better.
 
   - name: Jupiter
     img: jupiter-2nd-20260130.jpg
@@ -944,7 +944,7 @@ observations:
     fov: 1.1
     text: |
       Just for fun: my very first astronomy sketch was M8, done into my palm-sized
-      notebook. [Here](../img/m8-very-first.jpg) it is.
+      notebook. [Here](../../img/m8-very-first.jpg) it is.
 
   - name: M22
     img: m22-20260601.jpg
@@ -1057,7 +1057,7 @@ observations:
     fov: 1.1
     text: |
       This galaxy is hard to see, mainly because it lies on the boundary of
-      [Androameda galaxy](m31-m32-2025-07-19.md). If you don't see it, that's not your fault...
+      [Androameda galaxy](../2025/m31-m32-2025-07-19.md). If you don't see it, that's not your fault...
 
   - name:
       - Mars

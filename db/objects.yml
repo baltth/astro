@@ -91,6 +91,36 @@ objects:
         aka:
           - HIP 93716
 
+  16 Cyg:
+    constellation: Cyg
+    type: triple star system
+    components:
+      ~A:
+        name: HD 186408
+        mag: 5.96
+      ~B:
+        name: HD 186427
+        mag: 6.20
+    fetched:
+      HD 186408:
+        type: Star
+        subtype: Yellow Main Sequence
+        ra: 19h 41m 49s
+        dec: 50° 31' 30"
+        spectral_class: G2V
+        aka:
+          - HIP 96895
+          - HR 7503
+      HD 186427:
+        type: Star
+        subtype: Yellow Main Sequence
+        ra: 19h 41m 52s
+        dec: 50° 31' 3"
+        spectral_class: G5V
+        aka:
+          - HIP 96901
+          - HR 7504
+
   35 Psc:
     constellation: Psc
     type: triple star
@@ -471,6 +501,22 @@ objects:
           - H Per
           - Double Cluster
           - H Persei
+
+  C15:
+    constellation: Cyg
+    type: planetary nebula
+    aka:
+      - NGC 6826
+      - Blinking Planetary Nebula
+    fetched:
+      NGC 6826:
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        ra: 19h 44m 48s
+        dec: 50° 31' 31"
+        aka:
+          - Blinking Planetary
+          - Blinking Planetary Nebula
 
   C16:
     constellation: Lac

@@ -442,6 +442,19 @@ objects:
         aka:
           - Dragonfly Cluster
 
+  C16:
+    constellation: Lac
+    type: open cluster
+    aka:
+      - NGC 7243
+    fetched:
+      NGC 7243:
+        type: Open Cluster
+        subtype: High disperation, medium sized cluster with poor star density
+        ra: 22h 15m 08s
+        dec: 49° 53' 51"
+        aka: []
+
   C47:
     constellation: Del
     type: globular cluster
@@ -713,6 +726,12 @@ objects:
     data:
       coordinates: 23.2°N 49.7°W
       size: 35 km
+
+  IC 1590:
+    constellation: Cas
+    type: open cluster
+    ra: 00h 52m 49s
+    dec: 56° 37' 42"
 
   Iota Cas:
     constellation: Cas
@@ -1333,6 +1352,22 @@ objects:
   Mars:
     constellation: Solar System
     type: planet
+
+  NGC 281:
+    constellation: Cas
+    type: super nova remnant
+    aka:
+      - IC 11
+      - Sh2-184
+      - Pacman Nebula
+    fetched:
+      NGC 281:
+        type: Super Nova Remnant
+        subtype: Emission Nebula
+        ra: 00h 52m 59s
+        dec: 56° 37' 19"
+        aka:
+          - Pacman Nebula
 
   NGC 2264:
     constellation: Mon

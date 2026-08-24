@@ -1193,3 +1193,38 @@ observations:
       - [Iapetus](https://en.wikipedia.org/wiki/Iapetus_(moon))
 
       > I forgot to note the FOV on the page, sorry for this.
+
+  - name: C16
+    img: 2026/c16-20260813.jpg
+    date: 2026-08-10 00:15
+    nelm: 4.1
+    seeing: 8
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      This night was a bit better than usual.
+      Viewed on a suburban sky, this cluster is really nice and 'rich', having a good contrast with its
+      surroundings. Maybe it seems average from a better location, but I have no comparison.
+
+  - name:
+      - NGC 281
+      - IC 1590
+    img: 2026/ngc-281-ic-1590-20260813.jpg
+    date: 2026-08-10 01:10
+    nelm: 4.1
+    seeing: 8
+    ap: 127
+    mag: 47
+    fov: 1.1
+    data:
+      Extras: Svbony CLS
+    text: |
+        Nebulae like this are really challenging from Dunaharaszti. I'd tried this some times before
+        but this was the first successful observation - as far as I remember this was the first try with CLS.
+        
+        Just to disambiguate, _NGC 281_ is the _nebula._ _IC 1590_ is the _small cluster in the middle_ of it,
+        stars on East side do not belong to the cluster.
+
+        Pacman looks like an amoeba but definitely has a mouth.
+        

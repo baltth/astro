@@ -465,3 +465,11 @@ sketches:
       - 2026/saturn-20260813.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002535.jpeg -c ../astro/orig/scan/20260813073147_001.jpg -x 55 -y 190 -o1 C13 -o2 Saturn
+
+  - full: 2026/c16-ngc-281-ic-1590-20260813.jpg
+    scan: 2026/20260813073737_001.jpg
+    sub:
+      - 2026/c16-20260813.jpg
+      - 2026/ngc-281-ic-1590-20260813.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002537.jpeg -c ../astro/orig/scan/20260813073737_001.jpg -x 55 -y 190 -o1 C16 -o2 'NGC 281, IC 1590'

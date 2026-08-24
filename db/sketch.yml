@@ -480,5 +480,14 @@ sketches:
       - 2026/c14-20260814.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002540.jpeg -c ../astro/orig/scan/20260814080955_001.jpg -x 55 -y 190 -o1 C14 --full-page
-    notes:
-      FOV data represents a single circle, the maximum width is ~1.9°.
+    notes: FOV data represents a single circle, the maximum width is ~1.9°.
+
+  - full: 2026/c15-16-cyg-na-20260817.jpg
+    scan: 2026/20260817000812_001.jpg
+    sub:
+      - 2026/c15-16-cyg-20260817.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -c ../astro/orig/scan/20260817000812_001.jpg -x 55 -y 145 -o1 'C15, 16 Cyg' --full-page
+    notes: |
+      It's hard to work with inverted green. I see nothing of what's drawn at red light,
+      thus the result is too intensive, just like at [Saturn Nebula](../2025/c55-2025-06-30.md).

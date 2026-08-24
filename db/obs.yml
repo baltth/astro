@@ -1244,3 +1244,20 @@ observations:
       The conditions were better than usual. It took ~50 minutes to sketch, I assume this would be much higher
       if it were done at lower NELM. Unfortunately the clusters are a bit misaligned,
       but still I'm pleased with the result.
+
+  - name:
+      - C15
+      - 16 Cyg
+    img: 2026/c15-16-cyg-20260817.jpg
+    date: 2026-08-16 01:10
+    nelm: 4.3
+    seeing: 8
+    ap: 127
+    mag: 220
+    fov: 0.24
+    text: |
+      The recent hot and dry weather is terrible but at least good for observations. The _Blinking_ was not blinking
+      but it could be clearly seen event with direct view.
+      
+      The second sketch shows its neighborhood an _47x_ with _FOV 1.1°._ with the triple system _16 Cyg._
+      This has an invisible red dwarf as _C_ component and also an exoplanet at _B._

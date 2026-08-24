@@ -1220,11 +1220,27 @@ observations:
     data:
       Extras: Svbony CLS
     text: |
-        Nebulae like this are really challenging from Dunaharaszti. I'd tried this some times before
-        but this was the first successful observation - as far as I remember this was the first try with CLS.
-        
-        Just to disambiguate, _NGC 281_ is the _nebula._ _IC 1590_ is the _small cluster in the middle_ of it,
-        stars on East side do not belong to the cluster.
+      Nebulae like this are really challenging from Dunaharaszti. I'd tried this some times before
+      but this was the first successful observation - as far as I remember this was the first try with CLS.
 
-        Pacman looks like an amoeba but definitely has a mouth.
-        
+      Just to disambiguate, _NGC 281_ is the _nebula._ _IC 1590_ is the _small cluster in the middle_ of it,
+      stars on East side do not belong to the cluster.
+
+      Pacman looks like an amoeba but definitely has a mouth.
+
+  - name: C14
+    img: 2026/c14-20260814.jpg
+    date: 2026-08-14 00:40
+    nelm: 4.3
+    seeing: 8
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      > This is my second sketch with double FOV - the first was the [Pleiades](../2025/m45-2025-11-01.md) last year.
+      > I've prepared to do it for some time but never felt be prepared until now.
+
+      C14 is the name of the cluster pair _chi Persei_ and _h Persei_, one of the 'all stars' for me.
+      The conditions were better than usual. It took ~50 minutes to sketch, I assume this would be much higher
+      if it were done at lower NELM. Unfortunately the clusters are a bit misaligned,
+      but still I'm pleased with the result.

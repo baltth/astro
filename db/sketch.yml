@@ -473,3 +473,12 @@ sketches:
       - 2026/ngc-281-ic-1590-20260813.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002537.jpeg -c ../astro/orig/scan/20260813073737_001.jpg -x 55 -y 190 -o1 C16 -o2 'NGC 281, IC 1590'
+
+  - full: 2026/c14-na-20260814.jpg
+    scan: 2026/20260814080955_001.jpg
+    sub:
+      - 2026/c14-20260814.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002540.jpeg -c ../astro/orig/scan/20260814080955_001.jpg -x 55 -y 190 -o1 C14 --full-page
+    notes:
+      FOV data represents a single circle, the maximum width is ~1.9°.

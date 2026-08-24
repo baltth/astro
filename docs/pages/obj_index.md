@@ -17,6 +17,7 @@
 - [C6](../obs/2026/c6-2026-05-18.md) - planetary nebula in Draco
 - [C10](../obs/2026/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [C13](../obs/2026/c13-2026-08-07.md) - open cluster in Cassiopeia
+- [C14](../obs/2026/c14-2026-08-13.md) - open clusters in Perseus
 - [C16](../obs/2026/c16-2026-08-09.md) - open cluster in Lacerta
 - [C47](../obs/2025/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/2025/c50-2025-12-26.md) - open cluster in Monoceros
@@ -254,6 +255,7 @@
 
 #### Perseus
 
+- [C14](../obs/2026/c14-2026-08-13.md) - open clusters in Perseus
 - [Epsilon Persei](../obs/2025/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Persei](../obs/2025/eta-per-2025-09-19.md) - binary star in Perseus
 - [Messier 34](../obs/2025/m34-2025-08-18.md) - open cluster in Perseus

@@ -442,6 +442,36 @@ objects:
         aka:
           - Dragonfly Cluster
 
+  C14:
+    constellation: Per
+    type: open clusters
+    aka:
+      - χ - h Per
+      - chi - h Persei
+      - Double Cluster
+    components:
+      χ Per:
+        name: NGC 884
+      h Per:
+        name: NGC 869
+    fetched:
+      NGC 884:
+        type: Open Cluster
+        subtype: Very low disperation, large sized cluster with rich star density
+        ra: 02h 22m 32s
+        dec: 57° 8' 39"
+        aka:
+          - Chi Per
+      NGC 869:
+        type: Open Cluster
+        subtype: Very low disperation, large sized cluster with rich star density
+        ra: 02h 19m 03s
+        dec: 57° 8' 6"
+        aka:
+          - H Per
+          - Double Cluster
+          - H Persei
+
   C16:
     constellation: Lac
     type: open cluster

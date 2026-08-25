@@ -480,7 +480,7 @@ sketches:
       - 2026/c14-20260814.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002540.jpeg -c ../astro/orig/scan/20260814080955_001.jpg -x 55 -y 190 -o1 C14 --full-page
-    notes: FOV data represents a single circle, the maximum width is ~1.9°.
+    notes: FOV data represents a single circle, the maximum width of the double circle is ~1.15°.
 
   - full: 2026/c15-16-cyg-na-20260817.jpg
     scan: 2026/20260817000812_001.jpg

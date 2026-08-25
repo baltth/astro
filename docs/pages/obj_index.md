@@ -18,7 +18,7 @@
 - [C10](../obs/2026/c10-2026-06-06.md) - open cluster in Cassiopeia
 - [C13](../obs/2026/c13-2026-08-07.md) - open cluster in Cassiopeia
 - [C14](../obs/2026/c14-2026-08-13.md) - open clusters in Perseus
-- [C15](../obs/2026/c1516-cyg-2026-08-15.md) - planetary nebula in Cygnus
+- [C15](../obs/2026/c15-16-cyg-2026-08-15.md) - planetary nebula in Cygnus
 - [C16](../obs/2026/c16-2026-08-09.md) - open cluster in Lacerta
 - [C47](../obs/2025/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/2025/c50-2025-12-26.md) - open cluster in Monoceros
@@ -67,7 +67,7 @@
 - [1 Pegasi](../obs/2025/1-peg-2025-08-02.md) - star system in Pegasus
 - [11 Aquilae](../obs/2026/11-aql-2026-07-16.md) - double star in Aquila
 - [15 Aquilae](../obs/2025/15-aql-2025-08-27.md) - double star in Aquila
-- [16 Cygni](../obs/2026/c1516-cyg-2026-08-15.md) - triple star system in Cygnus
+- [16 Cygni](../obs/2026/c15-16-cyg-2026-08-15.md) - triple star system in Cygnus
 - [35 Piscium](../obs/2025/35-psc-2025-08-25.md) - triple star in Pisces
 - [57 Aquilae](../obs/2025/57-aql-2025-08-28.md) - double star in Aquila
 - [61 Cygni](../obs/2025/61-cyg-2025-08-19.md) - double star in Cygnus
@@ -185,10 +185,10 @@
 
 #### Cygnus
 
-- [16 Cygni](../obs/2026/c1516-cyg-2026-08-15.md) - triple star system in Cygnus
+- [16 Cygni](../obs/2026/c15-16-cyg-2026-08-15.md) - triple star system in Cygnus
 - [61 Cygni](../obs/2025/61-cyg-2025-08-19.md) - double star in Cygnus
 - [Beta Cygni](../obs/2025/beta-cyg-2025-07-19.md) - double star in Cygnus
-- [C15](../obs/2026/c1516-cyg-2026-08-15.md) - planetary nebula in Cygnus
+- [C15](../obs/2026/c15-16-cyg-2026-08-15.md) - planetary nebula in Cygnus
 - [Messier 29](../obs/2025/m29-2025-07-30.md) - open cluster in Cygnus
 - [Messier 39](../obs/2025/m39-2025-07-30.md) - open cluster in Cygnus
 

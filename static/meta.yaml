@@ -4,3 +4,11 @@ email: baltth@gmail.com
 image_note: YEAR - Balazs Toth - baltth@gmail.com - baltth.github.io/astro
 default_location: Dunaharaszti, HU
 
+images:
+  cutouts:
+    - 100%x60%
+    - 100%x57%+0+43%
+  enhance_mask: static/mask.png
+  mid_width: 1000
+  small_width: 200
+  jpg_quality: 95

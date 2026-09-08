@@ -478,16 +478,39 @@ sketches:
     scan: 2026/20260814080955_001.jpg
     sub:
       - 2026/c14-20260814.jpg
-    _cmd:
-      - astro-gen ../astro add -i ../astro/orig/inv/1000002540.jpeg -c ../astro/orig/scan/20260814080955_001.jpg -x 55 -y 190 -o1 C14 --full-page
     notes: FOV data represents a single circle, the maximum width of the double circle is ~1.15°.
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260814080955_001.jpg -f 55,190 -o1 C14 --full-page
+    _orig_cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002540.jpeg -c ../astro/orig/scan/20260814080955_001.jpg -x 55 -y 190 -o1 C14 --full-page
 
   - full: 2026/c15-16-cyg-na-20260817.jpg
     scan: 2026/20260817000812_001.jpg
     sub:
       - 2026/c15-16-cyg-20260817.jpg
-    _cmd:
-      - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -c ../astro/orig/scan/20260817000812_001.jpg -x 55 -y 145 -o1 'C15, 16 Cyg' --full-page
     notes: |
       It's hard to work with inverted green. I see nothing of what's drawn at red light,
       thus the result is too intensive, just like at [Saturn Nebula](../2025/c55-2025-06-30.md).
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260817000812_001.jpg -f 55,145 -o1 'C15, 16 Cyg' --full-page
+    _orig_cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -c ../astro/orig/scan/20260817000812_001.jpg -x 55 -y 145 -o1 'C15, 16 Cyg' --full-page
+
+  - full: 2026/c13-ngc-281-ic-1590-20260907.jpg
+    scan: 2026/20260907003841_001.jpg
+    sub:
+      - 2026/c13-20260907.jpg
+      - 2026/ngc-281-ic-1590-20260907.jpg
+    notes: |
+      Good skies but no good view. I was sitting in garden with a single dark place,
+      viewing only Cassiopeia, Andromeda and their close neighborhood.
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -i ../astro/orig/scan/20260907003841_001.jpg -f 55+170 -o1 C13 -o2 'NGC 281, IC 1590'
+
+  - full: 2026/m33-m76-20260908.jpg
+    scan: 2026/20260907004004_001.jpg
+    sub:
+      - 2026/m33-20260908.jpg
+      - 2026/m76-20260908.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260907004004_001.jpg -f 51,190 -o1 M33 -o2 M76 --simple

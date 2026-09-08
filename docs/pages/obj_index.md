@@ -16,14 +16,14 @@
 
 - [C6](../obs/2026/c6-2026-05-18.md) - planetary nebula in Draco
 - [C10](../obs/2026/c10-2026-06-06.md) - open cluster in Cassiopeia
-- [C13](../obs/2026/c13-2026-08-07.md) - open cluster in Cassiopeia
+- [C13](../obs/2026/c13-2026-08-19.md) - open cluster in Cassiopeia
 - [C14](../obs/2026/c14-2026-08-13.md) - open clusters in Perseus
 - [C15](../obs/2026/c15-16-cyg-2026-08-15.md) - planetary nebula in Cygnus
 - [C16](../obs/2026/c16-2026-08-09.md) - open cluster in Lacerta
 - [C47](../obs/2025/c47-2025-09-19.md) - globular cluster in Delphinus
 - [C50](../obs/2025/c50-2025-12-26.md) - open cluster in Monoceros
 - [C55](../obs/2025/c55-2025-06-30.md) - planetary nebula in Aquarius
-- [IC 1590](../obs/2026/ngc-281-ic-1590-2026-08-09.md) - open cluster in Cassiopeia
+- [IC 1590](../obs/2026/ngc-281-ic-1590-2026-08-19.md) - open cluster in Cassiopeia
 - [Messier 2](../obs/2025/m2-2025-07-28.md) - globular cluster in Aquarius
 - [Messier 5](../obs/2026/m5-2026-04-17.md) - globular cluster in Serpens
 - [Messier 8](../obs/2026/m8-2026-05-24.md) - emission nebula in Sagittarius
@@ -43,6 +43,7 @@
 - [Messier 30](../obs/2026/m30-2026-07-20.md) - globular cluster in Capricornus
 - [Messier 31](../obs/2025/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/2025/m31-m32-2025-07-19.md) - galaxy in Andromeda
+- [Messier 33](../obs/2026/m33-2026-08-19.md) - galaxy in Triangulum
 - [Messier 34](../obs/2025/m34-2025-08-18.md) - open cluster in Perseus
 - [Messier 39](../obs/2025/m39-2025-07-30.md) - open cluster in Cygnus
 - [Messier 42](../obs/2025/m42-m43-2025-11-18.md) - diffuse nebula in Orion
@@ -54,11 +55,12 @@
 - [Messier 57](../obs/2026/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/2026/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/2025/m71-2025-07-19.md) - globular cluster in Sagitta
+- [Messier 76](../obs/2026/m76-2026-08-23.md) - planetary nebula in Perseus
 - [Messier 92](../obs/2026/m92-2026-05-10.md) - globular cluster in Hercules
 - [Messier 103](../obs/2025/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [Messier 104](../obs/2026/m104-2026-04-18.md) - galaxy in Virgo
 - [Messier 110](../obs/2026/m110-2026-06-19.md) - galaxy in Andromeda
-- [NGC 281](../obs/2026/ngc-281-ic-1590-2026-08-09.md) - super nova remnant in Cassiopeia
+- [NGC 281](../obs/2026/ngc-281-ic-1590-2026-08-19.md) - super nova remnant in Cassiopeia
 - [NGC 2264](../obs/2025/ngc-2264-2025-12-26.md) - open cluster in Monoceros
 - [NGC 6633](../obs/2025/ngc-6633-2025-08-19.md) - open cluster in Ophiuchus
 
@@ -165,13 +167,13 @@
 #### Cassiopeia
 
 - [C10](../obs/2026/c10-2026-06-06.md) - open cluster in Cassiopeia
-- [C13](../obs/2026/c13-2026-08-07.md) - open cluster in Cassiopeia
+- [C13](../obs/2026/c13-2026-08-19.md) - open cluster in Cassiopeia
 - [Eta Cassiopeiae](../obs/2025/eta-cas-2025-08-04.md) - double star in Cassiopeia
-- [IC 1590](../obs/2026/ngc-281-ic-1590-2026-08-09.md) - open cluster in Cassiopeia
+- [IC 1590](../obs/2026/ngc-281-ic-1590-2026-08-19.md) - open cluster in Cassiopeia
 - [Iota Cassiopeiae](../obs/2025/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Messier 52](../obs/2026/m52-2026-06-19.md) - open cluster in Cassiopeia
 - [Messier 103](../obs/2025/m103-2025-09-15.md) - open cluster in Cassiopeia
-- [NGC 281](../obs/2026/ngc-281-ic-1590-2026-08-09.md) - super nova remnant in Cassiopeia
+- [NGC 281](../obs/2026/ngc-281-ic-1590-2026-08-19.md) - super nova remnant in Cassiopeia
 - [WZ Cassiopeiae](../obs/2025/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 
 #### Coma Berenices
@@ -263,6 +265,7 @@
 - [Epsilon Persei](../obs/2025/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Persei](../obs/2025/eta-per-2025-09-19.md) - binary star in Perseus
 - [Messier 34](../obs/2025/m34-2025-08-18.md) - open cluster in Perseus
+- [Messier 76](../obs/2026/m76-2026-08-23.md) - planetary nebula in Perseus
 
 #### Pisces
 
@@ -294,6 +297,10 @@
 
 - [Messier 45](../obs/2025/m45-2025-11-01.md) - open cluster in Taurus
 - [Penrose triangle](../obs/2025/penrose-triangle-2025-11-01.md) - asterism in Taurus
+
+#### Triangulum
+
+- [Messier 33](../obs/2026/m33-2026-08-19.md) - galaxy in Triangulum
 
 #### Ursa Major
 

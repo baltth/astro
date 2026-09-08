@@ -506,3 +506,11 @@ sketches:
       viewing only Cassiopeia, Andromeda and their close neighborhood.
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -i ../astro/orig/scan/20260907003841_001.jpg -f 55+170 -o1 C13 -o2 'NGC 281, IC 1590'
+
+  - full: 2026/m33-m76-20260908.jpg
+    scan: 2026/20260907004004_001.jpg
+    sub:
+      - 2026/m33-20260908.jpg
+      - 2026/m76-20260908.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260907004004_001.jpg -f 51,190 -o1 M33 -o2 M76 --simple

@@ -1183,6 +1183,27 @@ objects:
     aka:
       - NGC 221
 
+  M33:
+    constellation: Tri
+    type: galaxy
+    aka:
+      - NGC 598
+      - Triangulum Galaxy
+    fetched:
+      M 33:
+        type: Galaxy
+        subtype: Dwarf Spiral
+        ra: 01h 33m 36s
+        dec: 30° 39' 36"
+        aka:
+          - NGC 598
+          - UGC 1117
+          - MCG 5-4-69
+          - PGC 5818
+          - ZWG 502.110
+          - Triangulum Galaxy
+          - Triangulum/Pinwheel Galaxy
+
   M34:
     constellation: Per
     type: open cluster
@@ -1360,6 +1381,23 @@ objects:
         aka:
           - NGC 6838
           - Angelfish Cluster
+
+  M76:
+    constellation: Per
+    type: planetary nebula
+    aka:
+      - NGC 650
+      - Little Dumbbell Nebula
+    fetched:
+      M 76:
+        type: Planetary Nebula
+        subtype: Planetary Nebula
+        ra: 01h 42m 00s
+        dec: 51° 34' 48"
+        aka:
+          - NGC 650
+          - Little Dumbbell Sw
+          - Little Dumbbell Nebula
 
   M92:
     constellation: Her

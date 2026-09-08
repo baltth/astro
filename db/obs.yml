@@ -1291,3 +1291,26 @@ observations:
       Ten days after the [previous sketch](ngc-281-ic-1590-2026-08-09.md)
       I've made this as a comparison - much less light pollution, but the seeing is worse.
       This time I used no CLS.
+
+  - name: M33
+    img: 2026/m33-20260908.jpg
+    date: 2026-08-20 01:35
+    loc: Balatonudvari, HU
+    nelm: 5.0
+    seeing: 6
+    ap: 127
+    mag: 47
+    fov: 1.1
+    text: |
+      The first time I saw this like it's worth to sketch. It was definitely asymmetric,
+      being flat (or faint) on the East side.
+
+  - name: M76
+    img: 2026/m76-20260908.jpg
+    date: 2026-08-24 01:30
+    loc: Szent Balázs-hegy, Szentantalfa, HU
+    nelm: 5.5
+    seeing: 6-7
+    ap: 127
+    mag: 103
+    fov: 0.66

@@ -43,6 +43,7 @@
 - [Messier 30](../obs/2026/m30-2026-07-20.md) - globular cluster in Capricornus
 - [Messier 31](../obs/2025/m31-m32-2025-07-19.md) - galaxy in Andromeda
 - [Messier 32](../obs/2025/m31-m32-2025-07-19.md) - galaxy in Andromeda
+- [Messier 33](../obs/2026/m33-2026-08-19.md) - galaxy in Triangulum
 - [Messier 34](../obs/2025/m34-2025-08-18.md) - open cluster in Perseus
 - [Messier 39](../obs/2025/m39-2025-07-30.md) - open cluster in Cygnus
 - [Messier 42](../obs/2025/m42-m43-2025-11-18.md) - diffuse nebula in Orion
@@ -54,6 +55,7 @@
 - [Messier 57](../obs/2026/m57-2026-04-17.md) - planetary nebula in Lyra
 - [Messier 64](../obs/2026/m64-2026-04-08.md) - galaxy in Coma Berenices
 - [Messier 71](../obs/2025/m71-2025-07-19.md) - globular cluster in Sagitta
+- [Messier 76](../obs/2026/m76-2026-08-23.md) - planetary nebula in Perseus
 - [Messier 92](../obs/2026/m92-2026-05-10.md) - globular cluster in Hercules
 - [Messier 103](../obs/2025/m103-2025-09-15.md) - open cluster in Cassiopeia
 - [Messier 104](../obs/2026/m104-2026-04-18.md) - galaxy in Virgo
@@ -263,6 +265,7 @@
 - [Epsilon Persei](../obs/2025/epsilon-per-2025-09-19.md) - star system in Perseus
 - [Eta Persei](../obs/2025/eta-per-2025-09-19.md) - binary star in Perseus
 - [Messier 34](../obs/2025/m34-2025-08-18.md) - open cluster in Perseus
+- [Messier 76](../obs/2026/m76-2026-08-23.md) - planetary nebula in Perseus
 
 #### Pisces
 
@@ -294,6 +297,10 @@
 
 - [Messier 45](../obs/2025/m45-2025-11-01.md) - open cluster in Taurus
 - [Penrose triangle](../obs/2025/penrose-triangle-2025-11-01.md) - asterism in Taurus
+
+#### Triangulum
+
+- [Messier 33](../obs/2026/m33-2026-08-19.md) - galaxy in Triangulum
 
 #### Ursa Major
 

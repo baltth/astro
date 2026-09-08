@@ -495,3 +495,14 @@ sketches:
       - astro-gen ../astro add -i ../astro/orig/scan/20260817000812_001.jpg -f 55,145 -o1 'C15, 16 Cyg' --full-page
     _orig_cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -c ../astro/orig/scan/20260817000812_001.jpg -x 55 -y 145 -o1 'C15, 16 Cyg' --full-page
+
+  - full: 2026/c13-ngc-281-ic-1590-20260907.jpg
+    scan: 2026/20260907003841_001.jpg
+    sub:
+      - 2026/c13-20260907.jpg
+      - 2026/ngc-281-ic-1590-20260907.jpg
+    notes: |
+      Good skies but no good view. I was sitting in garden with a single dark place,
+      viewing only Cassiopeia, Andromeda and their close neighborhood.
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -i ../astro/orig/scan/20260907003841_001.jpg -f 55+170 -o1 C13 -o2 'NGC 281, IC 1590'

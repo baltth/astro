@@ -450,20 +450,24 @@ sketches:
       - 2026/m17-20260804.jpg
       - 2026/10p-tempel-20260804.jpg
     _cmd:
-      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002477.jpeg -c ../astro/orig/scan/20260804000507_001.jpg -x 45 -y 160 -o1 M17 -o2 10P/Tempel
-        -s 0.99
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/scan/20260804000507_001.jpg -f 45,160 -o1 M17 -o2 10P/Tempel
     notes: |
       I really like this place. A beautiful rural sky, perfect view to the South, and only a few lights from _Balaton._
       Unfortunately this night was disturbed by some clouds and moonshine.
 
       Note that the location on the sketch is _Tagyon._ That's incorrect, the mountain belongs to _Szentantalfa._
 
+    _orig_cmd:
+      - ./script/astro_gen.py ../astro add -i ../astro/orig/inv/1000002477.jpeg -c ../astro/orig/scan/20260804000507_001.jpg -x 45 -y 160 -o1 M17 -o2 10P/Tempel
+        -s 0.99
   - full: 2026/c13-saturn-20260813.jpg
-    scan: 2026/20260813073147_001.jpg
+    scan: 2026/20260919015757_001.jpg
     sub:
       - 2026/c13-20260813.jpg
       - 2026/saturn-20260813.jpg
     _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260919015757_001.jpg -f 55,190 -o1 C13 -o2 Saturn
+    _orig_cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002535.jpeg -c ../astro/orig/scan/20260813073147_001.jpg -x 55 -y 190 -o1 C13 -o2 Saturn
 
   - full: 2026/c16-ngc-281-ic-1590-20260813.jpg
@@ -472,6 +476,8 @@ sketches:
       - 2026/c16-20260813.jpg
       - 2026/ngc-281-ic-1590-20260813.jpg
     _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260813073737_001.jpg -f 55,190 -o1 C16 -o2 'NGC 281, IC 1590'
+    _orig_cmd:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002537.jpeg -c ../astro/orig/scan/20260813073737_001.jpg -x 55 -y 190 -o1 C16 -o2 'NGC 281, IC 1590'
 
   - full: 2026/c14-na-20260814.jpg
@@ -505,12 +511,11 @@ sketches:
       Good skies but no good view. I was sitting in garden with a single dark place,
       viewing only Cassiopeia, Andromeda and their close neighborhood.
     _cmd:
-      - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -i ../astro/orig/scan/20260907003841_001.jpg -f 55+170 -o1 C13 -o2 'NGC 281, IC 1590'
-
+      - astro-gen ../astro add -i ../astro/orig/scan/20260907003841_001.jpg -f 55+170 -o1 C13 -o2 'NGC 281, IC 1590'
   - full: 2026/m33-m76-20260908.jpg
     scan: 2026/20260907004004_001.jpg
     sub:
       - 2026/m33-20260908.jpg
       - 2026/m76-20260908.jpg
     _cmd:
-      - astro-gen ../astro add -i ../astro/orig/scan/20260907004004_001.jpg -f 51,190 -o1 M33 -o2 M76 --simple
+      - astro-gen ../astro add -i ../astro/orig/scan/20260907004004_001.jpg -f 51,190 -o1 M33 -o2 M76

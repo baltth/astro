@@ -1314,3 +1314,25 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
+
+  - name: V488 Sge
+    img: 2026/v488-sge-20260928.jpg
+    date: 2026-09-09 00:10
+    nelm: 4.4
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66
+    text: |
+      Two weeks after the discovery I managed to observe 'Nova Sagittae 2026'.
+      I guessed its magnitude to 10.5, compared to the surrounding 10.8 to 10.2 stars.
+      It declines fast as in the first days it was measured between 6-7.
+
+  - name: Gamma Del
+    img: 2026/gamma-del-20260928.jpg
+    date: 2026-09-09 01:00
+    nelm: 44
+    seeing: 7
+    ap: 127
+    mag: 103
+    fov: 0.66

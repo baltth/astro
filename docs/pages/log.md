@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-09-08: [Gamma Delphini](../obs/2026/gamma-del-2026-09-08.md)
+- 2026-09-08: [V488 Sagittae](../obs/2026/v488-sge-2026-09-08.md)
 - 2026-08-23: [Messier 76](../obs/2026/m76-2026-08-23.md)
 - 2026-08-19: [Messier 33](../obs/2026/m33-2026-08-19.md)
 - 2026-08-19: [NGC 281, IC 1590](../obs/2026/ngc-281-ic-1590-2026-08-19.md)

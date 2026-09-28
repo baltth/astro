@@ -87,7 +87,7 @@
 - [Eta Persei](../obs/2025/eta-per-2025-09-19.md) - binary star in Perseus
 - [Gamma Andromedae](../obs/2025/gamma-and-2025-07-19.md) - star system in Andromeda
 - [Gamma Arietis](../obs/2025/gamma-ari-2025-09-15.md) - star system in Aries
-- [Gamma Delphini](../obs/2025/gamma-del-2025-06-30.md) - double star in Delphinus
+- [Gamma Delphini](../obs/2026/gamma-del-2026-09-08.md) - double star in Delphinus
 - [Iota Cassiopeiae](../obs/2025/iota-cas-2025-08-28.md) - star system in Cassiopeia
 - [Kappa Herculis](../obs/2025/kappa-her-2025-07-14.md) - double star in Hercules
 - [Lambda Arietis](../obs/2025/lambda-ari-2025-09-15.md) - double star in Aries
@@ -98,6 +98,7 @@
 - [STF 2841](../obs/2025/stf-2841-2025-08-02.md) - double star in Pegasus
 - [Tau Ophiuchi](../obs/2026/tau-oph-2026-06-15.md) - star system in Ophiuchus
 - [Theta Serpentis](../obs/2025/theta-ser-2025-08-06.md) - double star in Serpens
+- [V488 Sagittae](../obs/2026/v488-sge-2026-09-08.md) - nova in Sagitta
 - [V Aquilae](../obs/2025/v-aql-2025-06-27.md) - carbon star in Aquila
 - [WZ Cassiopeiae](../obs/2025/wz-cas-2025-06-27.md) - carbon star in Cassiopeia
 - [Zeta Aquarii](../obs/2026/zeta-aqr-2026-07-20.md) - triple star system in Aquarius
@@ -197,7 +198,7 @@
 #### Delphinus
 
 - [C47](../obs/2025/c47-2025-09-19.md) - globular cluster in Delphinus
-- [Gamma Delphini](../obs/2025/gamma-del-2025-06-30.md) - double star in Delphinus
+- [Gamma Delphini](../obs/2026/gamma-del-2026-09-08.md) - double star in Delphinus
 
 #### Draco
 
@@ -274,6 +275,7 @@
 #### Sagitta
 
 - [Messier 71](../obs/2025/m71-2025-07-19.md) - globular cluster in Sagitta
+- [V488 Sagittae](../obs/2026/v488-sge-2026-09-08.md) - nova in Sagitta
 
 #### Sagittarius
 

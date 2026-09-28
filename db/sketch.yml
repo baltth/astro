@@ -519,3 +519,11 @@ sketches:
       - 2026/m76-20260908.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/scan/20260907004004_001.jpg -f 51,190 -o1 M33 -o2 M76
+
+  - full: 2026/v488-sge-gamma-del-20260928.jpg
+    scan: 2026/20260919015257_001.jpg
+    sub:
+      - 2026/v488-sge-20260928.jpg
+      - 2026/gamma-del-20260928.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260919015257_001.jpg -f 70,155 -o1 'V488 Sge' -o2 'Gamma Del'

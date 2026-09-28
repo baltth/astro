@@ -1711,6 +1711,15 @@ objects:
     constellation: Solar System
     type: planet
 
+  V488 Sge:
+    constellation: Sge
+    type: nova
+    aka:
+      - Nova Sagittae 2026
+    ra: 19h 45m 06.48s
+    dec: +18° 22' 42.2"
+    mag: 10.5
+
   V Aql:
     constellation: Aql
     type: carbon star

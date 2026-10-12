@@ -1,6 +1,6 @@
 # Aristarchus, Herodotus
 
-[Main page](../../index.md) -- [Index](../../pages/obj_index.md) -- [Previous: Aristarchus, Herodotus on 2025-09-04](../../obs/2025/aristarchus-herodotus-2025-09-04.md)
+[Main page](../../index.md) -- [Index](../../pages/obj_index.md) -- [Previous: Aristarchus, Herodotus on 2025-09-04](../../obs/2025/aristarchus-herodotus-2025-09-04.md) -- [Next: Aristarchus, Herodotus on 2026-08-29](../../obs/2026/aristarchus-herodotus-2026-08-29.md)
 
 _Aristarchus_ -- _Crater in Moon_  
 _Herodotus_ -- _Crater in Moon_  
@@ -40,3 +40,4 @@ Size | 40 km | 35 km
 - [Full sketch](../../img/2025/fracastorius-aristarchus-herodotus-20250912.jpg)
 - [Original sketch](../../scan/2025/20250912075516_001.jpg)
 - [Previous: Aristarchus, Herodotus on 2025-09-04](../../obs/2025/aristarchus-herodotus-2025-09-04.md)
+- [Next: Aristarchus, Herodotus on 2026-08-29](../../obs/2026/aristarchus-herodotus-2026-08-29.md)

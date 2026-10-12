@@ -1146,6 +1146,19 @@ observations:
     text: |
       Well, this was not the best view of this nebula, but still worth to see. Maybe next time...
 
+  - name:
+      - Hommel
+      - Pitiscus
+    img: 2026/hommel-pitiscus-20260929.jpg
+    date: 2026-08-03 00:50
+    nelm: 3.8
+    seeing: 5
+    ap: 127
+    mag: 103
+    fov: ~220 km
+    data:
+      Age of Moon: 19 days
+
   - name: 10P/Tempel
     img: 2026/10p-tempel-20260804.jpg
     date: 2026-07-25 01:30
@@ -1315,6 +1328,36 @@ observations:
     mag: 103
     fov: 0.66
 
+  - name:
+      - Aristarchus
+      - Herodotus
+    img: 2026/aristarchus-herodotus-20260929.jpg
+    date: 2026-08-30 01:20
+    seeing: 7-8
+    ap: 127
+    mag: 171
+    fov: ~200 km
+    data:
+      Age of Moon: 16.6 days
+    text: |
+      Last year I've created two drawing of these at the age of 12 and 14 days.
+      Now I had the idea to make a series to explore how it evolves. To be continued.
+
+  - name:
+      - Aristarchus
+      - Herodotus
+    img: 2026/aristarchus-herodotus-20260929-2.jpg
+    date: 2026-09-03 00:20
+    seeing: 5-6
+    ap: 127
+    mag: 171
+    fov: ~200 km
+    data:
+      Age of Moon: 20.7 days
+    text: |
+      Fifth part of the Aristarchus series (20th day). Now that I've added two to the original ones from 2025,
+      I'm pretty sure that I have to redraw the old ones.
+
   - name: V488 Sge
     img: 2026/v488-sge-20260928.jpg
     date: 2026-09-09 00:10
@@ -1336,3 +1379,16 @@ observations:
     ap: 127
     mag: 103
     fov: 0.66
+
+  - name:
+      - Vendelinus
+      - Lamé
+      - Holden
+    img: 2026/vendelinus-lame-holden-20260929.jpg
+    date: 2026-09-28 00:20
+    seeing: 5
+    ap: 127
+    mag: 171
+    fov: ~280 km
+    data:
+      Age of Moon: 16.1 days

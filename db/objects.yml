@@ -803,6 +803,20 @@ objects:
       coordinates: 23.2°N 49.7°W
       size: 35 km
 
+  Holden:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 19.19°S 62.53°E
+      size: 48 km
+
+  Hommel:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 54.6°S 33.0°E
+      size: 120 km
+
   IC 1590:
     constellation: Cas
     type: open cluster
@@ -904,6 +918,13 @@ objects:
         aka:
           - HIP 9153
           - HR 569
+
+  Lamé:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 14.7°S 64.5°E
+      size: 84 km
 
   Langrenus:
     constellation: Moon
@@ -1569,6 +1590,13 @@ objects:
     constellation: Peg
     type: star
 
+  Pitiscus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 50.61°S 30.57°E
+      size: 80 km
+
   Psi-1 Dra:
     constellation: Dra
     type: star system
@@ -1723,6 +1751,13 @@ objects:
   V Aql:
     constellation: Aql
     type: carbon star
+
+  Vendelinus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 16.46°S 61.55°E
+      size: 147 km
 
   WZ Cas:
     constellation: Cas

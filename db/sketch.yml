@@ -528,3 +528,20 @@ sketches:
       - 2026/gamma-del-20260928.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/scan/20260919015257_001.jpg -f 70,155 -o1 'V488 Sge' -o2 'Gamma Del'
+
+  - full: 2026/hommel-pitiscus-aristarchus-herodotus-20260929.jpg
+    scan: 2026/20260907003522_001.jpg
+    sub:
+      - 2026/hommel-pitiscus-20260929.jpg
+      - 2026/aristarchus-herodotus-20260929.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260907003522_001.jpg -f 45+145 --positive -o1 'Hommel, Pitiscus' -o2 'Aristarchus, Herodotus'
+
+  - full: 2026/vendelinus-lame-holden-aristarchus-herodotus-20260929.jpg
+    scan: 2026/20260929004022_001.jpg
+    sub:
+      - 2026/vendelinus-lame-holden-20260929.jpg
+      - 2026/aristarchus-herodotus-20260929-2.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260929004022_001.jpg -f 60+185 --positive -o1 'Vendelinus, Lamé, Holden' -o2 'Aristarchus, Herodotus' 
+        --new

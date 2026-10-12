@@ -587,12 +587,26 @@ objects:
     type: comet
     desc: Hyperbolic Oort cloud comet
 
+  Cassini:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 40.25°N 4.64°E
+      size: 57 km
+
   Catharina:
     constellation: Moon
     type: crater
     data:
       coordinates: 18.0°S 23.6°E
       size: 100 km
+
+  Censorinus N:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 1.9°S 36.5°E
+      size: 36 km
 
   Cyrillus:
     constellation: Moon
@@ -796,12 +810,33 @@ objects:
       coordinates: 17.55°S 39.96°W
       size: 111 km
 
+  Heraclitus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 49.2°S 6.2°E
+      size: 90 km
+
   Herodotus:
     constellation: Moon
     type: crater
     data:
       coordinates: 23.2°N 49.7°W
       size: 35 km
+
+  Holden:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 19.19°S 62.53°E
+      size: 48 km
+
+  Hommel:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 54.6°S 33.0°E
+      size: 120 km
 
   IC 1590:
     constellation: Cas
@@ -905,12 +940,40 @@ objects:
           - HIP 9153
           - HR 569
 
+  Lamé:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 14.7°S 64.5°E
+      size: 84 km
+
   Langrenus:
     constellation: Moon
     type: crater
     data:
       coordinates: 8.9°S 60.9°E
       size: 132 km
+
+  Leakey:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 3.2°S 37.4°E
+      size: 12 km
+
+  Licetus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 47.1°S 6.7°E
+      size: 75 km
+
+  Lubbock N:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 1.5°S 39.7°E
+      size: 26 km
 
   M2:
     constellation: Aqr
@@ -1569,6 +1632,13 @@ objects:
     constellation: Peg
     type: star
 
+  Pitiscus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 50.61°S 30.57°E
+      size: 80 km
+
   Psi-1 Dra:
     constellation: Dra
     type: star system
@@ -1711,9 +1781,25 @@ objects:
     constellation: Solar System
     type: planet
 
+  V488 Sge:
+    constellation: Sge
+    type: nova
+    aka:
+      - Nova Sagittae 2026
+    ra: 19h 45m 06.48s
+    dec: +18° 22' 42.2"
+    mag: 10.5
+
   V Aql:
     constellation: Aql
     type: carbon star
+
+  Vendelinus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 16.46°S 61.55°E
+      size: 147 km
 
   WZ Cas:
     constellation: Cas

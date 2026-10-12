@@ -503,15 +503,16 @@ sketches:
       - astro-gen ../astro add -i ../astro/orig/inv/1000002548.jpeg -c ../astro/orig/scan/20260817000812_001.jpg -x 55 -y 145 -o1 'C15, 16 Cyg' --full-page
 
   - full: 2026/c13-ngc-281-ic-1590-20260907.jpg
-    scan: 2026/20260907003841_001.jpg
+    scan: 2026/20260929005332_001.jpg
     sub:
       - 2026/c13-20260907.jpg
       - 2026/ngc-281-ic-1590-20260907.jpg
     notes: |
       Good skies but no good view. I was sitting in garden with a single dark place,
-      viewing only Cassiopeia, Andromeda and their close neighborhood.
+      having a sight only to Cassiopeia, Andromeda and their close neighborhood.
     _cmd:
-      - astro-gen ../astro add -i ../astro/orig/scan/20260907003841_001.jpg -f 55+170 -o1 C13 -o2 'NGC 281, IC 1590'
+      - astro-gen ../astro add -i ../astro/orig/scan/20260929005332_001.jpg -f 75+170 -o1 C13 -o2 'NGC 281, IC 1590'
+
   - full: 2026/m33-m76-20260908.jpg
     scan: 2026/20260907004004_001.jpg
     sub:
@@ -519,3 +520,45 @@ sketches:
       - 2026/m76-20260908.jpg
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/scan/20260907004004_001.jpg -f 51,190 -o1 M33 -o2 M76
+
+  - full: 2026/v488-sge-gamma-del-20260928.jpg
+    scan: 2026/20260919015257_001.jpg
+    sub:
+      - 2026/v488-sge-20260928.jpg
+      - 2026/gamma-del-20260928.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260919015257_001.jpg -f 70,155 -o1 'V488 Sge' -o2 'Gamma Del'
+
+  - full: 2026/hommel-pitiscus-aristarchus-herodotus-20260929.jpg
+    scan: 2026/20260907003522_001.jpg
+    sub:
+      - 2026/hommel-pitiscus-20260929.jpg
+      - 2026/aristarchus-herodotus-20260929.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260907003522_001.jpg -f 45+145 --positive -o1 'Hommel, Pitiscus' -o2 'Aristarchus, Herodotus'
+
+  - full: 2026/vendelinus-lame-holden-aristarchus-herodotus-20260929.jpg
+    scan: 2026/20260929004022_001.jpg
+    sub:
+      - 2026/vendelinus-lame-holden-20260929.jpg
+      - 2026/aristarchus-herodotus-20260929-2.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20260929004022_001.jpg -f 60+185 --positive -o1 'Vendelinus, Lamé, Holden' -o2 'Aristarchus, Herodotus' 
+        --new
+
+  - full: 2026/leakey-censorinus-n-lubbock-n-cassini-20261013.jpg
+    scan: 2026/20261005023025_001.jpg
+    sub:
+      - 2026/leakey-censorinus-n-lubbock-n-20261013.jpg
+      - 2026/cassini-20261013.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20261005023025_001.jpg -f 30+180 -c 90%x47%+8%+0 93%x43%+5%+53% --simple --positive -o1 'Leakey, Censorinus
+        N, Lubbock N' -o2 Cassini
+
+  - full: 2026/heraclitus-licetus-na-20261013.jpg
+    scan: 2026/20261005023143_001.jpg
+    sub:
+      - 2026/heraclitus-licetus-20261013.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20261005023143_001.jpg -f 30+180 -c 83%x85%+4%+10% --simple --positive --full-page -o1 'Heraclitus, 
+        Licetus'

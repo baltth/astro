@@ -8,6 +8,8 @@
 
 ## Latest
 
+- 2026-10-09: [Cassini](obs/2026/cassini-2026-10-09.md)
+- 2026-09-29: [Leakey, Censorinus N, Lubbock N](obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md)
 - 2026-09-27: [Vendelinus, Lamé, Holden](obs/2026/vendelinus-lame-holden-2026-09-27.md)
 - 2026-09-08: [Gamma Delphini](obs/2026/gamma-del-2026-09-08.md)
 - 2026-09-08: [V488 Sagittae](obs/2026/v488-sge-2026-09-08.md)
@@ -16,8 +18,6 @@
 - 2026-08-23: [Messier 76](obs/2026/m76-2026-08-23.md)
 - 2026-08-19: [Messier 33](obs/2026/m33-2026-08-19.md)
 - 2026-08-19: [NGC 281, IC 1590](obs/2026/ngc-281-ic-1590-2026-08-19.md)
-- 2026-08-19: [C13](obs/2026/c13-2026-08-19.md)
-- 2026-08-15: [C15, 16 Cygni](obs/2026/c15-16-cyg-2026-08-15.md)
 
 ---
 

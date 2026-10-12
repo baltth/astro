@@ -587,12 +587,26 @@ objects:
     type: comet
     desc: Hyperbolic Oort cloud comet
 
+  Cassini:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 40.25°N 4.64°E
+      size: 57 km
+
   Catharina:
     constellation: Moon
     type: crater
     data:
       coordinates: 18.0°S 23.6°E
       size: 100 km
+
+  Censorinus N:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 1.9°S 36.5°E
+      size: 36 km
 
   Cyrillus:
     constellation: Moon
@@ -932,6 +946,20 @@ objects:
     data:
       coordinates: 8.9°S 60.9°E
       size: 132 km
+
+  Leakey:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 3.2°S 37.4°E
+      size: 12 km
+
+  Lubbock N:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 1.5°S 39.7°E
+      size: 26 km
 
   M2:
     constellation: Aqr

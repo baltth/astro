@@ -2,6 +2,8 @@
 
 [Main page](../index.md) -- [Index](../pages/obj_index.md)
 
+- 2026-10-09: [Cassini](../obs/2026/cassini-2026-10-09.md)
+- 2026-09-29: [Leakey, Censorinus N, Lubbock N](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md)
 - 2026-09-27: [Vendelinus, Lamé, Holden](../obs/2026/vendelinus-lame-holden-2026-09-27.md)
 - 2026-09-08: [Gamma Delphini](../obs/2026/gamma-del-2026-09-08.md)
 - 2026-09-08: [V488 Sagittae](../obs/2026/v488-sge-2026-09-08.md)

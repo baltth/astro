@@ -1392,3 +1392,28 @@ observations:
     fov: ~280 km
     data:
       Age of Moon: 16.1 days
+
+  - name:
+      - Leakey
+      - Censorinus N
+      - Lubbock N
+    img: 2026/leakey-censorinus-n-lubbock-n-20261013.jpg
+    date: 2026-09-29 23:30
+    seeing: 6-7
+    ap: 127
+    mag: 171
+    fov: ~200 km
+    data:
+      Age of Moon: 18.2 days
+    text: |
+      A squirrel-tailed dog catching the frisbee... 
+
+  - name: Cassini
+    img: 2026/cassini-20261013.jpg
+    date: 2026-10-10 00:10
+    seeing: 5
+    ap: 127
+    mag: 220
+    fov: ~110 km
+    data:
+      Age of Moon: 20.4 days

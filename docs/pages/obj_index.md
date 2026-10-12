@@ -110,7 +110,9 @@
 - [Aristarchus](../obs/2026/aristarchus-herodotus-2026-09-02.md) - crater in Moon
 - [Aristillus](../obs/2025/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [Autolycus](../obs/2025/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
+- [Cassini](../obs/2026/cassini-2026-10-09.md) - crater in Moon
 - [Catharina](../obs/2026/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
+- [Censorinus N](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md) - crater in Moon
 - [Cyrillus](../obs/2026/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Fracastorius](../obs/2025/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/2025/gassendi-2025-10-03.md) - crater in Moon
@@ -119,6 +121,8 @@
 - [Hommel](../obs/2026/hommel-pitiscus-2026-08-02.md) - crater in Moon
 - [Lamé](../obs/2026/vendelinus-lame-holden-2026-09-27.md) - crater in Moon
 - [Langrenus](../obs/2026/langrenus-2026-04-03.md) - crater in Moon
+- [Leakey](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md) - crater in Moon
+- [Lubbock N](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md) - crater in Moon
 - [Petavius](../obs/2025/petavius-2025-10-08.md) - crater in Moon
 - [Pitiscus](../obs/2026/hommel-pitiscus-2026-08-02.md) - crater in Moon
 - [Theophilus](../obs/2026/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
@@ -335,7 +339,9 @@
 - [Autolycus](../obs/2025/archimedes-aristillus-autolycus-2025-08-14.md) - crater in Moon
 - [C/2025 A6](../obs/2025/c-2025-a6-2025-10-18.md) - comet in Solar System
 - [C/2025 R3](../obs/2026/c-2025-r3-2026-04-11.md) - comet in Solar System
+- [Cassini](../obs/2026/cassini-2026-10-09.md) - crater in Moon
 - [Catharina](../obs/2026/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
+- [Censorinus N](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md) - crater in Moon
 - [Cyrillus](../obs/2026/catharina-cyrillus-theophilus-2026-03-24.md) - crater in Moon
 - [Fracastorius](../obs/2025/fracastorius-2025-09-11.md) - crater in Moon
 - [Gassendi](../obs/2025/gassendi-2025-10-03.md) - crater in Moon
@@ -345,6 +351,8 @@
 - [Jupiter](../obs/2025/jupiter-2025-12-26.md) - planet in Solar System
 - [Lamé](../obs/2026/vendelinus-lame-holden-2026-09-27.md) - crater in Moon
 - [Langrenus](../obs/2026/langrenus-2026-04-03.md) - crater in Moon
+- [Leakey](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md) - crater in Moon
+- [Lubbock N](../obs/2026/leakey-censorinus-n-lubbock-n-2026-09-29.md) - crater in Moon
 - [Mars](../obs/2026/mars-uranus-2026-07-03.md) - planet in Solar System
 - [Petavius](../obs/2025/petavius-2025-10-08.md) - crater in Moon
 - [Pitiscus](../obs/2026/hommel-pitiscus-2026-08-02.md) - crater in Moon

@@ -545,3 +545,12 @@ sketches:
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/scan/20260929004022_001.jpg -f 60+185 --positive -o1 'Vendelinus, Lamé, Holden' -o2 'Aristarchus, Herodotus' 
         --new
+
+  - full: 2026/leakey-censorinus-n-lubbock-n-cassini-20261013.jpg
+    scan: 2026/20261005023025_001.jpg
+    sub:
+      - 2026/leakey-censorinus-n-lubbock-n-20261013.jpg
+      - 2026/cassini-20261013.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20261005023025_001.jpg -f 30+180 -c 90%x47%+8%+0 93%x43%+5%+53% --simple --positive -o1 'Leakey, Censorinus
+        N, Lubbock N' -o2 Cassini

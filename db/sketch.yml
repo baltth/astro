@@ -554,3 +554,11 @@ sketches:
     _cmd:
       - astro-gen ../astro add -i ../astro/orig/scan/20261005023025_001.jpg -f 30+180 -c 90%x47%+8%+0 93%x43%+5%+53% --simple --positive -o1 'Leakey, Censorinus
         N, Lubbock N' -o2 Cassini
+
+  - full: 2026/heraclitus-licetus-na-20261013.jpg
+    scan: 2026/20261005023143_001.jpg
+    sub:
+      - 2026/heraclitus-licetus-20261013.jpg
+    _cmd:
+      - astro-gen ../astro add -i ../astro/orig/scan/20261005023143_001.jpg -f 30+180 -c 83%x85%+4%+10% --simple --positive --full-page -o1 'Heraclitus, 
+        Licetus'

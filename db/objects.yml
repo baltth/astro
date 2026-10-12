@@ -810,6 +810,13 @@ objects:
       coordinates: 17.55°S 39.96°W
       size: 111 km
 
+  Heraclitus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 49.2°S 6.2°E
+      size: 90 km
+
   Herodotus:
     constellation: Moon
     type: crater
@@ -953,6 +960,13 @@ objects:
     data:
       coordinates: 3.2°S 37.4°E
       size: 12 km
+
+  Licetus:
+    constellation: Moon
+    type: crater
+    data:
+      coordinates: 47.1°S 6.7°E
+      size: 75 km
 
   Lubbock N:
     constellation: Moon

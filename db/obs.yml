@@ -1410,10 +1410,22 @@ observations:
 
   - name: Cassini
     img: 2026/cassini-20261013.jpg
-    date: 2026-10-10 00:10
+    date: 2026-10-02 00:10
     seeing: 5
     ap: 127
     mag: 220
     fov: ~110 km
     data:
       Age of Moon: 20.4 days
+
+  - name:
+      - Heraclitus
+      - Licetus
+    img: 2026/heraclitus-licetus-20261013.jpg
+    date: 2026-10-03 00:20
+    seeing: 4
+    ap: 127
+    mag: 220
+    fov: ~200 km
+    data:
+      Age of Moon: 21.4 days
